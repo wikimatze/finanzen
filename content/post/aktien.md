@@ -2,7 +2,7 @@
 date = "2019-02-10T08:08:45+01:00"
 title = "Aktien"
 titleAddition = "Wie ich Aktien auswähle und bewerte"
-draft = false
+draft = true
 featuredImage = "/aktien.jpg"
 description = "Eine Aktie ist ein Wertpapier, welches einen bestimmten Wert an einem Unternehmen darstellt. Aktien dienen Unternehmen der Kapitalbeschaffung, mit denen Sie sich höhere Gewinne erhoffen, z.B. Bau neuer Produktionsstätten, Erforschung neuer Produkte usw."
 tags = [

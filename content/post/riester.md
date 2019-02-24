@@ -2,7 +2,7 @@
 date = "2019-02-10T08:08:45+01:00"
 title = "Riester"
 titleAddition = "Meine Erfahrungen damit"
-draft = false
+draft = true
 featuredImage = "/riester.jpg"
 description = "Altersvorsorge? Finanzen? Alles Dinge, die mich vor zwei Jahren noch nicht interessiert haben. Und dann hatte mich mein Vater dazu überredet einen Riesetvertag abzuschließen."
 tags = [
