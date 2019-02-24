@@ -37,6 +37,11 @@ Anschließend kann die Seite unter <http://localhost:1313/> betrachtet werden.
 - [shariff](https://github.com/heiseonline/shariff "shariff") für die Teilen Links auf facebook und twitter
 
 
+# Deployment
+
+Ich benutze Umgebungsvariablen: `export HUGO_ENV='production' && rake deploy && export HUGO_ENV='staging'`
+
+
 # Sonstige Vereinbarungen
 
 - Bilder haben eine Größe von 800px x 555px (zum Skalieren hab ich [gimp](https://www.gimp.org/ "gimp") verwendet)
