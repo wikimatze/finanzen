@@ -1,0 +1,3 @@
+[submodule "themes/onepress"]
+	path = themes/onepress
+	url = https://github.com/ijsucceed/onepress.git
