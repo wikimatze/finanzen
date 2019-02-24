@@ -31,7 +31,7 @@ configDir = "config"
 
     #facebook
     ogLocale = "de-DE"
-    ogSiteName = "stagingstagingfinanzen.wikimatze.de"
+    ogSiteName = "finanzen.wikimatze.de"
 
     # Widget
     widgets = true
