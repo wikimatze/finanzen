@@ -14,7 +14,7 @@ task :staging do
 end
 
 desc 'Deploy'
-task :deploy => :b  do
+task :deploy do
   puts 'Building hugo ..'.bold.green
   system 'hugo'
 
