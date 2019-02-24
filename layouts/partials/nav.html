@@ -1,0 +1,7 @@
+<ul>
+    <li><a href='{{ .Site.BaseURL }}'>Blog</a></li>
+    <li><a href='/ueber-mich'>Über mich</a></li>
+    {{ if .Site.Params.subscribeLink }}
+        <li><a href="{{ .Site.Params.subscribeLink }}" target="blank">Subscribe</a></li>
+    {{ end }}
+</ul>

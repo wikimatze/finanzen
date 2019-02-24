@@ -1,0 +1,67 @@
+{{ define "main" }}
+  <article class="single">
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.tags }}
+    <section class="extras">
+        <span class="tags">
+          <small class="time">{{ .Date.Format "January 2, 2006" }}</small>
+             , geschrieben unter
+
+             {{range .Params.tags}}
+                ,<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+             {{end}}
+						{{ if .Params.featuredImage  }}
+            | <a href="{{ .Permalink }}#comments"><span id="cmtcount"></span> Kommentare</a>
+						{{ end }}
+        </span>
+    </section>
+    {{end}}
+    {{ if .Params.featuredImage }}
+    <section class="featuredImage">
+        <img src="{{ .Params.featuredImage }}" alt="{{ .Title }}">
+    </section>
+    {{ end }}
+    <section id="content" class="body">
+        {{ .Content }}
+        {{ if .Params.tags }}
+        {{ if .PrevInSection }}
+        <a class="float-left" href="{{.PrevInSection.Permalink}}">Vorheriger Artikel</a>
+        {{ end }}
+        {{ if .NextInSection }}
+        <a class="float-right" href="{{.NextInSection.Permalink}}">Nächster Artikel</a>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <!-- You can add a call to action here -->
+
+  </article>
+  {{ partial "share.html" . }}
+  {{ partial "author.html" . }}
+  {{ if .Params.featuredImage  }}
+  <div id="hashover"></div>
+  <script defer src="/hashover.php"></script>
+  {{ end }}
+  {{ if eq (getenv "HUGO_ENV") "production" }}
+  <!-- Matomo -->
+  <script type="text/javascript">
+    var _paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//finanzen.wikimatze.de/matomo/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
+  {{ end }}
+{{ end }}
+
+{{ define "widgets" }}
+  {{ partial "widgets.html" . }}
+{{ end }}
+

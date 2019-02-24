@@ -1,0 +1,48 @@
+baseurl = "https://finanzen.wikimatze.de"
+languageCode = "de-DE"
+title = "Finanzen, Aktien, Geldanlage für Informatiker"
+description = "hallo"
+config = "config.toml"
+theme = "onepress"
+tags = ["blog", "SEO"]
+copyright = ""
+canonifyURLS = true
+paginate = 15
+configDir = "config"
+
+[params]
+    author = "Matthias Günther"
+    bio = "Ich heiße Matthias, bin Diplom-Informatiker und arbeite als Softwareentwickler/Agile Coach bei https://www.my-hammer.de Seit Ende 2018 beschäftige ich mich mit Finanzen und schreibe meine Gedanken und Erfahrungen hierzu nieder."
+    logo = "/logo.png"
+    description = "Finanzen, Aktien, Geldanlage, Investionen und Geldmanagament für Informatiker geschrieben von wikimatze"
+    avatar = "https://pbs.twimg.com/profile_images/790583330970402816/SsjCw-qH_400x400.jpg"
+    opengraphImage = "https://pbs.twimg.com/profile_images/790583330970402816/SsjCw-qH_400x400.jpg"
+    enableRSS = true
+
+    customCSS = true
+    readMore = "Weiterlesen"
+
+    # Social
+    twitter  = "https://twitter.com/finanzmatze"
+    github   = "https://github.com/wikimatze/finanzen"
+
+    # twitter-card
+    twitterCreator = "wikimatze"
+
+    #facebook
+    ogLocale = "de-DE"
+    ogSiteName = "stagingstagingfinanzen.wikimatze.de"
+
+    # Widget
+    widgets = true
+
+    # Author box and Share button
+    authorCard = true
+    shareButton = false
+
+    # Code highlighting with highlight.js
+    highlightJS = false
+
+    # post title addition
+    title = "finanzmatze - Finanzen, Aktien, Geldanlage für Informatiker"
+

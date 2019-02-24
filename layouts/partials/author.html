@@ -1,0 +1,15 @@
+{{ if .Params.featuredImage }}
+<div class="author-card">
+    <div class="author-dp">
+        <img src="{{ .Site.Params.avatar }}" alt=".Site.Param.name" />
+    </div>
+    <div class="author-bio">
+        <h4 class="author-title">
+         Über mich
+        </h4>
+        <div class="author-description">
+          Ich heiße Matthias, arbeite als Softwareentwickler/Agile Coach und beschäftige mich Seit Ende 2018 mit Finanzen.
+        </div>
+    </div>
+</div>
+{{ end}}

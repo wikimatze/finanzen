@@ -1,0 +1,26 @@
+{{ range where .Paginator.Pages "Section" "ne" "" }}
+<article class="list">
+  <a href='{{ .Permalink }}'><h2 class="title">{{ .LinkTitle }}</h2></a>
+  <span class="tags">
+   {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}
+  {{ if .Params.tags }}
+     , geschrieben unter
+     {{range .Params.tags}}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+     {{end}}
+     | <a href="{{ .Permalink }}#comments"> Kommentare</a>
+  {{end}}
+  </span>
+  {{ if .Params.featuredImage  }}
+  <a href='{{ .Permalink }}'><span class="image" style="background-image: url({{.Params.featuredimage }})"></span></a>
+  {{ end }}
+  <span class="intro">{{ .Description | markdownify }}</span>
+  <a href='{{ .Permalink }}' class="read-more">
+      {{ if .Site.Params.readMore }}
+          {{.Site.Params.readMore}}
+      {{ else }}
+          Read Up
+      {{ end }}
+  </a>
+</article>
+{{ end }}

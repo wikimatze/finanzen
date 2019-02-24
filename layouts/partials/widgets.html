@@ -1,0 +1,56 @@
+<div class="widgets">
+  <section itemscope itemtype="https://schema.org/Person" class="widget socials">
+    <h2 class="widget-title">Soziales</h2>
+    <ul>
+        {{ if .Site.Params.facebook }}
+        <li><a href="{{ .Site.Params.facebook }}"><i class="fa fa-facebook"></i></a></li>
+        {{ end }}
+        {{ if .Site.Params.twitter }}
+        <li><a href="{{ .Site.Params.twitter }}"><i class="fa fa-twitter"></i></a></li>
+        {{end}}
+        {{ if .Site.Params.linkedin }}
+        <li><a href="{{ .Site.Params.linkedin }}"><i class="fa fa-linkedin"></i></a></li>
+        {{end}}
+        {{ if .Site.Params.github }}
+        <li><a href="{{ .Site.Params.github }}"><i class="fa fa-github"></i></a></li>
+        {{end}}
+    </ul>
+  </section>
+
+  {{ if .Params.tags }}
+
+  <hr>
+
+  <section>
+    <h2 class="widget-title-share">Artikel teilen</h2>
+    <div class="shariff"></div>
+  </section>
+
+  {{ end }}
+
+  <hr>
+
+  <section class="widget widget-one">
+    <h2 class="widget-title">RSS feed</h2>
+    <ul>
+      <li>
+        <a href="/index.xml">RSS - Beiträge</a>
+      </li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <section class="widget widget-second">
+    <h2 class="widget-title">Datenschutz</h2>
+    <ul>
+      <li>
+        <a href="/datenschutzerklaerung">Datenschutzerklärung</a>
+      </li>
+      <li>
+        <a href="/impressum">Impressum</a>
+      </li>
+    </ul>
+
+  </section>
+</div>
