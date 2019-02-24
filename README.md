@@ -1,9 +1,19 @@
-![Finanzmatze](https://raw.githubusercontent.com/wikimatze/fina/master/static/logo.png "Finanzmatze")
+![Finanzmatze](https://raw.githubusercontent.com/wikimatze/finanzen/master/static/logo.png "Finanzmatze")
 
 
 # Installation
 
-Installiere [hugo](https://gohugo.io/getting-started/installing/ "hugo") und starte die Anwendung mit
+Installiere [hugo](https://gohugo.io/getting-started/installing/ "hugo").
+
+Schnapp dir den Code:
+
+
+```
+$ git clone --recurse-submodules git@github.com:wikimatze/finanzen.git
+```
+
+
+Starte die Anwendung mit
 
 
 ```
