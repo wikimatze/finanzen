@@ -59,23 +59,20 @@ Konditionen sind unter <https://www.dkb.de/kundenservice/preise_bedingungen/> au
 Also würden 10€ Gebühren für den Kauf anfallen.
 
 
-
-
-
-
 # Cola Aktie 500 € bei Onvista kaufen über Xetra
 
 Konditionen sind unter <https://www.onvista-bank.de/top-konditionen.html> auffindbar. Auffällig ist, das onvista zwei
 Modelle anbietet: Ein Festpreis-Modell und ein Freebuy Model.
 Beim Festpreis-Modell werden pauschal 5 € pro Kauforder verlangt sowie 2 € pauschalisierte Handelsplatzgebühr.
+Die Börsengebühren der angebotenen Handelsplätze sind unter ["Aufstellung der Börsengebühren"](https://www.onvista-bank.de/files/dokumente/formulare/formularcenter/163-aufstellung-boersengebuehren.pdf "Aufstellung der Börsengebühren") zu finden.
 
 
-- Börsenplatz: 500 * 0.0000739 => 0.03695, also 0.75 € (mindest Gebühr)
+- Börsenplatz: 500 * 0.0000739 => 0.03695, also 0,75 € (mindest Gebühr)
 - Broker: 5 + 2 = 7€
 würde ich also 7,75 € bezahlen.
 
 
-Beim Freebuy Modell kann ich Wertpapierkäufe ohne Orderprovision durchführen lassen - es muss dann nur noch Börsengebühren, Maklergebühren oderpauschalierte Handelsplatzgebühr bezahlen. FreeBuys erhält man, wenn man einen bestimmten durchschnittlichen Geldbetrag auf dem Verrechnungskonto hat.  Hat man z.B. 2000 € auf dem Konto, dann erhält man 1 FreeBuy, bei 3000 € bekommt man 2 FreeBuys.
+Beim Freebuy Modell kann ich Wertpapierkäufe ohne Orderprovision durchführen lassen - es muss dann nur noch Börsengebühren, Maklergebühren + pauschalierte Handelsplatzgebühr bezahlen. FreeBuys erhält man, wenn man einen bestimmten durchschnittlichen Geldbetrag auf dem Verrechnungskonto hat.  Hat man z.B. 2000 € auf dem Konto, dann erhält man 1 FreeBuy, bei 3000 € bekommt man 2 FreeBuys usw.
 
 
 <img src="/depot_onvista_freebuy.png" class="center" alt="Onvista Freebuy"/>
@@ -83,8 +80,24 @@ Beim Freebuy Modell kann ich Wertpapierkäufe ohne Orderprovision durchführen l
 
 
 - Börsenplatz: 500 * 0.0000739 => 0.03695, also 0.75 € (mindest Gebühr)
-- Broker: 0, da ich Freebuys verwende
+- Broker: 2 , da ich Freebuys verwende
 
 
-würde ich also 0.75 € benötigen. Ein unschlagbares Angebot.
+würde ich also 2.75 € benötigen. Ein unschlagbares Angebot.
+
+
+Es geht aber noch günstges: Man muss nicht über die Börse handeln, sondern kann dies auch außerbörslich ("OTC ...
+over-the-counter") tun. Dabei würde die Börse nichts mehr verdienen und ich würde mir die 0,75 € sparen - und wäre damit
+bei 2 €.
+
+Nachteil bei OTC? Die Preise können von der Börse abweichen, da direkt gleich zum eingegebenen Wert gehandelt wird, was
+bei einem börslichen Handel schonmal einige Minuten dauern kann.
+
+
+# Refenzen
+
+- [Was kostet es Aktien an der Börse zu kaufen](https://www.youtube.com/watch?v=xsPuUy62OBk "Was kostet es Aktien an der Börse zu kaufen")
+- [Wie kann man Aktien kaufen? Praxisbeispiel Amazon von talerbox](https://www.youtube.com/watch?v=DN-4NuONp_M "Wie kann man Aktien kaufen? Praxisbeispiel Amazon von talerbox")<`0`>
+- [Wie kauft man eigentlich eine Aktie? Schritt-für-Schritt von finanzfluss](https://www.youtube.com/watch?v=I1dznlke8ww "Wie kauft man eigentlich eine Aktie? Schritt-für-Schritt von finanzfluss")<`0`>
+- [Kostenlos ETFs kaufen mit dem OnVista Freebuy-Depot von Oliver](https://frugalisten.de/fast-kostenlos-etfs-kaufen-onvista-freebuy-depot/ "Kostenlos ETFs kaufen mit dem OnVista Freebuy-Depot von Oliver")
 
