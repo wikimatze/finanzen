@@ -139,4 +139,9 @@ Das ist gut
 
 <img src="/depot_comdirect_kursverlauf.png" class="center" alt="Comdirect Kursverlauf"/>
 <div class="center">Comdirect Kursverlauf</div>
-hallo
+
+
+# Referenzen:
+
+- [ETF Sparplan Depot](https://www.youtube.com/watch?v=rZdObAbXh2k "ETF Sparplan Depot")
+- [Welcher Broker ist der Beste von zendepot](https://zendepot.de/online-depot-welcher-broker-ist-der-beste/ "Welcher Broker ist der Beste von zendepot")<`0`>
