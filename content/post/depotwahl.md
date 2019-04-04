@@ -1,147 +1,190 @@
 +++
-date = "2019-02-10T08:08:45+01:00"
+date = "2019-04-04T20:00:00+01:00"
 title = "Depotwahl"
 titleAddition = "Wie ich meine Depots ausgewählt habe und wie ich diese bewerte"
 draft = false
 featuredImage = "/aktien.jpg"
-description = "Eine Aktie ist ein Wertpapier, welches einen bestimmten Wert an einem Unternehmen darstellt. Aktien dienen Unternehmen der Kapitalbeschaffung, mit denen Sie sich höhere Gewinne erhoffen, z.B. Bau neuer Produktionsstätten, Erforschung neuer Produkte usw."
+description = "Ein Depot ist nichts weiter als ein Safe für die gekauften Wertpapiere. Es ist mit einem Girokonto vergleichbar, aber statt an dem normalen Zahlungsverkehr teilzunehmen, kann man mit einem Depot Wertpapiere handeln. Doch welches Depots soll ich nehmen?"
 tags = [
-    "aktien",
-    "finanzen",
-    "Levermann",
+    "depot",
+    "wertpapiere",
 ]
 +++
-Nachdem ich beschlossen hatte, mein Geld ein in den Finanzmarkt zu investieren, musste ich noch das entsprechende
-Vehikel für meine ersten Investionen finden. Ich musste also ein entsprechendes Depot wählen.
+Um Geld in dem Finanzmarkt zu investieren, musste ich noch das entsprechende Vehikel finden.
 
-Wer sich allumfassend und super informiert mit dem Thema befassen will, dem empfehle ich den [finanztip Ratgeber zum Wertpapierdepot](https://www.finanztip.de/wertdepot "finanztip Ratgeber zum Wertpapierdepot"). Dort werden entsprechende Depots für verschiedene Anlegertypen genaustens gegenübergestellt und
-die jeweiligen Vor- und Nachteile wiedergegeben.
+# Was ist ein Depot?
 
+Ein Depot ist mir einem Girokonto vergleichbar, es wird benötigt um Wertpapiere zu handeln. Für mich ist ein Depot wie
+ein Safe, an dem ich sicher meine Wertpapiere aufbewahre.
 
-# Was genau ist ein Depot
+# Welches Depot ist zu empfehlen?
 
-Ein Depot ist nichts weiter als ein Safe für die gekauften Wertpapiere.
-
-
-# Welche Depots nimmt man nun?
-
-Ich habe zuerst geguckt, bei welchen Banken ich überall mein Geld habe: [DKB](https://www.dkb.de "DKB"),
-[Postbank](https://www.postbank.de "Postbank") und [moneyyou](https://www.moneyyou.de "moneyyou").
+Mein Geld ist auf folgende Banken verteilt:
 
 
-Danach habe ich geguckt, welche und wie viele ETFs man bei den Platformen handeln kann. **DKB** hat eine sehr große Auswahl.
-Also habe ich dort an einem Freitag ein Depot beantragt, worauf ich nach einigen Teilen fast freigeschaltet war, denn um
-das Depot dort zum Handeln freizugeben, muss man seine Erfahrungen mit Aktien, Optionen, Derivaten und weiteren
-Finanzprodukten angeben. Da ich ehrlich war, hab ich überall "Keine Erfahrung" angegeben und dann noch einige Tage
-gewartet, in der Hoffnung, dass mein Depot endlich freigeschaltet wird. Doch nach knapp 1 1/2 Wochen habe ich den
-Verifizierungsprozess erneut durchlaufen und diesmal bei allen Finanzprodukten angegeben, dass ich bereits Erfahrungen mit
-den ganzen Produkten habe. Und prompt wurde mein Depot freigeschaltet.
+- [DKB](https://www.dkb.de "DKB")
+- [Postbank](https://www.postbank.de "Postbank")
+- [moneyyou](https://www.moneyyou.de "moneyyou").
 
 
-Mein Tipp: Auch wenn ihr noch keine genau Ahnung von der Materie habt, müsst ihr bei der Registrierung unbedingt
-anegegeben, dass ihr Euch auskennt - sonst guckt ihr für längere Zeit in die Röhre.
+Außerdem war für mich ausschlagebend, was ich bei welcher Bank (vorwiegend Aktien und ETFs) und zu welchen Kosten ich
+dort ein Depot führen kann.
 
 
-**Postbank** hat ein sehr eingeschränktes Auswahl von Wertpapieren und da ich es als Gehaltskonto verwende, hatte ich hier
+## DKB
+
+Die **DKB** bietet neben einer großen an Finanzprodukten ein kostenloses Depot an.
+Die Depotbeantragung ging via Postidentverfahren und nach einigen Tagen war ich fast freigeschaltet.
+
+
+Warum nur fast? Um mein Depot dort zum Handeln freizugeben, muss man seine Erfahrungen mit Aktien, Optionen, Derivaten und weiteren
+Finanzprodukten angeben. Da ich ich überall "Keine Erfahrung" angegeben hab, konnte ich auch nach knap 1 1/2 Wochen
+nichts weiter mit meinem Depot machen. In Folge dessen habe ich den
+Verifizierungsprozess erneut durchlaufen und diesmal bei allen Finanzprodukten angegeben, dass ich bereits Erfahrungen
+mit den einzelnen Posten gesammelt hab. Mein erstes Depot ist endlich freigeschaltet.
+
+
+**Tipp**: Ihr müsst bei der Registrierung unbedingt angeben, dass ihr Euch auskennt - sonst könnt ihr in eurem Depot nichts handeln.
+Hintergrund hierbei ist, dass sich die Banken rechtlich schützen müssen und euch über die Risiken im Vorfeld informieren.
+
+
+## Postbank
+
+Die **Postbank** hat ein sehr eingeschränktes Auswahl von Wertpapieren und da ich es als Gehaltskonto verwende, hab ich hier
 kein Depot angelegt.
 
 
+## Moneyyou
+
 **Moneyyou** bietet leider keine Möglichkeit für ein Depot an (nur Fondsanlagen). Dieses Konto verwende ich für die
-Festgeldanlage und den sogenannenten **Notgroschen** - also alles Geld, was ich unmittelbar in nächstes Zeit nicht
-benötige.
+Festgeldanlage und den sogenannenten **Notgroschen** (Geld, von dem ich ca. 3 Monate leben kann).
 
 
-Im Zuge meiner finanziellen Weiterbildung habe ich in einen Podcast vom [finanzrocker über Depots](https://finanzrocker.net/mein-finanz-setup-3-aktiendepots-bei-direktbanken "finanzrocker über Depots") noch von [onvista](https://www.onvista.de "onvista") sowie [comdirect](https://www.comdirect.de "comdirect") gehört. Ohne weiter nachzudenken hab ich das Postidentverfahren durchgeführt und dort ebenfalls Depotkonten angelegt. In weniger als eine Woche
-war ich auch auf diesen Platformen erfolgreich ebenfalls angemeldet.
+# Onlinebroker
 
-Mein wichtiges Kriterien mit den Depots war: Sie sollen kostenlos sein. Sollte ich mich später dazu entscheiden, neben
-ETFs noch Aktien zu kaufen, dann gucke ich mir an, welche Kosten beim Kauf von Aktionen bei dem jeweiligen Broker auf
-mich zukommen..
+Im Zuge meiner finanziellen Weiterbildung habe ich in einen Podcast vom [finanzrocker über Depots](https://finanzrocker.net/mein-finanz-setup-3-aktiendepots-bei-direktbanken "finanzrocker über Depots") noch von [onvista](https://www.onvista.de "onvista") sowie [comdirect](https://www.comdirect.de "comdirect") gehört. ebenfalls Depotkonten angelegt. In weniger als eine Woche
+war ich dort via Postidentverfahrenauch angemeldet. Auch diese beiden Depot verlangen keine Kontoführungsgebühren.
 
+
+# Erfahrungen nach 3 Monaten
 
 Inzwischen hatte ich 3 Monate Zeit meine Erfahrungen mit der DKB, onvista und Comdirect zu machen.
 
 Mein vorzeitiges Fazit:
 
-- DKB ist wie [Xubuntu](https://xubuntu.org "Xubuntu"): Sehr funktional, alles an den Stellen wo man es erwartet, eben sehr funktional gestaltet
+- DKB ist wie [die Distribution Xubuntu](https://xubuntu.org "Xubuntu"): Sehr funktional, alles an den Stellen wo man es erwartet, eben sehr funktional gestaltet.
 - Onvista ist wie [Sabayon Linux](https://www.sabayon.org "Sabayon Linux"): Voll konfigurierbar, bietet sehr viele
-  Einstellungsmöglichkeiten, ist aber auch ein wenig überladen und überfordernd
-- Comdirect ist wie das [Mac OS X Betriebsystem](https://de.wikipedia.org/wiki/MacOS "Mac OS X Betriebsystem"): Sexy, aufgeräumt und übersichtlich
+  Einstellungsmöglichkeiten, ist aber auch ein wenig überladen und überfordernd.
+- Comdirect ist wie [Mac OS X](https://de.wikipedia.org/wiki/MacOS "Mac OS X"): Schlank, aufgeräumt und übersichtlich.
 
 
 # Erfahrungen mit der DKB
 
-Das gut: Sobald ich mich in meinen Depot einlogge, kann ich auf einen Blick den Status meiner einzelnen Anteile sowie
-den Gesamtgeldwert gegenüber dem investierten Geld. Für jeden einzelnen Posten kann meine aktuellen Anteile sowie den
-Kurswert sehen. Auch die prozentuale Veränderung ist auf einen Blick gut zu erkennen. Außerdem werden die
-Wertpapierabrechnungen stets separat für jeden Fond erstellt, so dass man es individuell abheften kann.
+**Das ist gut**: Sobald ich mich in meinem Depot angemeldet habe, sehe ich auf einen Blick die Menge  meiner einzelnen Anteile, den Einstandskurs (also zu welchen Preis ich gekauft habe) den Kurs sowie den daraus resultierenden Gewinn/Verlust sehen. Für einzelne
+Wertpapierabrechnungen werden separate PDFs erzeugt.
 
-
+<br>
 <img src="/depot_dkb_uebersicht.png" class="center" alt="DKB Depot Übersicht"/>
-<div class="center">DKB Depot Übersicht</div>
+<div class="right">DKB: Depot Übersicht</div>
+<br>
 
 
-Das ist nicht gut: ETFs suchen, die aktuellen Kursverläufe sowie Links zu näheren Informationen des entsprechenden
-Produkts sind nicht einsehbar. Letztes Punkt macht aber nichts, da man sich auf [justetf.com](https://www.justetf.com/de "justetf.com") sowie [finanzen.de](https://www.finanzen.net "finanzen.de").
+**Das ist nicht gut**: Die Suche nach Aktien/ETFs ist unübersichtlich, die aktuellen Kursverläufe sowie Links zu näheren Informationen des entsprechenden
+Produkts sind nicht einsehbar. Diesen Mangel gleiche ich auf den Seiten von [justetf.com](https://www.justetf.com/de "justetf.com") sowie [finanzen.de](https://www.finanzen.net "finanzen.de") aus.
 
 
+<br>
 <img src="/depot_dkb_kursverlauf.png" class="center" alt="DKB Fonds Kursverlauf"/>
-<div class="center">Fonds Kursverlauf</div>
+<div class="right">DKB: Informationen über einen Aktienfonds</div>
+<br>
 
 
-Ein weiterer negativer Punkt: Wenn ich einen Sparplan pausieren möchte, dann muss für den bestehenden Sparplan den Betrag auf 0 setzen - eine pausieren Funktion gibt es leider nicht.
-
-
+<br>
 <img src="/depot_dkb_wertpapiersparplan.png" class="center" alt="DKB Wertpapiersparplan"/>
-<div class="center">DKB Wertpapiersparplan</div>
+<div class="right">DKB: Wertpapiersparplan anlegen/ändern</div>
+<br>
 
 
 # Erfahrungen mit Onvista
 
-Das ist gut: Aktien und ETFs sind gut und einfach zu finden. Aktuelle gekauft Anteile werden tabellarisch mit vielen
-weiteren Informationen (die ich bisher noch nicht richtig verstanden hab) dargestellt. Man hat verschiedene Desktops,
-auf den man sich seine verschiedenen Ansichten eigenständig zusammenstellen kann - was ich bisher aber noch nicht
-richtig verwende.
+**Das ist gut**: Aktien und ETFs sind gut und einfach zu finden. Aktuelle gekauft Anteile werden tabellarisch mit vielen
+weiteren Informationen dargestellt. Es gibt verschiedene Desktops, die man sich nach individuell zusammenstellen kann.
 
 
+<br>
 <img src="/depot_onvista_uebersicht.png" class="center" alt="Onvista Depot Übersicht"/>
-<div class="center">Onvista Depot Übersicht</div>
+<div class="right">Onvista: Depot Übersicht</div>
+<br>
 
 
-Das ist weniger gut: So individuell die eigenen Desktops auch sein mögen, ich möchte auf den aktuellen Desktop nicht nur
-maximal 5 Menüpunkte angezeigt bekommen, sondern einfach für mich relevant 7 Stück, ohne diese auf andere Desktops
-verteilen zu müssen. Die einzelnen Wertpapierabrechnungen kommen immer als ein PDF Dokumente für alle Posten zusammen -
-ich teile die Abrechnungen gerne einzeln zum jeweiligen Fonds separat ab. So muss ich jeden Monat einmal [pdftk](https://wiki.ubuntuusers.de/pdftk "pdftk") benutzen.
+**Das ist weniger gut**: So individuell die eigenen Desktops auch sein mögen, ich möchte auf den aktuellen Desktop nicht nur
+maximal 5 Menüpunkte angezeigt bekommen, sondern einfach für mich relevant 7 Stück, ohne diese auf 2 Desktops verteilen zu müssen.
+Die einzelnen Wertpapierabrechnungen kommen immer als ein PDF Dokumente für alle Posten zusammen -
+ich teile die Abrechnungen gerne einzeln zum jeweiligen Fonds separat ab. So muss ich jeden Monat einmal
+[pdftk](https://wiki.ubuntuusers.de/pdftk "pdftk") zur PDF Aufsplittung verwenden.
+Es ist nicht möglich einen bestehenden Sparplan anzupassen. Um ihn zu ändern, muss er gelöscht und neu angelegt werden. Das ist nicht sehr komfortabel, dauert aber auch nicht länger als ein `rm -rf /var/log/syslog`.
 
 
+<br>
 <img src="/depot_onvista_desktops.png" class="center" alt="Onvista Desktops"/>
-<div class="center">Onvista Desktops</div>
+<div class="right">Onvista: Desktops</div>
+<br>
 
 
-Ein weiterer Nachteil: Es ist nicht möglich einen bestehenden Sparplan anzupassen. Um ihn zu ändern, muss er gelöscht und neu angelegt werden. Das ist nicht sehr komfortabel, dauert aber auch nicht länger als ein `rm -rf /var/log/syslog`.
-
+<br>
 <img src="/depot_onvista_wertpapiersparplan.png" class="center" alt="Onvista Wertpapiersparplan"/>
-<div class="center">Onvista Wertpapiersparplan</div>
+<div class="right">Onvista: Wertpapiersparplan</div>
+<br>
 
 
 # Erfahrungen mit Comdirect
 
 
-Das ist gut
+**Das ist gut**: Das Startmenu und die Navigation sind selbsterklärend. Wertpapierabrechnungen werden
+für jeden Kauf separat angegeben. Steuertechnisch wird alles sehr transparent Gehalten, wieviel vom Sparerpauschbetrag
+verbraucht wurde und wieviel Steuern ich für Kapitalerträge bezahlen muss.
+Wertpapiersparpläne lassen lassen sich pausieren, dynamisch anheben und zu bestimmten Bereichen clustern.
 
 
+<br>
 <img src="/depot_comdirect_uebersicht.png" class="center" alt="Comdirect Depot Übersicht"/>
-<div class="center">Comdirect Depot Übersicht</div>
+<div class="right">Comdirect: Depot Übersicht</div>
+<br>
 
 
-<img src="/depot_comdirect_wertpapiersparplan.png" class="center" alt="Comdirect Wertpapiersparplan"/>
-<div class="center">Comdirect Wertpapiersparplan</div>
-
+<br>
 <img src="/depot_comdirect_kursverlauf.png" class="center" alt="Comdirect Kursverlauf"/>
-<div class="center">Comdirect Kursverlauf</div>
+<div class="center">Comdirect: Kursverlauf</div>
+<br>
+
+
+<br>
+<img src="/depot_comdirect_wertpapiersparplan.png" class="center" alt="Comdirect Wertpapiersparplan"/>
+<div class="center">Comdirect: Wertpapiersparplan</div>
+<br>
+
+
+**Das ist weniger gut**: Die Auwahl an ETFs ist nicht so groß wie bei DKB und nicht alle Sparpläne lassen sich kostenlos
+ausführen.
+
+
+# Fazit:
+
+Worauf kommt es nun an?  Für mich ist das wichtigtse Kriterium, dass ich nichts für die Aufbewahrung meines Vermögens bezahlen muss.
+
+
+Ich habe bei allen drei Depots ein gutes Gefühl und mir macht es Spaß, diese zu verwenden. Es gibt für mich keinen klaren
+Sieger, alle drei vorgestellten Broker haben Vor- und Nachteile mit denen klar komme.
+
+
+Privat wie beruflich habe ich mit Windows, Linux und Mac zu tun. Auf eine gute Mischung kommt es an.  Fang einfach an und probiere es aus.
+
+
+`Welche Depots verwendet Ihr und warum?`
 
 
 # Referenzen:
 
+- [finanztip Ratgeber zum Wertpapierdepot](https://www.finanztip.de/wertdepot "finanztip Ratgeber zum Wertpapierdepot").
 - [ETF Sparplan Depot](https://www.youtube.com/watch?v=rZdObAbXh2k "ETF Sparplan Depot")
-- [Welcher Broker ist der Beste von zendepot](https://zendepot.de/online-depot-welcher-broker-ist-der-beste/ "Welcher Broker ist der Beste von zendepot")<`0`>
+- [Welcher Broker ist der Beste von zendepot](https://zendepot.de/online-depot-welcher-broker-ist-der-beste/ "Welcher Broker ist der Beste von zendepot")
