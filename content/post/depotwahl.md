@@ -10,12 +10,9 @@ tags = [
     "wertpapiere",
 ]
 +++
-Um Geld in dem Finanzmarkt zu investieren, musste ich noch das entsprechende Vehikel finden.
 
-# Was ist ein Depot?
-
-Ein Depot ist mir einem Girokonto vergleichbar, es wird benötigt um Wertpapiere zu handeln. Für mich ist ein Depot wie
-ein Safe, an dem ich sicher meine Wertpapiere aufbewahre.
+Ein Depot ist mit einem Girokonto vergleichbar. Es wird benötigt um Wertpapiere zu handeln. Für mich ist ein Depot
+ebenso wie ein Safe, an dem ich sicher meine Wertpapiere aufbewahre.
 
 # Welches Depot ist zu empfehlen?
 
@@ -24,24 +21,23 @@ Mein Geld ist auf folgende Banken verteilt:
 
 - [DKB](https://www.dkb.de "DKB")
 - [Postbank](https://www.postbank.de "Postbank")
-- [moneyyou](https://www.moneyyou.de "moneyyou").
+- [moneyyou](https://www.moneyyou.de "moneyyou")
 
 
-Außerdem war für mich ausschlagebend, was ich bei welcher Bank (vorwiegend Aktien und ETFs) und zu welchen Kosten ich
-dort ein Depot führen kann.
+Ausschlagebend für die Wahl eines Depot war, welche Kosten bei der Führung dabei entstehen.
 
 
 ## DKB
 
-Die **DKB** bietet neben einer großen an Finanzprodukten ein kostenloses Depot an.
+Die **DKB** bietet ein kostenloses Depot an.
 Die Depotbeantragung ging via Postidentverfahren und nach einigen Tagen war ich fast freigeschaltet.
 
 
-Warum nur fast? Um mein Depot dort zum Handeln freizugeben, muss man seine Erfahrungen mit Aktien, Optionen, Derivaten und weiteren
-Finanzprodukten angeben. Da ich ich überall "Keine Erfahrung" angegeben hab, konnte ich auch nach knap 1 1/2 Wochen
-nichts weiter mit meinem Depot machen. In Folge dessen habe ich den
+Warum nur fast? Um mein Depot dort zum Handeln freizugeben, musste man seine Erfahrungen mit Aktien, Optionen, Derivaten und weiteren
+Finanzprodukten angeben. Da ich ich überall "Keine Erfahrung" angegeben hatte, konnte ich auch nach knapp 1 1/2 Wochen
+nichts weiter mit meinem Depot anfangen. Infolgedessen habe ich den
 Verifizierungsprozess erneut durchlaufen und diesmal bei allen Finanzprodukten angegeben, dass ich bereits Erfahrungen
-mit den einzelnen Posten gesammelt hab. Mein erstes Depot ist endlich freigeschaltet.
+mit den einzelnen Posten gesammelt habe. Mein erstes Depot war endlich freigeschaltet.
 
 
 **Tipp**: Ihr müsst bei der Registrierung unbedingt angeben, dass ihr Euch auskennt - sonst könnt ihr in eurem Depot nichts handeln.
@@ -50,7 +46,7 @@ Hintergrund hierbei ist, dass sich die Banken rechtlich schützen müssen und eu
 
 ## Postbank
 
-Die **Postbank** hat ein sehr eingeschränktes Auswahl von Wertpapieren und da ich es als Gehaltskonto verwende, hab ich hier
+Die **Postbank** hat eine sehr eingeschränkte Auswahl von Wertpapieren und da ich es als Gehaltskonto verwende, habe ich dort
 kein Depot angelegt.
 
 
@@ -62,26 +58,25 @@ Festgeldanlage und den sogenannenten **Notgroschen** (Geld, von dem ich ca. 3 Mo
 
 # Onlinebroker
 
-Im Zuge meiner finanziellen Weiterbildung habe ich in einen Podcast vom [finanzrocker über Depots](https://finanzrocker.net/mein-finanz-setup-3-aktiendepots-bei-direktbanken "finanzrocker über Depots") noch von [onvista](https://www.onvista.de "onvista") sowie [comdirect](https://www.comdirect.de "comdirect") gehört. ebenfalls Depotkonten angelegt. In weniger als eine Woche
-war ich dort via Postidentverfahrenauch angemeldet. Auch diese beiden Depot verlangen keine Kontoführungsgebühren.
+Im Zuge meiner finanziellen Weiterbildung habe ich in einen Podcast vom [finanzrocker über Depots](https://finanzrocker.net/mein-finanz-setup-3-aktiendepots-bei-direktbanken "finanzrocker über Depots") von [onvista](https://www.onvista.de "onvista") sowie [comdirect](https://www.comdirect.de "comdirect") gehört, die beide ebenfalls keine Kontoführungsgebühren verlangen und eine große Auswahl von Wertpapieren anbieten.
+
+In weniger als einer Woche war bei beiden angemeldet.
 
 
-# Erfahrungen nach 3 Monaten
+# 3 Monate mit DKB, onvista und comdirect
 
-Inzwischen hatte ich 3 Monate Zeit meine Erfahrungen mit der DKB, onvista und Comdirect zu machen.
+Inzwischen hatte ich 3 Monate Zeit, Erfahrungen mit der DKB, onvista und comdirect zu sammeln.
 
 Mein vorzeitiges Fazit:
 
-- DKB ist wie [die Distribution Xubuntu](https://xubuntu.org "Xubuntu"): Sehr funktional, alles an den Stellen wo man es erwartet, eben sehr funktional gestaltet.
-- Onvista ist wie [Sabayon Linux](https://www.sabayon.org "Sabayon Linux"): Voll konfigurierbar, bietet sehr viele
-  Einstellungsmöglichkeiten, ist aber auch ein wenig überladen und überfordernd.
+- DKB ist wie [die Distribution Xubuntu](https://xubuntu.org "Xubuntu"): Sehr funktional gestaltet, ohne unnötige Funkionen, alles an den Stellen wo man es erwartet, eben sehr funktional gestaltet.
+- Onvista ist wie [Sabayon Linux](https://www.sabayon.org "Sabayon Linux"): Voll konfigurierbar, sehr viele Funktionen, aber gleichzeitig auch überladend und unintuitiv.
 - Comdirect ist wie [Mac OS X](https://de.wikipedia.org/wiki/MacOS "Mac OS X"): Schlank, aufgeräumt und übersichtlich.
 
 
 # Erfahrungen mit der DKB
 
-**Das ist gut**: Sobald ich mich in meinem Depot angemeldet habe, sehe ich auf einen Blick die Menge  meiner einzelnen Anteile, den Einstandskurs (also zu welchen Preis ich gekauft habe) den Kurs sowie den daraus resultierenden Gewinn/Verlust sehen. Für einzelne
-Wertpapierabrechnungen werden separate PDFs erzeugt.
+**Das ist gut**: Sobald ich mich in meinem Depot anmelde, sehe ich auf einen Blick die Menge  meiner einzelnen Anteile, den Einstandskurs (also zu welchen Preis ich gekauft habe) den aktuellen Kurs sowie den daraus resultierenden Gewinn/Verlust. Für Wertpapierabrechnungen werden separate PDFs erzeugt.
 
 <br>
 <img src="/depot_dkb_uebersicht.png" class="center" alt="DKB Depot Übersicht"/>
@@ -90,7 +85,7 @@ Wertpapierabrechnungen werden separate PDFs erzeugt.
 
 
 **Das ist nicht gut**: Die Suche nach Aktien/ETFs ist unübersichtlich, die aktuellen Kursverläufe sowie Links zu näheren Informationen des entsprechenden
-Produkts sind nicht einsehbar. Diesen Mangel gleiche ich auf den Seiten von [justetf.com](https://www.justetf.com/de "justetf.com") sowie [finanzen.de](https://www.finanzen.net "finanzen.de") aus.
+Produkts sind nicht einsehbar. Als Ausgleich verwende ich [justetf.com](https://www.justetf.com/de "justetf.com") sowie [finanzen.de](https://www.finanzen.net "finanzen.de").
 
 
 <br>
@@ -107,8 +102,8 @@ Produkts sind nicht einsehbar. Diesen Mangel gleiche ich auf den Seiten von [jus
 
 # Erfahrungen mit Onvista
 
-**Das ist gut**: Aktien und ETFs sind gut und einfach zu finden. Aktuelle gekauft Anteile werden tabellarisch mit vielen
-weiteren Informationen dargestellt. Es gibt verschiedene Desktops, die man sich nach individuell zusammenstellen kann.
+**Das ist gut**: Aktien und ETFs sind einfach zu finden. Aktuelle gekauft Anteile werden tabellarisch mit vielen
+weiteren Informationen dargestellt. Es gibt verschiedene Desktops, die man sich nach Bedarf individuell zusammenstellen kann.
 
 
 <br>
@@ -118,11 +113,13 @@ weiteren Informationen dargestellt. Es gibt verschiedene Desktops, die man sich 
 
 
 **Das ist weniger gut**: So individuell die eigenen Desktops auch sein mögen, ich möchte auf den aktuellen Desktop nicht nur
-maximal 5 Menüpunkte angezeigt bekommen, sondern einfach für mich relevant 7 Stück, ohne diese auf 2 Desktops verteilen zu müssen.
-Die einzelnen Wertpapierabrechnungen kommen immer als ein PDF Dokumente für alle Posten zusammen -
-ich teile die Abrechnungen gerne einzeln zum jeweiligen Fonds separat ab. So muss ich jeden Monat einmal
-[pdftk](https://wiki.ubuntuusers.de/pdftk "pdftk") zur PDF Aufsplittung verwenden.
-Es ist nicht möglich einen bestehenden Sparplan anzupassen. Um ihn zu ändern, muss er gelöscht und neu angelegt werden. Das ist nicht sehr komfortabel, dauert aber auch nicht länger als ein `rm -rf /var/log/syslog`.
+maximal 5 Menüpunkte angezeigt bekommen, sondern alle für mich relevanten. Deshalb muss ich zwei Desktops verwenden.
+
+Die einzelnen Wertpapierabrechnungen erscheinen immer als ein PDF Dokument für alle Posten zusammen. Da ich
+jedoch die Abrechnungen gerne einzeln zum jeweiligen Wertpapier separat ablege, muss ich mich um eine Aufteilung selbst
+kümmern.
+
+Bestehende Sparpläne lassen sich nicht anpassen. Diese müssen gelöscht und neu angelegt werden.
 
 
 <br>
@@ -141,9 +138,9 @@ Es ist nicht möglich einen bestehenden Sparplan anzupassen. Um ihn zu ändern, 
 
 
 **Das ist gut**: Das Startmenu und die Navigation sind selbsterklärend. Wertpapierabrechnungen werden
-für jeden Kauf separat angegeben. Steuertechnisch wird alles sehr transparent Gehalten, wieviel vom Sparerpauschbetrag
+für jeden Kauf separat angegeben. Steuertechnisch wird alles sehr transparent gehalten, wieviel vom Sparerpauschbetrag
 verbraucht wurde und wieviel Steuern ich für Kapitalerträge bezahlen muss.
-Wertpapiersparpläne lassen lassen sich pausieren, dynamisch anheben und zu bestimmten Bereichen clustern.
+Wertpapiersparpläne lassen lassen sich pausieren, dynamisch anheben und zu bestimmten Bereichen zusammenfassen.
 
 
 <br>
@@ -164,21 +161,17 @@ Wertpapiersparpläne lassen lassen sich pausieren, dynamisch anheben und zu best
 <br>
 
 
-**Das ist weniger gut**: Die Auwahl an ETFs ist nicht so groß wie bei DKB und nicht alle Sparpläne lassen sich kostenlos
+**Das ist weniger gut**: Die Auswahl an ETFs ist nicht so groß wie bei DKB und nicht alle Sparpläne lassen sich kostenlos
 ausführen.
 
 
 # Fazit:
 
-Worauf kommt es nun an?  Für mich ist das wichtigtse Kriterium, dass ich nichts für die Aufbewahrung meines Vermögens bezahlen muss.
+Worauf kommt es nun an? Dies Aufbewahrung meines Vermögens muss kostenlos sein.
+Privat wie beruflich habe ich mit Windows, Linux und Mac zu tun. Auf eine gute Mischung kommt es an.
 
-
-Ich habe bei allen drei Depots ein gutes Gefühl und mir macht es Spaß, diese zu verwenden. Es gibt für mich keinen klaren
-Sieger, alle drei vorgestellten Broker haben Vor- und Nachteile mit denen klar komme.
-
-
-Privat wie beruflich habe ich mit Windows, Linux und Mac zu tun. Auf eine gute Mischung kommt es an.  Fang einfach an und probiere es aus.
-
+Ich habe bei allen drei Depots ein gutes Gefühl und mir macht es Spaß, diese zu verwenden.  Für mich gibt es keinen
+klaren Sieger, da alle drei vorgestellten Broker ihre Vor- und Nachteile haben.
 
 `Welche Depots verwendet Ihr und warum?`
 
