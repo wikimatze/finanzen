@@ -1,5 +1,5 @@
 +++
-date = "2019-04-04T20:00:00+01:00"
+date = "2019-04-14T20:00:00+01:00"
 title = "Depotwahl"
 titleAddition = "Wie ich meine Depots ausgewählt habe und wie ich diese bewerte"
 draft = false
@@ -8,6 +8,9 @@ description = "Ein Depot ist nichts weiter als ein Safe für die gekauften Wertp
 tags = [
     "depot",
     "wertpapiere",
+    "dkb",
+    "comdirect",
+    "onvista"
 ]
 +++
 
@@ -24,7 +27,8 @@ Mein Geld ist auf folgende Banken verteilt:
 - [moneyyou](https://www.moneyyou.de "moneyyou")
 
 
-Ausschlagebend für die Wahl eines Depot war, welche Kosten bei der Führung dabei entstehen.
+Ausschlagebend für die Wahl eines Depot war, welche Kosten bei der Führung dabei entstehen und das ich möglichst frei
+zwischen den Depots wechseln kann.
 
 
 ## DKB
@@ -167,13 +171,10 @@ ausführen.
 
 # Fazit:
 
-Worauf kommt es nun an? Dies Aufbewahrung meines Vermögens muss kostenlos sein.
-Privat wie beruflich habe ich mit Windows, Linux und Mac zu tun. Auf eine gute Mischung kommt es an.
+Mit den Depots muss man es wie mit den Betriebsystemen halten: Eine gesunde Mischung sorgt für eine große Auswahl und
+sollte ein System wegfallen, dann hat man immer noch Alternativen.
 
-Ich habe bei allen drei Depots ein gutes Gefühl und mir macht es Spaß, diese zu verwenden.  Für mich gibt es keinen
-klaren Sieger, da alle drei vorgestellten Broker ihre Vor- und Nachteile haben.
-
-`Welche Depots verwendet Ihr und warum?`
+`Welche Depots/Betriebsysteme verwendet Ihr und warum?`
 
 
 # Referenzen:
@@ -181,3 +182,4 @@ klaren Sieger, da alle drei vorgestellten Broker ihre Vor- und Nachteile haben.
 - [finanztip Ratgeber zum Wertpapierdepot](https://www.finanztip.de/wertdepot "finanztip Ratgeber zum Wertpapierdepot").
 - [ETF Sparplan Depot](https://www.youtube.com/watch?v=rZdObAbXh2k "ETF Sparplan Depot")
 - [Welcher Broker ist der Beste von zendepot](https://zendepot.de/online-depot-welcher-broker-ist-der-beste/ "Welcher Broker ist der Beste von zendepot")
+
