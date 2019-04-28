@@ -11,28 +11,26 @@ tags = [
 +++
 
 
-## Fonds und Index
-
-Ein Fonds ist eine Sammelstelle, die Geld von vielen Leuten sammelt und dieses dann im Namen der Anleger am Finanzmarkt investiert. Dies erfolgt entweder über einen Fondsmanager bzw. Kapitalgesellschaft (z.B. [BlackRock](tbd "BlackRock") oder [Vanguard](tbd "Vanguard")).
-
-
-Ein Index bildet die Gesamtperformance mehrerer Unternehmen oder anderer wirtschaftlicher Entwicklungen ab (z.B. [S&P 500](tbd "S&P 500"), [MSCI World](tbd "MSCI World")).
-
-
-## Was ist ein ETFs?
+## Was sind ETFs?
 
 ETFs sind börsengehandelte Indexfonds. Börsengehandelt bedeutet, dass der jeweilige ETF an den Börse gekauft und
-verkauft werden darf. Somit investieren ETFs das Geld der Anleger in Aktien des zurgundeligenden Index.
+verkauft werden darf.
+
+Ein Index bildet die Gesamtperformance verschiedener Unternehmen oder grundlegende wirtschaftliche Entwicklungen einzelner Länder ab (z.B. [S&P 500](tbd "S&P 500"), [MSCI World](tbd "MSCI World")).
+
+Ein Fonds ist eine Sammelstelle, die Geld von vielen Leuten sammelt und dieses dann im Namen der Anleger am Finanzmarkt investiert. Dies erfolgt entweder über einen Fondsmanager oder eine Kapitalgesellschaft (z.B. [BlackRock](tbd "BlackRock") oder [Vanguard](tbd "Vanguard")).
+
+
+Somit investieren ETFs das Geld der Anleger in Aktien des zurgundeligenden Indexes.
 
 
 ## Vorteile von ETFs
-
-
 
 **a) ETFs investieren das Geld passiv.**
 
 Es muss sich kein Fondsmanager darum aktiv kümmern. Deshalb sind die Kosten viel geringer als bei einen aktiv gemanagten Fond.
 <br>
+
 
 **b) ETFs sind breit aufgestellt.**
 
@@ -40,47 +38,52 @@ ETFS investieren in nicht nur eine Aktie, sondern in einen ganzen Korb Aktien au
 schwach, so fliegt dieser einfach raus und wird entsprechend ersetzt.
 <br>
 
+
 **c) ETFs sind sparplanfähig.**
 
-Es kann monatlich für ein bestimmter Betrag kostenlos Anteile des jeweiligen ETFs automatisiert ohne Gebühren gekauft
-werden.
+Es können Anteile des jeweiligen ETFs monatlich automatisiert und ohne Gebühren über einen [Broker](tbd "Broker") gekauft werden.
 <br>
+
 
 **d) Weniger Recherchearbeit bei Auswahl der Unternehmen.**
 
-Im jeweiligen Index sind bereits ausgewählte Unternehmen vertreten, von denen man einen entsprechende Rendite erwartet.
+Im jeweiligen Index sind bereits ausgewählte Unternehmen vertreten, von denen man eine entsprechende Rendite erwartet.
 <br>
+
 
 **e) Totalverlust ist fast ausgeschlossen.**
 
-Ist durch durch die breite Aufstellung (siehe Punkt b)) so gut wie minimiert.
+Siehe Punkt b).
 
 
 ## Nachteile von ETFs
 
-**a) Auswahl der richtigen ETFs nicht einfach.**
+**a) Auswahl der ETFs ist nicht einfach.**
 
 Es gibt verschiedene Indizies, von verschiedenen Anbietern, die Dividende zahlen oder das Geld reinvestieren, die
-außerdem eine andere Gewichtung von Branchen sowie Ländern haben. Man muss sich die einzelnen ETFs schon genau auswählen.
+außerdem eine andere Gewichtung von Branchen sowie Ländern haben. Passende ETFs sollten sorgfältig ausgewählt werden.
 <br>
+
 
 **b) Steuerliche Gegebenheiten ändern sich.**
 
-Niemand kann in die Zukunft gucken und bestimmen wie ETFs besteuert werden. Ebenso ist unklar, ob manche ETFs immer
+Niemand kann in die Zukunft blicken und bestimmen wie ETFs besteuert werden. Ebenso ist unklar, ob manche ETFs immer
 kostenlos per Sparplan gekauft werden können.
 <br>
 
 **c) Keine Steuerung in welche Unternehmen man investiert.**
 
-Es kann sein, dass in manchen ETFs Firmen vetreten sind, die unethisch arbeiten oder nicht nachhaltig wirtschaften, in
-die man eigentlich nicht investieren will.
+Es kann sein, dass in manchen ETFs Firmen vetreten sind, in
+die man eigentlich nicht investieren will (z.B. nicht nachhaltig wirtschaften, oder Geld in unethischen Arbeit
+investieren).
 <br>
+
 
 **d) Verwaltungsgebühren.**
 
-ETFs kosten Geld für die Verwaltung, Depotgebühren, Lizenzgebühren für den Index sowie Vertriebsgebühren. Hingegen
-haben Einzelaktien keine Gebühren.
+ETFs sind nicht kostenlos. Es fällt Geld für die Verwaltung, für Depotgebühren, für Lizenzgebühren des Index sowie Vertriebsgebühren an.
 <br>
+
 
 **e) Keine Teilnahme an Aktionärsversammlungen.**
 
@@ -89,7 +92,7 @@ Als ETFs Besitzer hat man kein Recht an den Aktionärsversammlungen.
 
 ## Fazit
 
-ETFs ermöglichen mit relativ geringen Aufwand jeden Monat einen fixen Geldbetrag in den Finanzmarkt automatisiert zu investieren.
+ETFs ermöglichen es, mit relativ geringen Aufwand jeden Monat einen fixen Geldbetrag in den Finanzmarkt zu investieren.
 Durch die breite Streuung ist das Einzelaktienrisiko sowie der Totalverlust so gut wie nicht gegeben.
 
 Mit bereits kleinen Beträgen (ab 25 €) kann man seine ersten Erfahrungen am Aktienmarkt sammeln.
