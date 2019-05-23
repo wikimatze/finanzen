@@ -5,10 +5,10 @@
     <section class="extras">
         <span class="tags">
           <small class="time">{{ .Date.Format "January 2, 2006" }}</small>
-             , geschrieben unter
+             , geschrieben unter:
 
              {{range .Params.tags}}
-                ,<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
              {{end}}
 						{{ if .Params.featuredImage  }}
             | <a href="{{ .Permalink }}#comments"><span id="cmtcount"></span> Kommentare</a>
