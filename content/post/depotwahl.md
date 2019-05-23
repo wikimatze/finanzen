@@ -3,7 +3,7 @@ date = "2019-04-14T20:00:00+01:00"
 title = "Depotwahl"
 titleAddition = "Wie ich meine Depots ausgewählt habe und wie ich diese bewerte"
 draft = false
-featuredImage = "/aktien.jpg"
+featuredImage = "/aktien.png"
 description = "Ein Depot ist nichts weiter als ein Safe für die gekauften Wertpapiere. Es ist mit einem Girokonto vergleichbar, aber statt an dem normalen Zahlungsverkehr teilzunehmen, kann man mit einem Depot Wertpapiere handeln. Doch welches Depots soll ich nehmen?"
 tags = [
     "depot",

@@ -2,7 +2,7 @@
 date = "2019-02-24T20:00:02"
 title = "Ich kümmere mich um meine Finanzen"
 draft = false
-featuredImage = "/finance_care.jpg"
+featuredImage = "/finance_care.png"
 description = "Es war einer dieser Tag, bei dem ich auf meinen Fahrrad heimgefahren bin und den Radio Fritz trackback gehört habe. Dort habe ich einen [Interview von Oliver von finanzieller Freiheit gehört."
 tags = [
     "aktien",
