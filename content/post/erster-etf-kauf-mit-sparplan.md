@@ -2,7 +2,7 @@
 date = "2019-04-30T08:08:45+01:00"
 title = "Erster ETF Kauf via Sparplan"
 titleAddition = "Was genau sind ETFs? "
-draft = false
+draft = true
 featuredImage = "/erster__etf__kauf_mit_sparplan.jpg"
 description = "tbd"
 tags = [

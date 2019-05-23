@@ -2,7 +2,7 @@
 date = "2019-02-10T08:08:45+01:00"
 title = "Aktien kaufen"
 titleAddition = "Was muss ich beim Kauf von Aktien beachten"
-draft = false
+draft = true
 featuredImage = "/aktien.jpg"
 description = "Aktienkäufe können über die Börse oder über den Direkthandel getätigt werden. Was das genau ist und was Käufe bei Comdirect, DKB und Onvista kosten, wird in diesem Artikel erklärt."
 tags = [

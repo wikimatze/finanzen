@@ -2,7 +2,7 @@
 date = "2019-04-30T08:08:45+01:00"
 title = "Vorstellung SPDR S&P Global Dividend Aristocrats ETF"
 titleAddition = "Was genau sind ETFs? "
-draft = false
+draft = true
 featuredImage = "/erster__etf__kauf_mit_sparplan.jpg"
 description = "tbd"
 tags = [
