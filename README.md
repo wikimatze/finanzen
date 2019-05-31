@@ -39,7 +39,13 @@ Anschließend kann die Seite unter <http://localhost:1313/> betrachtet werden.
 
 # Deployment
 
-Ich benutze Umgebungsvariablen: `export HUGO_ENV='production' && rake deploy && export HUGO_ENV='staging'`
+Ich benutze Umgebungsvariablen `HUGO_ENV` mit den Wert `production`.
+Um das Deployment durchzuführen einfach folgenden Befehl ausführen:
+
+
+```
+export HUGO_ENV='production' && rake deploy && export HUGO_ENV='staging'
+```
 
 
 # Sonstige Vereinbarungen
