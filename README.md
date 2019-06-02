@@ -51,3 +51,4 @@ export HUGO_ENV='production' && rake deploy && export HUGO_ENV='staging'
 # Sonstige Vereinbarungen
 
 - Bilder haben eine Größe von 800px x 555px (zum Skalieren hab ich [gimp](https://www.gimp.org/ "gimp") verwendet)
+- Bilder müssen als PNG vorliegen, damit es auch mit den twitter sharing klappt
