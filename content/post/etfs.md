@@ -1,12 +1,13 @@
 +++
-date = "2019-02-10T08:08:45+01:00"
+date = "2019-06-02T20:00:00+01:00"
 title = "ETFs"
 titleAddition = "Was genau sind ETFs? Warum sprechen alle darüber? Was kann ich damit anfangen"
-draft = true
-featuredImage = "/etfs.jpg"
-description = "tbd"
+draft = false
+featuredImage = "/etfs.png"
+description = "ETFs sind börsengehandelte Indexfonds. Börsengehandelt bedeutet, dass der jeweilige ETF an den Börse gekauft und verkauft werden darf. Ein Index bildet die Gesamtperformance verschiedener Unternehmen oder grundlegende wirtschaftliche Entwicklungen einzelner Länder ab. ETFs das Geld der Anleger in Aktien des zurgundeligenden Indexes."
 tags = [
     "etfs",
+    "index"
 ]
 +++
 
@@ -16,7 +17,7 @@ tags = [
 ETFs sind börsengehandelte Indexfonds. Börsengehandelt bedeutet, dass der jeweilige ETF an den Börse gekauft und
 verkauft werden darf.
 
-Ein Index bildet die Gesamtperformance verschiedener Unternehmen oder grundlegende wirtschaftliche Entwicklungen einzelner Länder ab (z.B. [S&P 500](tbd "S&P 500"), [MSCI World](tbd "MSCI World")).
+Ein Index (z.B. [S&P 500](tbd "S&P 500"), [MSCI World](tbd "MSCI World")) bildet die Gesamtperformance verschiedener Unternehmen oder grundlegende wirtschaftliche Entwicklungen einzelner Länder ab.
 
 Ein Fonds ist eine Sammelstelle, die Geld von vielen Leuten sammelt und dieses dann im Namen der Anleger am Finanzmarkt investiert. Dies erfolgt entweder über einen Fondsmanager oder eine Kapitalgesellschaft (z.B. [BlackRock](tbd "BlackRock") oder [Vanguard](tbd "Vanguard")).
 
@@ -28,14 +29,15 @@ Somit investieren ETFs das Geld der Anleger in Aktien des zurgundeligenden Index
 
 **a) ETFs investieren das Geld passiv.**
 
-Es muss sich kein Fondsmanager darum aktiv kümmern. Deshalb sind die Kosten viel geringer als bei einen aktiv gemanagten Fond.
+Es muss sich kein Fondsmanager aktiv um das Investieren kümmern. Deshalb sind die Kosten viel geringer als bei einen aktiv gemanagten Fond.
 <br>
 
 
 **b) ETFs sind breit aufgestellt.**
 
-ETFS investieren in nicht nur eine Aktie, sondern in einen ganzen Korb Aktien aus verschiedenen Branchen sowie Ländern. Durch diese Aufstellung sind in der Regel Totalverluste sehr unwahrscheinlich. Ist ein Posten im Index zu
-schwach, so fliegt dieser einfach raus und wird entsprechend ersetzt.
+ETFS investieren in nicht nur eine Aktie, sondern in einen ganzen Korb Aktien aus verschiedenen Branchen/Sektoren sowie Ländern.
+Durch diese Aufstellung sind in der Regel Totalverluste sehr unwahrscheinlich. Ist ein Posten im Index zu
+schwach, so fliegt dieser einfach raus und wird entsprechend durch einen neuen ersetzt.
 <br>
 
 
@@ -60,7 +62,8 @@ Siehe Punkt b).
 
 **a) Auswahl der ETFs ist nicht einfach.**
 
-Es gibt verschiedene Indizies, von verschiedenen Anbietern, die Dividende zahlen oder das Geld reinvestieren, die
+Es gibt verschiedene Indizies, von verschiedenen Anbietern, die Dividende zahlen oder das Geld reinvestieren
+(thesaurieren), die
 außerdem eine andere Gewichtung von Branchen sowie Ländern haben. Passende ETFs sollten sorgfältig ausgewählt werden.
 <br>
 
@@ -104,7 +107,7 @@ Mit bereits kleinen Beträgen (ab 25 €) kann man seine ersten Erfahrungen am A
 ## Referenzen
 
 - [Aktien vs. Etfs - was passt besser zu mir von exstudentin](https://exstudentin.wordpress.com/2015/12/10/aktien-vs-etfs-was-passt-besser-zu-mir-12/
- "Aktien vs. Etfs - was passt besser zu mir von exstudentin")<`0`>
+ "Aktien vs. Etfs - was passt besser zu mir von exstudentin")
 - [Einfach und günstig in Aktien anlegen: mit Indexfonds](https://www.finanztip.de/indexfonds-etf/ "Einfach und günstig in Aktien anlegen: mit Indexfonds")
 - [So funktioniert das globale Kursbarometer](https://www.finanztip.de/indexfonds-etf/msci-world/ "So funktioniert das globale Kursbarometer")
 - [7 Tipps zur Auswahl von ETFs](https://meinefinanziellefreiheit.com/2017/01/19/etf-auswahl/ "7 Tipps zur Auswahl von ETFs")
