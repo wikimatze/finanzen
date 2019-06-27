@@ -23,6 +23,10 @@ Miteigentümer (Aktionäre) an dieser AG.
 Aktien dienen Unternehmen der Kapitalbeschaffung, mit denen Sie sich höhere Gewinne
 erhoffen, z.B. Bau neuer Produktionsstätten, Erforschung neuer Produkte usw.
 
+
+Man gibt Unternehmen Kredit für Investion und erhält regelmäßig einen Teil der Gewinne, die ausgeschüttet werden (Dividenden).
+
+
 # Dividende
 
 Wirtschaftet einen Unternehmen in einem Jahr sehr gut, so steht am Ende ein bestimmter Gewinn fest. Wie genau mit den Gewinnen verfahren wird,
@@ -38,15 +42,24 @@ Eine **Dividende** beschreibt also den Anteil am Gewinn. Der übrig gebliebene T
 
 # Pro und Contra von Aktien
 
-Einzelaktien sind im Vergleich zu einem Gesamtmarkt ETF deutlich riskanter, weil ein einzelnes Unternehmen im Gegensatz zum Gesamtmarkt wie fast alle Unternehmen irgendwann bankrottgeht. Einzelaktien machen nur Sinn, wenn Du gegenüber dem Gesamtmarkt nach einer Recherche eine langfristige Überperformance erwartest und abschätzen kannst, dass eine mögliche Pleite noch lange Zeit unwahrscheinlich ist.
+Vorteile Aktien:
 
-Nach meiner persönlichen und wie immer fehlerbehafteten Einschätzung (die keinerlei Beratung darstellt), hast Du größtenteils gute Aktien im Depot die gute Gewinne erwirtschaften und langfristig wahrscheinlich noch viele gute Jahre vor sich haben.
+- investiert nur in selbst auserwählte Unternehmen
+- Einzelpositionen nachkaufen, wenn diese gerade „günstig“ zu haben sind
+- Chance auf hohe Renditen
+- Gebühren nur einmalig bei Aktienkauf
+- Teilnahme an Aktionärsversammlungen
 
-Match Group, Tesla und Elektronic Arts sind eine Spekulation. In einer Rezession fallen spekulative Werte meistens stärker als der Gesamtmarkt. Gerade Tesla hält sich aber sehr gut und dort ist auch viel Substanz dahinter, da Sie als Disruptor das Ende der deutschen Automobilindustrie einleiten könnten.
 
-Die einzig schlechte Aktie ist nach meiner Meinung die Commerzbank, die wie viele europäische Banken kein echtes Geschäftsmodell mehr hat und sich wie die Deutsche Bank aktuell nur noch mit großer Mühe über Wasser hält.
+Nachteile Aktien:
 
-Ich würde aktuell alle Werte halten (vielleicht bei der Commerzbank einen Verlustvortrag mit einem Verkauf noch in diesem Kalenderjahr generieren, weil ich dort nicht daran glaube). Wir stehen nach dem Börseneinbruch im Dezember rein technisch betrachtet vor einer schnellen Erholung. Diese Erholungen gibt es selbst im größten Bärenmarkt zwischendurch immer.
+- sparplanfähig, aber hohe Gebühren bei jeder Order
+- wegen Ordergebühren bei Einmalkauf hohe Investitionssummen (1000-2000€) empfohlen
+- für eine ausreichende Diversifikation sind je nach Geschmack 20-40 Aktien notwendig
+- starke Auseinandersetzung mit Unternehmen und deren Entwicklung notwendig
+- renditereichsten Unternehmen sind meist im Ausland (vor allem USA), dort muss man wieder steuerrechtliche Themen (=Quellensteuer) beachten
+- Totalverlust bei Insolvenz von Unternehmen möglich
+- starke Kurseinbrüche bei Negativ-Schlagzeilen eines Unternehmens
 
 
 # Wie wähle ich eine Aktie aus?
@@ -251,10 +264,9 @@ Quelle: <a href="https://www.finanzen.net/aktien/General_Mills-Aktie">finanzen.n
 Gerade ist die Aktie gefallen und hat den Stand wie vor 8 Jahren. Das sieht sehr verlockend aus.
 
 
+## Referenzen:
 
-- Referenzen:
-  - https://finanzrocker.net/levermann-strategie-so-bewertest-du-aktien/
+- [Levermann Strategie - so bewertest du Aktien](https://exstudentin.wordpress.com/2015/12/10/aktien-vs-etfs-was-passt-besser-zu-mir-12/ "Levermann Strategie - so bewertest du Aktien")
+- [Aktien vs. ETFs - was passt besser zu mir](https://exstudentin.wordpress.com/2015/12/10/aktien-vs-etfs-was-passt-besser-zu-mir-12/
+ "Aktien vs. ETFs - was passt besser zu mir")
 
-
-
-Mehr Details unter ...
