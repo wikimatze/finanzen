@@ -94,3 +94,4 @@ Wo habt ihr Euer Juniodepot angelegt? In welche Werte investiert ihr und warum?
 
 - [Geld für Kinder sparen](https://beziehungs-investoren.de/geld-fuer-kinder-sparen/ "Geld für Kinder sparen")
 - [Das Weihnachtsgeschenk für Deine Kinder – Die eigene Bank](https://freiheitsmaschine.com/2017/12/19/weihnachtsgeschenk-fuer-deine-kinder-die-eigene-bank/ "Das Weihnachtsgeschenk für Deine Kinder – Die eigene Bank")
+- [Mithilfe von ETFs ein Vermögen für den Nachwuchs aufbauen](https://www.finanzen.net/nachricht/private-finanzen/mithilfe-von-etfs-ein-vermoegen-fuer-den-nachwuchs-aufbauen-7243753 "Mithilfe von ETFs ein Vermögen für den Nachwuchs aufbauen")
