@@ -1,9 +1,9 @@
 +++
-date = "2019-06-24T08:08:45+01:00"
+date = "2019-06-28T08:08:45+01:00"
 title = "Erster ETF Sparplan"
 titleAddition = "Was genau sind ETFs? "
 featuredImage = "/erster_etf_kauf_mit_sparplan.png"
-description = "Ich wollte mit meinen ersten ETF Kauf einen Posten kaufen, der in Dividendenwerte investiert und mir ein passives Einkommen verschafft. Wenn ich erstmal sehe, dass ich für die reingesteckt Arbeit etwas zurück bekomme, dann bin ich eher gewillt am Ball zu bleiben. Welchen Wert habe ich ausgewählt und wie richte ich einen Sparplan bei der DKB ein?"
+description = "Ich wollte mit meinen ersten ETF Kauf einen Posten kaufen, der in Dividendenwerte investiert und mir ein passives Einkommen verschafft. Wenn ich erstmal sehe, dass ich für die investierte Arbeit etwas zurückbekomme, dann bin ich eher gewillt am Ball zu bleiben. Welchen Wert habe ich ausgewählt und wie richte ich einen Sparplan ein?"
 tags = [
     "etfs",
     "spdr",
@@ -13,8 +13,8 @@ tags = [
 
 ## Mein erster ETF
 
-Mein erster ETF kauf sollte ein Dividendenwert sein, der mir ein passives Einkommen verschafft.
-Wenn ich erstmal sehe, dass ich für die reingesteckt Arbeit etwas zurück bekomme, dann bin ich
+Mein erster ETF Kauf sollte ein Dividendenwert sein, der mir ein passives Einkommen verschafft.
+Wenn ich erstmal sehe, dass ich für die investierte Arbeit etwas zurückbekomme, dann bin ich
 eher gewillt am Ball zu bleiben.
 
 Mein erster gekaufter ETF ist der [SPDR S&P Global Dividend Aristocrats UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B9CQXS71 "SPDR S&P Global Dividend Aristocrats UCITS ETF"). Dieser bietet Zugang zu ca. 100 Titeln des S&P Composite 1500® Index und kauft Werte, deren Dividenden in den letzten 20 aufeinander folgenden Jahren gestiegen sind. Dividenden werden jeweils im Februar, Mai, August und November ausgeschüttet.
@@ -22,12 +22,12 @@ Mein erster gekaufter ETF ist der [SPDR S&P Global Dividend Aristocrats UCITS ET
 
 ## Sparplan einrichten bei der DKB
 
-Nachdem man sich in seinen Depot eingeloggt hat, geht man unter dem Depotstatus auf den Punkt "Wertpapiersparpläne".
-Anschließend klickt man in das Feld [WKN](https://de.wikipedia.org/wiki/Wertpapierkennnummer "WKN")/[ISIN](https://de.wikipedia.org/wiki/Internationale_Wertpapierkennnummer "ISIN") beim Wertpapiersparplan und trägt dort "A1T8GD" ein.
+Nachdem ich mich in meinen Depot eingeloggt hat, wird unter dem Depotstatus der Punkt "Wertpapiersparpläne" dargestellt.
+Im Feld [WKN](https://de.wikipedia.org/wiki/Wertpapierkennnummer "WKN")/[ISIN](https://de.wikipedia.org/wiki/Internationale_Wertpapierkennnummer "ISIN") beim Wertpapiersparplan wird die Nummer "A1T8GD" eingetragen.
 
 <br>
 <img src="/wertpapiersparplan_wkn_eintragen.png" class="center" alt="DKB Wertpapiersparplan für WKN A1T8GD"/>
-<div class="right">DKB Wertpapiersparplan für WKN A1T8GD</div>
+<div class="right">Wertpapiersparplan für WKN A1T8GD</div>
 <br>
 
 
@@ -36,31 +36,29 @@ sowie das Intervall der Ausführung angeben kann.
 
 <br>
 <img src="/wertpapiersparplan_wkn_werte_festlegen.png" class="center" alt="DKB Wertpapiersparplan definieren"/>
-<div class="right">DKB Wertpapiersparplan definieren</div>
+<div class="right">Wertpapiersparplan definieren</div>
 <br>
 
 
-Danach sieht man nochmal eine Übersichtsseite, die mit einer TAN bestätigt werden muss:
+Der Abschluss des Sparplans muss auf der Übersichtsseite mit einer TAN bestätigt werden:
 
 
 <br>
 <img src="/wertpapiersparplan_abschluss_uebersicht.png" class="center" alt="DKB Wertpapiersparplan Abschluss Übersicht"/>
-<div class="right">DKB Wertpapiersparplan Abschluss Übersicht</div>
+<div class="right">Wertpapiersparplan Abschluss Übersicht</div>
 <br>
-
-
-Und schon ist der Sparplan angelegt.
-
-Ähnlich wie für einen Dauerauftrag für eure Miete und Strom, der jeden Monat Geld transferiert, kauft euer Sparplan
-regelmäßig Aktienanteile und bucht diese in eurer [Depot](/post/depotwahl "Depot") ein.
 
 
 ## Fazit
 
-Die eigentliche Aufgabe besteht darin, den für Euch passenden [ETF](/post/etf "ETF") auszuwählen. Danach dann einen Sparplan
-anzulegen ist mit einem Dauerauftrag bei euren Girokonto vergleichbar. Fast jeder Broker bietet Sparpläne an.
-Sparpläne bei der [comdirect](https://www.comdirect.de "comdirect") oder [onvista](https://www.onvista.de "onvista") anzulegen ist im Kern ähnlich wie bei der
-DKB.
+Ähnlich einen Dauerauftrag für eure Miete und Strom, er jeden Monat Geld transferiert, kauft euer Sparplan
+monatlich Aktienanteile und bucht diese in eurer [Depot](/post/depotwahl "Depot") ein.
+
+
+Die eigentliche Aufgabe besteht darin, den für Euch passenden [ETF](/post/etf "ETF") auszuwählen und diesen bei einem
+Broker regelmäßig besparen. Sparpläne bei der [comdirect](https://www.comdirect.de "comdirect") oder
+[onvista](https://www.onvista.de "onvista") anzulegen ist im Kern ähnlich wie bei der DKB.
+
 
 `Welchen Sparplan habt ihr als erstes angelegt?`
 
