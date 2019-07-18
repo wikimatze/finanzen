@@ -14,16 +14,16 @@ tags = [
 ## Mein erster ETF
 
 Mein erster ETF Kauf sollte ein Dividendenwert sein, der mir ein passives Einkommen verschafft.
-Wenn ich erstmal sehe, dass ich für die investierte Arbeit etwas zurückbekomme, dann bin ich
-eher gewillt am Ball zu bleiben.
 
-Mein erster gekaufter ETF ist der [SPDR S&P Global Dividend Aristocrats UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B9CQXS71 "SPDR S&P Global Dividend Aristocrats UCITS ETF"). Dieser bietet Zugang zu ca. 100 Titeln des S&P Composite 1500® Index und kauft Werte, deren Dividenden in den letzten 20 aufeinander folgenden Jahren gestiegen sind. Dividenden werden jeweils im Februar, Mai, August und November ausgeschüttet.
+Ich habe mich für den [SPDR S&P Global Dividend Aristocrats UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B9CQXS71 "SPDR S&P Global Dividend Aristocrats UCITS ETF") entschieden, da er eine höhe Ausschüttungsquote bei geringen Risiko bietet.
+
+Dieser bietet Zugang zu ca. 100 Titeln des S&P Composite 1500® Index und kauft Werte, deren Dividenden in den letzten 20 aufeinander folgenden Jahren gestiegen sind. Dividenden werden jeweils im Februar, Mai, August und November ausgeschüttet.
 
 
 ## Sparplan einrichten bei der DKB
 
-Nachdem ich mich in meinen Depot eingeloggt hat, wird unter dem Depotstatus der Punkt "Wertpapiersparpläne" dargestellt.
-Im Feld [WKN](https://de.wikipedia.org/wiki/Wertpapierkennnummer "WKN")/[ISIN](https://de.wikipedia.org/wiki/Internationale_Wertpapierkennnummer "ISIN") beim Wertpapiersparplan wird die Nummer "A1T8GD" eingetragen.
+In  meinen Depot wird unter dem Depotstatus der Punkt "Wertpapiersparpläne" dargestellt.
+Im Feld [WKN](https://de.wikipedia.org/wiki/Wertpapierkennnummer "WKN")/[ISIN](https://de.wikipedia.org/wiki/Internationale_Wertpapierkennnummer "ISIN") (Wertpapierkennnummer/International Securities Identification Number) wird die ISIN "A1T8GD" eingetragen.
 
 <br>
 <img src="/wertpapiersparplan_wkn_eintragen.png" class="center" alt="DKB Wertpapiersparplan für WKN A1T8GD"/>
@@ -31,7 +31,7 @@ Im Feld [WKN](https://de.wikipedia.org/wiki/Wertpapierkennnummer "WKN")/[ISIN](h
 <br>
 
 
-Nach einem Klick auf "Neuer Wertpapiersparplan" geht ein Reiter auf, bei dem man neben den Betrag, auch das Ausführungsdatum
+Nach einem Klick auf "**Neuer Wertpapiersparplan**" geht ein Reiter auf, bei dem man neben den Betrag, auch das Ausführungsdatum
 sowie das Intervall der Ausführung angeben kann.
 
 <br>
@@ -51,12 +51,8 @@ Der Abschluss des Sparplans muss auf der Übersichtsseite mit einer TAN bestäti
 
 ## Fazit
 
-Ähnlich einen Dauerauftrag für eure Miete und Strom, er jeden Monat Geld transferiert, kauft euer Sparplan
-monatlich Aktienanteile und bucht diese in eurer [Depot](/post/depotwahl "Depot") ein.
-
-
-Die eigentliche Aufgabe besteht darin, den für Euch passenden [ETF](/post/etf "ETF") auszuwählen und diesen bei einem
-Broker regelmäßig besparen. Sparpläne bei der [comdirect](https://www.comdirect.de "comdirect") oder
+Die eigentliche Aufgabe beim Sparplan besteht darin, einen passenden [ETF](/post/etf "ETF") auszuwählen und diesen bei einem
+Broker regelmäßig einzukaufen. Sparpläne bei der [comdirect](https://www.comdirect.de "comdirect") oder
 [onvista](https://www.onvista.de "onvista") anzulegen ist im Kern ähnlich wie bei der DKB.
 
 
