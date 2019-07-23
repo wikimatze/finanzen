@@ -3,7 +3,7 @@ date = "2019-04-30T08:08:45+01:00"
 title = "Vorstellung SPDR S&P Global Dividend Aristocrats ETF"
 titleAddition = "Was genau sind ETFs? "
 draft = true
-featuredImage = "/erster__etf__kauf_mit_sparplan.jpg"
+featuredImage = "/vorstellung_spdr_global_dividend_preview.png"
 description = "tbd"
 tags = [
     "etfs",
@@ -74,6 +74,10 @@ EDP - Energias de Portugal SA	Utilities	PRT             | 1,31 %
 
 ## Ausschüttungen
 
+Ausschüttungen: Februar, Mai, August und November
+
+
+
 Jahr | Jährliche Ausschüttungen pro Anteil
 :----| --------
 2019 &nbsp; &nbsp;| (Prognose)	1,33 €	4,94 %
@@ -83,23 +87,31 @@ Jahr | Jährliche Ausschüttungen pro Anteil
 2015 | 0,99 €
 
 
-## Ungefähre Kosten + Gewinne errechnen
+<br>
+## Kosten + Gewinne errechnen
 
-Angenommen wir legen jeden Monat 75 € in den SPDR für 5 Jahr an. In Durschnitt bezahlen wird im Durschnitt 30 € pro Anteil. Pro Jahr
-werden 30 Anteile gekauft.  Pro Anteil werden ca. 0.25 € ausgeschüttet. Da viermal pro Jahr ausgeschüttet wird. Macht das 30 € im ersten Jahr. I'm zweoten Jahr 60 €, im dritten Jahr 90 €, im vierten Jahr 120 € und im fünften Jahr 150 €.
+Angenommen wir legen jeden Monat 75 € in den SPDR für 5 Jahr an. In Durschnitt sind 28 € pro Anteil notwendig. Pro Jahr
+werden 30 Anteile gekauft. Pro Anteil werden ca. 0,25 € ausgeschüttet, d.h. pro Ausschüttung ist das eine Rendite von
+0.89 %.  Da viermal pro Jahr ausgeschüttet wird ergibt das eine Rendite von 3.56 %.
 
-Insgesamt werden in 5 Jahren 450 €.
+Macht das 30 € im ersten Jahr. I'm zweoten Jahr 60 €, im dritten Jahr 90 €, im vierten Jahr 120 € und im fünften Jahr 150 €.
+
+Insgesamt werden in 5 Jahren 450 €. Das eingesetzte Geld beträgt 4500 €.
 
 
-Laut DKB (Bild) werden Insgesamt 161 € ausgegeben. (450 - 161)/4500 macht eine Rendite von 6,4%.
+<br>
+<img src="/vorstellung_spdr_global_dividend.png" class="center" alt="DKB Wertpapiersparplan für WKN A1T8GD"/>
+<div class="right">DKB Gesamtkosten</div>
+<br>
 
 
-- https://www.zinsen-berechnen.de/sparrechner.php => Gewinne
-- Kosten: siehe Dokument von DKB für 5 Jahre
-- https://www.finanzwesir.com/blog/kostentransparenz-mifidii
+Laut DKB (Bild) werden Insgesamt 161 € an Gesamtkosten für die Haltedauer von 5 Jahren ausgegeben. Rechnen wir das alles
+zusammen ergibt sich eine Rendite von 6,4% (450 - 161 / 4500).
+
 
 ## Referenzen
 
 - [extra-etf](https://de.extraetf.com/etf-profile/IE00B9CQXS71 "extra-etf")
 - [SPDR S&P Global Dividend Aristocrats UCITS ETF](https://de.spdrs.com/de/professional/etf/spdr-sp-global-dividend-aristocrats-ucits-etf-dist-ZPRG-GY "SPDR S&P Global Dividend Aristocrats UCITS ETF")
 - [fondsweb](https://www.fondsweb.com/de/IE00B9CQXS71 "fondsweb")
+- [Kostentrasparenz mfidii](https://www.finanzwesir.com/blog/kostentransparenz-mifidii "Kostentrasparenz mfidii")
