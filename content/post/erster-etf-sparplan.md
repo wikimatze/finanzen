@@ -1,7 +1,7 @@
 +++
-date = "2019-06-28T08:08:45+01:00"
+date = "2019-08-06T08:08:45+01:00"
 title = "Erster ETF Sparplan"
-titleAddition = "Was genau sind ETFs? "
+titleAddition = "Erster ETF Sparplan"
 featuredImage = "/erster_etf_kauf_mit_sparplan.png"
 description = "Ich wollte mit meinen ersten ETF Kauf einen Posten kaufen, der in Dividendenwerte investiert und mir ein passives Einkommen verschafft. Wenn ich erstmal sehe, dass ich für die investierte Arbeit etwas zurückbekomme, dann bin ich eher gewillt am Ball zu bleiben. Welchen Wert habe ich ausgewählt und wie richte ich einen Sparplan ein?"
 tags = [
