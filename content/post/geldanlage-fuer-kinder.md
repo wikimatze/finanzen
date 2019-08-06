@@ -10,8 +10,8 @@ tags = [
 ]
 +++
 
-- noch lesen: Depot fuer Kinder test 12/2017, 07/2018 Seite 47
-- noch lesen: Junior-Depot: https://www.justetf.com/de/news/musterportfolio/global-investieren-mit-einfachen-aktien-weltportfolios.html
+- Baby Grundaustattung: https://beziehungs-investoren.de/grundausstattung-baby/
+
 
 ## Ist sparen fürs Kind möglich
 
@@ -34,46 +34,49 @@ Wenn beide bereits fleißig sparen, und ihr diesen Betrag auch mit reduzierten E
 umleiten.
 
 
-Sollte das nicht gehen, dann könnt ihr auch einfach das Elterngeld für die Anlage verwenden.
+Sollte das nicht gehen, dann könnt ihr auch einfach das Kindergeld für die Anlage verwenden. Das Geld steht eh dem Kind
+zu und es stattdessen für Windeln und anderes Zubehör auszugeben, könnt ihr Einfach das komplette Kindergeld bis zum 18
+Lebensjahr investieren.
 
 
-Wenn das eingeschränkte Einkommen plus Elterngeld nicht reicht, um den Lebensunterhalt sicherzustellen, dann müsst ihr
+Wenn das eingeschränkte Einkommen plus Elterngeld + Kindergeld  nicht reicht, um den Lebensunterhalt sicherzustellen, dann müsst ihr
 Geschenke für das Kind zu Geburtstag, Weihnachten und anderen Festen sammeln und anstelle Materiellen Sachen Euch lieber
 Geld wünschen.
 
 
-## Wohin das Geld investieren?
+## Geld investieren oder sparen?
 
 Die Zeiten, das Geld auf ein Sparbuch zu legen, sind vorbei. Bei einer Inflation von bis zu 2% sowie der aktuellen
 Zinslage, wären bis zu 0,35% Zinsen drin. Um das Geld sinvoll zu vermehren, kommt man an Aktien nicht vorbei.
 
 
 Eine breite Streuung und geringe Chance eines Totalverlustes kann man in meinen Augen mit [ETFs](/etf "ETFs") erreichen.
-Durch den sehr langen Anlagehorizont werden in 18 Jahren 42.200 € angespart, wenn monatlich 198 € angelegt werden.
-Bei einer durschnittlichen Rendite von 5% sind am Ende ... (tbd sparrechner).
+Durch den sehr langen Anlagehorizont werden in 18 Jahren 44.064 € angespart, wenn monatlich 204 € angelegt werden.
+Bei einer durschnittlichen Rendite von 5% sind am Ende 70.733 € laut [sparrechner](https://www.zinsen-berechnen.de/sparrechner.php "sparrechner").
 
-Der eingezahlte Betrag wird durch den Zinseszins mehr als verdoppelt.  Nicht schlecht, oder?
+Der eingezahlte Betrag wird durch den Zinseszins mehr als verdoppelt. Nicht schlecht, oder?
 
 
 ## Depot und Fonds fürs Kind
 
-Wir haben für die Investition ein [Junior-Depot bei der comdirect](tbd "Junior-Depot bei der comdirect") angelegt.
+Wir haben für die Investition ein [Junior-Depot bei der comdirect](https://www.comdirect.de/cms/lp/juniordepot_affiliate.html "Junior-Depot bei der comdirect") angelegt. Für einen genauen Vergleich über die Vor- und Nachteile der verschiedenen Broker, hat [Kroko in einen sehr langen Post beschrieben](https://www.finanz-kroko.de/kinder-depot-welchen-online-broker-fuer-mein-kind-comdirect-oder-consorsbank/ "Kroko in einen sehr langen Post beschrieben")
+
+
+
 Dort wandert monatlich der Betrag des Kindergeldes auf der Verrechnungskonto und von da wird dann in die gewählten
 Sparpläne investiert.
 
 Wir haben uns entschieden, möglichst breit und klassisch bei geringen Kosten zu investieren.
 
-- Vanguard FTSE All-Word High Dividend Yield
-  - Ausschüttungen: März, Jun, September, Dezember
-- Vanguard FTSE All World https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25
-  - Ausschüttungen: März, Jun, September, Dezember
-- HSBC MSCI World UCITS:
+- HSBC MSCI World UCITS: TEUR 0.15
   - Ausschüttungen: Jan, April, Jul, Okt
 - Vanguard FTSE Emerging Markets UCITS ETF (WKN A1JX51)
   - Ausschüttungen: März, Jun, September, Dezember
+- Vanguard USD Treasury Bond UCITS ETF: A143JN
+  - Ausschüttungen: monatlich
 
-Der Vorteil der gewählten ETFs: Sie schütten Geld aus - und das fast monatlich. Diese Ausschüttungen stellen eine gute
-Grundlage für das spätere Taschengeld dar.
+Der Vorteil der gewählten ETFs: Sie schütten Geld aus - und das monatlich. Diese Ausschüttungen stellen eine gute
+Grundlage für das spätere Taschengeld dar, dass er sich dann quasi selbst jeden Monat von seinen eigenen Geld auszahlt.
 
 Außerdem kann dieses Verfahren genutzt werden, um Sohnemann die Grundzüge der finanziellen Bildung zu erklären. Der
 Knirpse wird von Kindesbeinen an verstehen, wie Geld für einen arbeitet und wird hoffentlich verstehen, dass dieses Geld
@@ -95,3 +98,6 @@ Wo habt ihr Euer Juniodepot angelegt? In welche Werte investiert ihr und warum?
 - [Geld für Kinder sparen](https://beziehungs-investoren.de/geld-fuer-kinder-sparen/ "Geld für Kinder sparen")
 - [Das Weihnachtsgeschenk für Deine Kinder – Die eigene Bank](https://freiheitsmaschine.com/2017/12/19/weihnachtsgeschenk-fuer-deine-kinder-die-eigene-bank/ "Das Weihnachtsgeschenk für Deine Kinder – Die eigene Bank")
 - [Mithilfe von ETFs ein Vermögen für den Nachwuchs aufbauen](https://www.finanzen.net/nachricht/private-finanzen/mithilfe-von-etfs-ein-vermoegen-fuer-den-nachwuchs-aufbauen-7243753 "Mithilfe von ETFs ein Vermögen für den Nachwuchs aufbauen")
+- [Global investieren mit einfachen Aktien Weltportfolios](https://www.justetf.com/de/news/musterportfolio/global-investieren-mit-einfachen-aktien-weltportfolios.html "Global investieren mit einfachen Aktien Weltportfolios")<`0`>
+- [Sparen für Kinder](https://test.de/sparen-fuer-kinder "Sparen für Kinder")
+
