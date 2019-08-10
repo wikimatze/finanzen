@@ -1,10 +1,10 @@
 +++
-date = "2019-04-30T08:08:45+01:00"
-title = "Vorstellung SPDR S&P Global Dividend Aristocrats ETF"
+date = "2019-08-10T08:08:45+01:00"
+title = "Vorstellung iShares STOXX Global Select Dividend 100 UCITS ETF"
 titleAddition = "Was genau sind ETFs? "
-draft = true
+draft = false
 featuredImage = "/vorstellung_spdr_global_dividend_preview.png"
-description = "tbd"
+description = ""
 tags = [
     "etfs",
     "spdr",
@@ -12,7 +12,6 @@ tags = [
 ]
 +++
 
-Der SPDR S&P Global Dividend Aristocrats UCITS versucht, die Wertentwicklung des S&P Global Dividend Aristocrats Index möglichst genau abzubilden. Dazu investiert er in erster Linie in Wertpapiere des Index. Zu diesen Wertpapieren gehören weltweite Unternehmen mit hohen Dividendenrenditen im S&P Global Broad Market Index (BMI), die eine kontrollierte Dividendenpolitik mit steigenden oder beständigen Dividenden für mindestens 10 aufeinander folgende Jahre befolgt haben.
 
 
 ## Länderverteilung
