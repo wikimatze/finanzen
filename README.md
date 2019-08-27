@@ -27,6 +27,7 @@ Anschließend kann die Seite unter <http://localhost:1313/> betrachtet werden.
 # Technologien
 
 - [hugo](https://gohugo.io/ "hugo") für die statische Seite
+   - [shortcodes](https://gohugo.io/content-management/shortcodes/#readout "shortcodes")
 - [onepress](https://themes.gohugo.io/onepress/ "onepress") Template Vorlage für diesen Blog
 - [hashover](https://github.com/jacobwb/hashover "hashover") für die Kommentare
 - [matomo](https://matomo.org/ "matomo") fürs tracking
