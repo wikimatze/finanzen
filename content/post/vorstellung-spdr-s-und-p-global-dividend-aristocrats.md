@@ -14,6 +14,8 @@ tags = [
 
 Der SPDR S&P Global Dividend Aristocrats UCITS versucht, die Wertentwicklung des S&P Global Dividend Aristocrats Index möglichst genau abzubilden. Dazu investiert er in erster Linie in Wertpapiere des Index. Zu diesen Wertpapieren gehören weltweite Unternehmen mit hohen Dividendenrenditen im S&P Global Broad Market Index (BMI), die eine kontrollierte Dividendenpolitik mit steigenden oder beständigen Dividenden für mindestens 10 aufeinander folgende Jahre befolgt haben.
 
+{{% spdr-s-und-p-global-dividend-aristocrats %}}
+
 
 ## Länderverteilung
 
