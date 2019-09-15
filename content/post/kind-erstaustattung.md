@@ -31,7 +31,11 @@ tags = [
 - Kleiderschrank weiß: 284,25€ https://www.moemax.de/p/premium-living-kleiderschrank-in-weiss-004204004406
 - Babywippe: 112 € https://www.amazon.de/gp/product/B01N4F0A8P/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
 
-- Spucktücher (Mullwindeln) 10 Stück Zöllner: 15.99 https://www.amazon.de/Zollner-Spuckt%C3%BCcher-Mullwindeln-Baumwolle-80x80/dp/B017XKGY5E
+- Spucktücher (Mullwindeln) 10 Stück Zöllner: 14.99 € https://www.amazon.de/Zollner-Spuckt%C3%BCcher-Mullwindeln-Baumwolle-80x80/dp/B017XKGY5E
+- Babydream Mullwindeln: 3 Stück 5.59 € (https://www.rossmann.de/de/Mullwindeln/p/4305615621098)
+- Babydream Mullwindeln: 3 Stück 5.59 € (https://www.rossmann.de/de/Mullwindeln/p/4305615621098)
+
+- Babydream Moltontuch: 2 Stück 4.79 € (https://www.rossmann.de/de/Moltontuecher/p/4305615621104)
 
 - H&M Neugeborenen Outfit: 33.47 €
 - C&A Schlafanzüge: 18.50 €
@@ -58,5 +62,24 @@ tags = [
 - Babysocken 6 Stück 3.99 Kaufland
 - Baby Body Kurz: 5.99
 
+- Cybex Base M: 119,69 € https://babyprofi.de/Cybex-Base-M-schwarz
+- Babyschale Cybex : 80 € https://www.amazon.de/dp/B07GLDKFF8/ref=twister_B07S4V8MX2?_encoding=UTF8&psc=1
+
+- Wolken Deko: 19,95 € https://www.amazon.de/dp/B0713SW6SN/ref=twister_B07BXX54FX?_encoding=UTF8&psc=1
+
+- Nuckel NUK BS Space Silikon Gr. 1: 4.75 € (https://www.amazon.de/NUK-Space-Schnuller-kiefergerechte-Form/dp/B07JMPY9VB)
+
+- Stillbh Baybdream: 7.19 € (https://www.rossmann.de/de/Still-BH-100-E/p/4305615533995)
+
+- Ruvalino Wickelrucksak: 31.98 € https://www.amazon.de/Wickelrucksack-Multifunktional-Wickeltasche-Wickelunterlage-Wasserdicht/dp/B07SLX4G34/
+- Wickelrucksack Hacken: 7.99 € https://www.amazon.de/Kinderwagen-Haken-universelle-vielseitige-Wickeltasche-Einkaufstasche/dp/B07GXHP994
+
+- Kuscheldecke: 12.47 € https://www.amazon.de/gp/product/B072QKYJ63/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+- Spielwiese (geschenkt von Oma & Opa): https://www.zwergencompany.de/done-by-deer-activity-playmat-blue
+
+- Milchpumpe Lansinoh: 38,74 € https://www.amazon.de/dp/B07MZN4DD6/
+
+- Tragesystem: 120 € https://www.windeln.de/kokadi-babytrage-taitai-just-mr-grey.html
 
 

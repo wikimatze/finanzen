@@ -73,6 +73,8 @@ Wir haben uns entschieden, möglichst breit und klassisch bei geringen Kosten zu
 - Vanguard FTSE Emerging Markets UCITS ETF (WKN A1JX51)
   - Ausschüttungen: März, Jun, September, Dezember
 - Vanguard USD Treasury Bond UCITS ETF: A143JN
+  - Ausschüttungen: monatlich - schwanken sehr wenig
+- Vanguard USD Corporate Bond UCITS ETF: A143JM
   - Ausschüttungen: monatlich
 
 Der Vorteil der gewählten ETFs: Sie schütten Geld aus - und das monatlich. Diese Ausschüttungen stellen eine gute
@@ -98,6 +100,6 @@ Wo habt ihr Euer Juniodepot angelegt? In welche Werte investiert ihr und warum?
 - [Geld für Kinder sparen](https://beziehungs-investoren.de/geld-fuer-kinder-sparen/ "Geld für Kinder sparen")
 - [Das Weihnachtsgeschenk für Deine Kinder – Die eigene Bank](https://freiheitsmaschine.com/2017/12/19/weihnachtsgeschenk-fuer-deine-kinder-die-eigene-bank/ "Das Weihnachtsgeschenk für Deine Kinder – Die eigene Bank")
 - [Mithilfe von ETFs ein Vermögen für den Nachwuchs aufbauen](https://www.finanzen.net/nachricht/private-finanzen/mithilfe-von-etfs-ein-vermoegen-fuer-den-nachwuchs-aufbauen-7243753 "Mithilfe von ETFs ein Vermögen für den Nachwuchs aufbauen")
-- [Global investieren mit einfachen Aktien Weltportfolios](https://www.justetf.com/de/news/musterportfolio/global-investieren-mit-einfachen-aktien-weltportfolios.html "Global investieren mit einfachen Aktien Weltportfolios")<`0`>
+- [Global investieren mit einfachen Aktien Weltportfolios](https://www.justetf.com/de/news/musterportfolio/global-investieren-mit-einfachen-aktien-weltportfolios.html "Global investieren mit einfachen Aktien Weltportfolios")
 - [Sparen für Kinder](https://test.de/sparen-fuer-kinder "Sparen für Kinder")
 
