@@ -1,3 +1,19 @@
++++
+date = "2019-06-11T20:00:00+01:00"
+title = "ETFs"
+titleAddition = "Was genau sind ETFs? Warum sprechen alle darüber? Was kann ich damit anfangen"
+draft = true
+featuredImage = "/etfs.png"
+description = "ETFs sind börsengehandelte Indexfonds. Börsengehandelt bedeutet, dass der jeweilige ETF an der Börse gekauft und verkauft werden darf. Ein Index bildet die Gesamtperformance verschiedener Unternehmen oder grundlegende wirtschaftliche Entwicklungen einzelner Länder ab. ETFs investieren das Geld der Anleger in Aktien des zurgundeligenden Indexes. Welche Vor- und Nachteile haben ETFs?"
+tags = [
+    "etfs",
+    "index",
+    "BlackRock",
+    "Vanguard"
+]
++++
+
+
 ## Was ist finanzielle Freiheit
 
 Für mich ist finanzielle Freiheit der Zustand, in dem man nicht mehr angewiesen ist, unbedingt zu arbeiten.

@@ -2,7 +2,7 @@
 date = "2019-08-10T08:08:45+01:00"
 title = "Vorstellung iShares Emerging Markets Dividend UCITS ETF"
 titleAddition = "Was genau sind ETFs? "
-draft = false
+draft = true
 featuredImage = "/vorstellung_spdr_global_dividend_preview.png"
 description = ""
 tags = [
