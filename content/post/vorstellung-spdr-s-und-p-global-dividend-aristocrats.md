@@ -1,9 +1,9 @@
 +++
-date = "2019-08-10T08:08:45+01:00"
+date = "2019-09-20T08:08:45+01:00"
 title = "Vorstellung SPDR S&P Global Dividend Aristocrats ETF"
-titleAddition = "Was genau sind ETFs? "
+titleAddition = "finanzmatze"
 draft = false
-featuredImage = "/vorstellung_spdr_global_dividend_preview.png"
+featuredImage = "/spdr_global_dividend_aristocrats_etf.png"
 description = "Der SPDR S&P Global Dividend Aristocrats UCITS versucht, die Wertentwicklung des S&P Global Dividend Aristocrats Index möglichst genau abzubilden. Dazu investiert er in erster Linie in Wertpapiere des Index. Zu diesen Wertpapieren gehören weltweite Unternehmen mit hohen Dividendenrenditen im S&P Global Broad Market Index (BMI), die eine kontrollierte Dividendenpolitik mit steigenden oder beständigen Dividenden für mindestens 10 aufeinander folgende Jahre befolgt haben."
 tags = [
     "etfs",
@@ -14,10 +14,9 @@ tags = [
 
 Der SPDR S&P Global Dividend Aristocrats UCITS versucht, die Wertentwicklung des S&P Global Dividend Aristocrats Index möglichst genau abzubilden. Dazu investiert er in erster Linie in Wertpapiere des Index. Zu diesen Wertpapieren gehören weltweite Unternehmen mit hohen Dividendenrenditen im S&P Global Broad Market Index (BMI), die eine kontrollierte Dividendenpolitik mit steigenden oder beständigen Dividenden für mindestens 10 aufeinander folgende Jahre befolgt haben.
 
-{{% spdr-s-und-p-global-dividend-aristocrats %}}
-
 
 ## Länderverteilung
+
 
 Land                    | Verteilung
 :---------------------- | --------
@@ -88,26 +87,30 @@ Jahr | Jährliche Ausschüttungen pro Anteil
 2016 | 1,07 €
 2015 | 0,99 €
 
+<br>
+
+{{% spdr-s-und-p-global-dividend-aristocrats %}}
 
 <br>
+
 ## Kosten + Gewinne errechnen
 
-Angenommen wir legen jeden Monat 75 € in den SPDR für 5 Jahr an. In Durschnitt sind 28 € pro Anteil notwendig. Pro Jahr
+Angenommen wir legen jeden Monat 75 € in den SPDR für 5 Jahr an. Im Durschnitt sind 28 € pro Anteil notwendig. Pro Jahr
 werden 30 Anteile gekauft. Pro Anteil werden ca. 0,25 € ausgeschüttet, d.h. pro Ausschüttung ist das eine Rendite von
 0.89 %.  Da viermal pro Jahr ausgeschüttet wird ergibt das eine Rendite von 3.56 %.
 
-Macht das 30 € im ersten Jahr. I'm zweoten Jahr 60 €, im dritten Jahr 90 €, im vierten Jahr 120 € und im fünften Jahr 150 €.
+Macht das 30 € im ersten Jahr. I'm zweiten Jahr 60 €, im dritten Jahr 90 €, im vierten Jahr 120 € und im fünften Jahr 150 €.
 
 Insgesamt werden in 5 Jahren 450 €. Das eingesetzte Geld beträgt 4500 €.
 
 
 <br>
-<img src="/vorstellung_spdr_global_dividend.png" class="center" alt="DKB Wertpapiersparplan für WKN A1T8GD"/>
-<div class="right">DKB Gesamtkosten</div>
+<img src="/vorstellung_spdr_global_dividend.png" class="center" alt="SPDR S&P Global Dividend Aristocrats ETF"/>
+<div class="right">SPDR S&P Global Dividend Aristocrats ETF Gesamtkosten</div>
 <br>
 
 
-Laut DKB (Bild) werden Insgesamt 161 € an Gesamtkosten für die Haltedauer von 5 Jahren ausgegeben. Rechnen wir das alles
+Laut DKB werden Insgesamt 161 € an Gesamtkosten für die Haltedauer von 5 Jahren ausgegeben. Rechnen wir das alles
 zusammen ergibt sich eine Rendite von 6,4% (450 - 161 / 4500).
 
 
@@ -117,3 +120,4 @@ zusammen ergibt sich eine Rendite von 6,4% (450 - 161 / 4500).
 - [SPDR S&P Global Dividend Aristocrats UCITS ETF](https://de.spdrs.com/de/professional/etf/spdr-sp-global-dividend-aristocrats-ucits-etf-dist-ZPRG-GY "SPDR S&P Global Dividend Aristocrats UCITS ETF")
 - [fondsweb](https://www.fondsweb.com/de/IE00B9CQXS71 "fondsweb")
 - [Kostentrasparenz mfidii](https://www.finanzwesir.com/blog/kostentransparenz-mifidii "Kostentrasparenz mfidii")
+
