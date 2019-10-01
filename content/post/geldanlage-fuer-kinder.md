@@ -1,10 +1,10 @@
 +++
 date = "2019-02-10T08:08:45+01:00"
-title = "ETFs"
-titleAddition = "Was genau sind ETFs? Warum sprechen alle darüber? Was kann ich damit anfangen"
-draft = true
-featuredImage = "/etfs.jpg"
-description = "tbd"
+title = "Geldanlage für Kinder"
+titleAddition = "Geldanlage für Kinder"
+draft = false
+featuredImage = "/junior_depot.png"
+description = "Ein Kind kostet laut Quellen im Internet bis es 18 Jahre alt ist, durschnittlich 120.000. Euro. Darin enthalten sind Kleidung, Lebensmittel, Spielzeug, Schulsachen sowie Geld für die Betreuung. Außerdem bleibt bei den meisten Familien ein Elternteil für das erste Jahre Zuhause, um sich um das Kind un die neue Situation zu kümmern. Somit fällt ein Teil des Einkommens weg. Die Frage lautet: Wie soll dann gleichzeitig noch Geld für das Kind gespart werden?"
 tags = [
     "etfs",
 ]
@@ -12,13 +12,15 @@ tags = [
 
 - Baby Grundaustattung: https://beziehungs-investoren.de/grundausstattung-baby/
 
+Ein Kind kostet laut Quellen im Internet bis es 18 Jahre alt ist, durschnittlich 120.000. Euro. Darin enthalten sind Kleidung, Lebensmittel, Spielzeug, Schulsachen sowie Geld für die Betreuung. Außerdem bleibt bei den meisten Familien ein Elternteil für das erste Jahre Zuhause, um sich um das Kind un die neue Situation zu kümmern. Somit fällt ein Teil des Einkommens weg.
+
 
 ## Ist sparen fürs Kind möglich
 
 Ein Kind kostet laut Quellen im Internet bis es 18 Jahre alt ist, [durschnittlich 120.000 €](https://www.familie.de/eltern/wie-viel-kosten-kinder-536481.html "durschnittlich 120.000 €"). Euro. Darin enthalten sind
 Kleidung, Lebensmittel, Spielzeug, Schulsachen sowie Geld für die Betreuung.
 
-Außerdem bleibt bei den meisten Familien ein Elternteil für das erste Jahre Zuhause,  um sich um das Kind un die neue
+Außerdem bleibt bei den meisten Familien ein Elternteil für das erste Jahre Zuhause, um sich um das Kind un die neue
 Situation zu kümmern. Somit fällt ein Teil des Einkommens weg.
 
 Meistens ist es dann so, dass sich die Karriere nicht so weiterentwickelt, wie man es sich denkt. Es kann sein, dass
@@ -62,20 +64,21 @@ Der eingezahlte Betrag wird durch den Zinseszins mehr als verdoppelt. Nicht schl
 Wir haben für die Investition ein [Junior-Depot bei der comdirect](https://www.comdirect.de/cms/lp/juniordepot_affiliate.html "Junior-Depot bei der comdirect") angelegt. Für einen genauen Vergleich über die Vor- und Nachteile der verschiedenen Broker, hat [Kroko in einen sehr langen Post beschrieben](https://www.finanz-kroko.de/kinder-depot-welchen-online-broker-fuer-mein-kind-comdirect-oder-consorsbank/ "Kroko in einen sehr langen Post beschrieben")
 
 
-
 Dort wandert monatlich der Betrag des Kindergeldes auf der Verrechnungskonto und von da wird dann in die gewählten
 Sparpläne investiert.
 
 Wir haben uns entschieden, möglichst breit und klassisch bei geringen Kosten zu investieren.
 
-- HSBC MSCI World UCITS: TEUR 0.15
+- HSBC MSCI World UCITS ETF: A1C9KL TEUR 0.15
   - Ausschüttungen: Jan, April, Jul, Okt
-- Vanguard FTSE Emerging Markets UCITS ETF (WKN A1JX51)
+- Vanguard FTSE Emerging Markets UCITS ETF: A1JX51 TEUR 0.25
   - Ausschüttungen: März, Jun, September, Dezember
-- Vanguard USD Treasury Bond UCITS ETF: A143JN
-  - Ausschüttungen: monatlich - schwanken sehr wenig
-- Vanguard USD Corporate Bond UCITS ETF: A143JM
+- iShares Developed Markets Property Yield UCITS: A0LEW8 TEUR 0.59
+  - Ausschüttungen: Februar, Mai, Aug, Nov
+- Vanguard USD Corporate Bond UCITS ETF: A143JM TEUR 0.12
   - Ausschüttungen: monatlich
+  - kostenlos comdirect
+
 
 Der Vorteil der gewählten ETFs: Sie schütten Geld aus - und das monatlich. Diese Ausschüttungen stellen eine gute
 Grundlage für das spätere Taschengeld dar, dass er sich dann quasi selbst jeden Monat von seinen eigenen Geld auszahlt.
