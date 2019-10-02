@@ -2,7 +2,7 @@
 date = "2019-02-10T08:08:45+01:00"
 title = "Geldanlage für Kinder"
 titleAddition = "Geldanlage für Kinder"
-draft = false
+draft = true
 featuredImage = "/junior_depot.png"
 description = "Ein Kind kostet laut Quellen im Internet bis es 18 Jahre alt ist, durschnittlich 120.000. Euro. Darin enthalten sind Kleidung, Lebensmittel, Spielzeug, Schulsachen sowie Geld für die Betreuung. Außerdem bleibt bei den meisten Familien ein Elternteil für das erste Jahre Zuhause, um sich um das Kind un die neue Situation zu kümmern. Somit fällt ein Teil des Einkommens weg. Die Frage lautet: Wie soll dann gleichzeitig noch Geld für das Kind gespart werden?"
 tags = [

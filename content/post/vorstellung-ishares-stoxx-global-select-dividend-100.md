@@ -1,7 +1,7 @@
 +++
 date = "2019-08-10T08:08:45+01:00"
 title = "Vorstellung iShares STOXX Global Select Dividend 100 UCITS ETF"
-titleAddition = "Was genau sind ETFs? "
+titleAddition = "finanzmatze"
 draft = true
 featuredImage = "/vorstellung_spdr_global_dividend_preview.png"
 description = ""

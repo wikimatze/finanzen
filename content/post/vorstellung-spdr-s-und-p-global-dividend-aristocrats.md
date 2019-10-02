@@ -2,7 +2,6 @@
 date = "2019-09-20T08:08:45+01:00"
 title = "Vorstellung SPDR S&P Global Dividend Aristocrats ETF"
 titleAddition = "finanzmatze"
-draft = false
 featuredImage = "/spdr_global_dividend_aristocrats_etf.png"
 description = "Der SPDR S&P Global Dividend Aristocrats UCITS versucht, die Wertentwicklung des S&P Global Dividend Aristocrats Index möglichst genau abzubilden. Dazu investiert er in erster Linie in Wertpapiere des Index. Zu diesen Wertpapieren gehören weltweite Unternehmen mit hohen Dividendenrenditen im S&P Global Broad Market Index (BMI), die eine kontrollierte Dividendenpolitik mit steigenden oder beständigen Dividenden für mindestens 10 aufeinander folgende Jahre befolgt haben."
 tags = [

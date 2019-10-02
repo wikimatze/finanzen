@@ -1,16 +1,17 @@
 +++
-date = "2019-08-10T08:08:45+01:00"
+date = "2019-10-02T08:05:20+01:00"
 title = "Vorstellung iShares Emerging Markets Dividend UCITS ETF"
 titleAddition = "Was genau sind ETFs? "
-draft = true
-featuredImage = "/vorstellung_spdr_global_dividend_preview.png"
-description = ""
+featuredImage = "/vorstellung_ishares_emerging_markets_dividend_preview.png"
+description = "Der iShares Dow Jones Emerging Markets Select Dividend bildet die Wertentwicklung von Unternehmen aus Schwellenländern ab, die Dividenden zahlen und über einen längeren Zeitraum ein entsprechendes Programm für Dividendenzahlungen aufrechterhalten können. Die auserwählten Unternehmen müssen einen Gewinn je Aktie (ein Indikator für die Ertragskraft eines Unternehmens) aufweisen, der in den letzten 12 Monaten nicht gesunken ist, und in den letzten drei Jahren regelmößig Dividenden gezahlt haben."
 tags = [
     "etfs",
-    "spdr",
+    "ishares",
     "dividende",
 ]
 +++
+
+
 
 Der iShares Dow Jones Emerging Markets Select Dividend ist ein börsengehandelter Indexfonds (Exchange Traded Fund, ETF), der möglichst genau die Wertentwicklung vom Dow Jones Emerging Markets Select Dividend IndexSM abbildet. Der ETF investiert direkt in die im Index enthaltenen Wertpapiere. Der Dow Jones Emerging Markets Select Dividend IndexSM bildet die Wertentwicklung von Unternehmen aus Schwellenländern ab, die Dividenden zahlen und über einen längeren Zeitraum ein entsprechendes Programm für Dividendenzahlungen aufrechterhalten können. Die auserwählten Unternehmen müssen einen Gewinn je Aktie (ein Indikator für die Ertragskraft eines Unternehmens) aufweisen, der in den letzten 12 Monaten nicht gesunken ist, und in den letzten drei Jahren regelmößig Dividenden gezahlt haben.
 
@@ -88,14 +89,14 @@ In Durschnitt sind 18 € pro Anteil notwendig. Pro Jahr
 werden 96 Anteile gekauft. Pro Anteil werden ca. 0,25 € ausgeschüttet, d.h. pro Ausschüttung ist das eine Rendite von
 1,38 %.  Da viermal pro Jahr ausgeschüttet wird ergibt das eine Rendite von 5.52 %.
 
-Macht das 96 € im ersten Jahr. I'm zweiten Jahr 192 €, im dritten Jahr 288 €, im vierten Jahr 384 € und im fünften Jahr 480 €.
+Macht das 96 € im ersten Jahr. Im zweiten Jahr 192 €, im dritten Jahr 288 €, im vierten Jahr 384 € und im fünften Jahr 480 €.
 
 Insgesamt werden in 5 Jahren 1440 €. Das eingesetzte Geld beträgt 9.000 €.
 
 
 <br>
-<img src="/vorstellung_spdr_global_dividend.png" class="center" alt="iShares STOXX Global Select Dividend 100 UCITS"/>
-<div class="right">iShares STOXX Global Select Dividend 100 UCITS Gesamtkosten</div>
+<img src="/vorstellung_ishares_emerging_markets_dividend.png" class="center" alt="iShares Emerging Markets Dividend UCITS ETF"/>
+<div class="right">iShares Emerging Markets Dividend UCITS ETF Gesamtkosten</div>
 <br>
 
 
