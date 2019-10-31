@@ -33,7 +33,7 @@
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.heading }}{{ .Params.heading }}{{ else }}{{ .Title }}{{ end }}"> <meta property="og:type" content="website">
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .Site.Params.description }}{{ .Site.Params.description}}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:updated_time" content="{{ .Now }}">
+<meta property="og:updated_time" content="{{ now }}">
 
 
 {{ if .Site.Params.opengraphImage}}
