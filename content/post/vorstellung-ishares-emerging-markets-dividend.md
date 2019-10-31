@@ -1,7 +1,7 @@
 +++
 date = "2019-10-02T08:05:20+01:00"
 title = "Vorstellung iShares Emerging Markets Dividend UCITS ETF"
-titleAddition = "Was genau sind ETFs? "
+titleAddition = "finanzmatze"
 featuredImage = "/vorstellung_ishares_emerging_markets_dividend_preview.png"
 description = "Der iShares Dow Jones Emerging Markets Select Dividend bildet die Wertentwicklung von Unternehmen aus Schwellenländern ab, die Dividenden zahlen und über einen längeren Zeitraum ein entsprechendes Programm für Dividendenzahlungen aufrechterhalten können. Die auserwählten Unternehmen müssen einen Gewinn je Aktie (ein Indikator für die Ertragskraft eines Unternehmens) aufweisen, der in den letzten 12 Monaten nicht gesunken ist, und in den letzten drei Jahren regelmößig Dividenden gezahlt haben."
 tags = [
