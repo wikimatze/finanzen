@@ -1,10 +1,10 @@
 +++
-date = "2019-08-10T08:08:45+01:00"
+date = "2020-01-22T08:08:45+01:00"
 title = "Vorstellung Vanguard S&P 500 UCITS"
-titleAddition = "Was genau sind ETFs? "
-draft = true
-featuredImage = "/vorstellung_spdr_global_dividend_preview.png"
-description = ""
+titleAddition = "Vorstellung Vanguard S&P 500 UCITS"
+draft = false
+featuredImage = "/vorstellung_vanguard_s_and_p_500_preview.png"
+description = "Der S&P 500 Index bietet Zugang zu 500 der größten Unternehmen aus den USA. Enthalten sind Aktien aus dem Large Cap-Segment und in der Regel ihren Sitz in den Vereinigten Staaten von Amerika haben."
 tags = [
     "etfs",
     "spdr",
@@ -57,9 +57,10 @@ Johnson & Johnson	              | 1,38869 %
 Exxon Mobil Corp.	              | 1,26367 %
 <br>
 
+
 ## Ausschüttungen
 
-Auschüttungen: Februar, Mai, August und November
+Ausschüttungen: Februar, Mai, August und November
 
 
 Jahr                          | Jährliche Ausschüttungen pro Anteil
@@ -74,23 +75,24 @@ Jahr                          | Jährliche Ausschüttungen pro Anteil
 
 ## Kosten + Gewinne errechnen
 
-Angenommen wir legen jeden Monat 150 € in den Vanguard FTSE All-Word High Dividend Yield für 5 Jahr an. In Durschnitt sind 47 € pro Anteil notwendig. Pro Jahr
-werden 36 Anteile gekauft. Pro Anteil werden ca. 0,23 € ausgeschüttet, d.h. pro Ausschüttung ist das eine Rendite von
-0,48 %.  Da viermal pro Jahr ausgeschüttet wird ergibt das eine Rendite von 1.92 %.
+Angenommen wir legen jeden Monat 150 € in den Vanguard S&P 500 UCITS für 5 Jahr an. Im Durschnitt sind `47 €` pro Anteil notwendig.
+Pro Jahr werden 36 Anteile gekauft. Pro Anteil werden ca. 0,23 € ausgeschüttet, d.h. pro Ausschüttung ist das eine Rendite von
+`0,48 %`. Da viermal pro Jahr ausgeschüttet wird ergibt das eine Rendite von 1.92 %.
 
-Macht das 33 € im ersten Jahr. Im zweiten Jahr 66 €, im dritten Jahr 99 €, im vierten Jahr 132 € und im fünften Jahr 165 €.
+Das ergibt `33 €` im ersten Jahr. Im zweiten Jahr `66 €`, im dritten Jahr `99 €`, im vierten Jahr `132 €` und im fünften Jahr `165 €`.
 
-Insgesamt werden in 5 Jahren 495 €. Das eingesetzte Geld beträgt 9.000 €.
+Insgesamt werden in **5 Jahren 495 € ausgeschüttet**. Das eingesetzte Geld beträgt `9.000 €` ohne etwaige Kaufkosten oder aber aber
+eventueller Abzug von Abgeltungssteuern auf Kapitalerträge.
 
 
 <br>
-<img src="/vorstellung_spdr_global_dividend.png" class="center" alt="Vanguard S&P 500 UCITS"/>
+<img src="/vorstellung_vanguard_s_and_p_500.png" class="center" alt="Vanguard S&P 500 UCITS"/>
 <div class="right">Vanguard S&P 500 UCITS Gesamtkosten</div>
 <br>
 
 
-Laut DKB (Bild) werden Insgesamt 116,05 € an Gesamtkosten für die Haltedauer von 5 Jahren ausgegeben. Rechnen wir das alles
-zusammen ergibt sich eine Rendite von 4,2% (495 - 116,05 / 9.000).
+Laut DKB (Bild) werden Insgesamt `116,05 €` an Gesamtkosten für die Haltedauer von 5 Jahren ausgegeben. Rechnen wir das alles
+zusammen ergibt sich eine Gesamtrendite von 4,2% (495 - 116,05 / 9.000) auf das eingesetzte Kapital.
 
 
 ## Referenzen
