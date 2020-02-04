@@ -1,10 +1,10 @@
 +++
-date = "2020-01-21T05:08:45+01:00"
+date = "2020-02-04T20:15:45+01:00"
 title = "Vorstellung iShares STOXX Global Select Dividend 100 UCITS ETF"
 titleAddition = "finanzmatze"
 draft = false
 featuredImage = "/ishares_stoxx_global_select_dividend_100.png"
-description = ""
+description = "Der iShares STOXX Global Select Dividend 100 bildet möglichst genau die Wertentwicklung vom STOXX® Global Select Dividend 100 Index ab. Der Index bietet Zugang zu 100 Aktien mit hohen Dividendenausschüttungen aus dem STOXX® Global 1800 Index. Der Index enthält ausschließlich Unternehmen, deren Dividende je Aktie in den vergangenen fünf Jahren nicht gesunken ist und deren Dividende zu Gewinn je Aktie weniger oder gleich 60 Prozent in Europa, Latein- und Nordamerika bzw. 80 Prozent in Asien-Pazifik beträgt."
 tags = [
     "etfs",
     "ishares",
@@ -82,13 +82,13 @@ Jahr | Jährliche Ausschüttungen pro Anteil
 
 ## Kosten + Gewinne errechnen
 
-Angenommen wir legen jeden Monat 200 € in den iShares Stoxx für 5 Jahr an. In Durschnitt sind 26 € pro Anteil notwendig. Pro Jahr
+Angenommen wir legen jeden Monat 200 € in den iShares Stoxx für 5 Jahr an. Im Durchschnitt sind 26 € pro Anteil notwendig. Pro Jahr
 werden 84 Anteile gekauft. Pro Anteil werden ca. 0,25 € ausgeschüttet, d.h. pro Ausschüttung ist das eine Rendite von
 0,96 %.  Da viermal pro Jahr ausgeschüttet wird ergibt das eine Rendite von 3.84 %.
 
-Insgesamt ergibt das 84 € im ersten Jahr. Im zweiten Jahr 168 € (84 * 2), im dritten Jahr 252 € (84 * 2), im vierten Jahr 336 € und im fünften Jahr 420 €.
+Insgesamt ergibt das 84 € im ersten Jahr. Im zweiten Jahr 168 €, im dritten Jahr 252 €, im vierten Jahr 336 € und im fünften Jahr 420 €.
 
-Insgesamt werden in 5 Jahren 1260 € ausgeschüttet. Das eingesetzte Geld beträgt 12.000 € ohne Einberechnung etwaige Kaufkosten.
+Insgesamt werden in 5 Jahren 1260 € ausgeschüttet. Das eingesetzte Geld beträgt 12.000 € ohne Einberechnung der Kaufkosten.
 
 
 <br>
