@@ -226,9 +226,13 @@ Postfach 10 15 36
 -- https://www.ing.de/kundenservice/konto-und-depot-verwalten/formulare/#987348
 - Onvista:
 -- https://www.onvista-bank.de/files/dokumente/formulare/formularcenter/050_konto-depotvollmacht.pdf
+-- Depotfreigabe für Handel durch Bevollmächtigte https://onvista-bank.de/files/dokumente/formulare/formularcenter/052-konto-depotfreigabe.pdf
 - Comdirect:
 -- https://www.comdirect.de/cms/formulare-auftraege-und-services.html
 -- https://www.comdirect.de/pbl/ePdfTracker.do?ePageId=cori4442
 
-TBD LINKS ZU DOKUMENTEN oder aber geschwärzte Beispiele von meinen Dokumenten
+
+# Referenzen:
+
+- Vorsorgevollmachte eBook: https://www.finanztip.de/fileadmin/images/Attachments/PDF/Recht/Finanztip_E-Book_Vorsorge_2019.pdf
 

@@ -7,7 +7,6 @@ featuredImage = "/ishares_stoxx_global_select_dividend_100.png"
 description = "Der iShares STOXX Global Select Dividend 100 bildet möglichst genau die Wertentwicklung vom STOXX® Global Select Dividend 100 Index ab. Der Index bietet Zugang zu 100 Aktien mit hohen Dividendenausschüttungen aus dem STOXX® Global 1800 Index. Der Index enthält ausschließlich Unternehmen, deren Dividende je Aktie in den vergangenen fünf Jahren nicht gesunken ist und deren Dividende zu Gewinn je Aktie weniger oder gleich 60 Prozent in Europa, Latein- und Nordamerika bzw. 80 Prozent in Asien-Pazifik beträgt."
 tags = [
     "etfs",
-    "ishares",
     "stoxx",
     "dividende",
 ]
