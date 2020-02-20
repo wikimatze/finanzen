@@ -47,3 +47,7 @@
 {{ end }}
 
 <link rel="canonical" href="{{ .Permalink }}">
+{{ if .Params.d3 }}
+<script src="/js/d3_min.js"></script>
+{{ end }}
+
