@@ -15,13 +15,10 @@ tags = [
 
 TODO:
 - find a funny image for the reports - just be creative
-- jährliche Rendite (hier und im Dividendenkalender) von: Foot Locker, Lufthansa, Exxon Mobil, WestRock
-- jährliche Rendite (hier und im Dividendenkalender) von: Vanguard FTSE All-Word High Dividend Yield, iShares Developed Markets Property Yield, iShares Asia Property Yield UCITS
 - Mike von dividenden-sparer blog direkt per Mail informieren, dass ich diesen Eintrag veröffentlich habe
 
 
 Ich planne alle zwei Monate meine Dividendeneinnahmen zu posten. Also auf gehts zu meinen ersten Einnahmen-Report
-
 
 <br>
 ## Einnahmen Januar 2020
@@ -63,8 +60,6 @@ Ich planne alle zwei Monate meine Dividendeneinnahmen zu posten. Also auf gehts 
 Insgesamt haben 6 Einzelaktien, 1 Welt ETF, 1 Beimschung ETF, 3 Anleihen ETFs und 1 Dividenden ETF ausgeschüttet. Ein
 Vergleich zu vorher habe ich bisher noch nicht, da ich erst in diesem Jahr mit dem Vergleich angefangen habe.
 
-
-
 <br>
 ## Einnahmen Februar 2020
 
@@ -93,7 +88,7 @@ Colgate: 1,75 €
 
 **Gesamt-Summe**: TBD
 
-Insgesamt haben 6 Einzelaktien, 1 Welt ETF, 1 Beimschung ETF, 3 Anleihen ETFs und 1 Dividenden ETF ausgeschüttet. Ein
+Insgesamt haben 1 Einzelaktien, 1 Welt ETF, 2 Beimschung ETF, 3 Anleihen ETFs und 1 Dividenden ETF ausgeschüttet. Ein
 Vergleich zu vorher habe ich bisher noch nicht, da ich erst in diesem Jahr mit dem Vergleich angefangen habe.
 
 
@@ -188,13 +183,11 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
 </script>
 
 
-## Meine Käufe
+## Käufe und jährliche Einnahmensteigerung
 
 **Dividenden-Aktien:**
 
-
-- [SPDR S&P Global Dividend Aristocrats UCITS](https://www.justetf.com/de/etf-profile.html?isin=IE00B9CQXS71 "SPDR S&P Global Dividend Aristocrats UCITS")
-  - Kauf von 12,1043 Stück am 05.02.2020
+- [SPDR S&P Global Dividend Aristocrats UCITS](https://www.justetf.com/de/etf-profile.html?isin=IE00B9CQXS71 "SPDR S&P Global Dividend Aristocrats UCITS") Kauf von 12,1043 Stück am 05.02.2020
   - Kaufkurs: 32,22 €
   - Rendite: 3 € pro Ausschüttung, d.h. 12 € jährlich
 - [iShares Emerging Markets Dividend UCITS](https://www.justetf.com/de/etf-profile.html?isin=IE00B652H904 "iShares Emerging Markets Dividend UCITS")
@@ -204,7 +197,7 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
 - [Vanguard FTSE All-Word High Dividend Yield](https://www.justetf.com/de/etf-profile.html?isin=IE00B8GKDB10 "Vanguard FTSE All-Word High Dividend Yield")
   - Kauf von 0,469 Stück am 15.01.2020
   - Kaufkurs: 52,44 €
-  - Rendite: ???
+  - Rendite: 0,42 € pro Ausschüttung, d.h. 1,68 € jährlich
 
 **Anleihen:**
 
@@ -219,7 +212,7 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
   - Kaufkurs: 42,51136 €
   - Kauf von 0,567 Stück am 07.02.2020
   - Kaufkurs: 43,43582 €
-  - Rendite: 0,50 € pro Jahr
+  - Rendite: 0,50 € jährlich
 - [iShares Fallen Angels High Yield Corporate Bond](https://www.justetf.com/de/etf-profile.html?query=IE00BYM31M36&groupField=index&from=search&isin=IE00BYM31M36 "iShares Fallen Angels High Yield Corporate Bond")
   - Kauf von 5,024 Stück am 07.01.2020
   - Kaufkurs: 4,9026 €
@@ -244,11 +237,11 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
 - [iShares Developed Markets Property Yield](https://www.justetf.com/de/etf-profile.html?query=IE00B1FZS350&groupField=index&from=search&isin=IE00B1FZS350 "iShares Developed Markets Property Yield")
   - Kauf von 3,868 Stück am 15.01.2020
   - Kaufkurs: 25,46756 €
-  - Rendite: ?
+  - Rendite: 0,60 € pro Ausschüttung, d.h. 2,40 € jährlich
 - [iShares Asia Property Yield UCITS](https://www.justetf.com/de/etf-profile.html?query=IE00B1FZS244&groupField=index&from=search&isin=IE00B1FZS244 "iShares Asia Property Yield UCITS")
   - Kauf von 3,639 Stück am 15.01.2020
   - Kaufkurs: 27,07 €
-  - Rendite: ?
+  - Rendite: 0,60 € pro Ausschüttung, d.h. 2,40 € jährlich
 - [VanEck Vectors Global Real Estate UCITS](https://www.justetf.com/de/etf-profile.html?query=NL0009690239&groupField=index&from=search&isin=NL0009690239 "VanEck Vectors Global Real Estate UCITS")
   - Kauf von 2,358 Stück am 15.01.2020
   - Kaufkurs: 42,395 €
@@ -259,26 +252,27 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
 - [Foot Locker](https://www.finanzen.net/aktien/foot_locker-aktie "Foot Locker")
   - Kauf von 10 Stück am 02.01.2020
   - Kaufkurs: 35,10 €
-  - Rendite: ?
+  - Rendite: 3,5 € pro Ausschüttung, d.h. 14 € jährlich
 - [Lufthansa](https://www.finanzen.net/aktien/lufthansa-aktie "Lufthansa")
   - Kauf von 22 Stück am 08.01.2020
   - Kaufkurs: 15,535 €
-  - Rendite: ?
+  - Rendite: 5,06 € pro Ausschüttung, d.h. 20,24 € jährlich
 - [Exxon Mobil](https://www.finanzen.net/aktien/exxonmobil-aktie "Exxon Mobil")
   - Kauf von 6 Stück am 07.02.2020
   - Kaufkurs: 56,30 €
-  - Rendite: ?
+  - Rendite: 5,04 € pro Ausschüttung, d.h. 20,16 € jährlich
 - [WestRock](https://www.finanzen.net/aktien/westrock-aktie "WestRock")
   - Kauf von 10 Stück am 07.02.2020
   - Kaufkurs: 37,60 €
-  - Rendite: ?
+  - Rendite: 4,20 € pro Ausschüttung, d.h. 16,8 € jährlich
 
 
 ## Fazit:
 
-Laut meinen Dividendenkalender werde ich in den kommenden zwei Monaten ca. 480 € erwirtschaften - mal gucken, wie weit
-ich meinen berechneten Durchschnitt einhalten kann.
-Durch die Zukäufe konnte ich meine jährliche Rendite um xxx € erhöhen. Laut meinen Dividendenkalender werde ich in den
+Durch die Zukäufe konnte ich meine jährliche Rendite um 182,36 € erhöhen, wobei ich bei den Berechnungen keinen Abzug
+von eventuell anfallenden Steuern einberechnet habe.
+
+Laut meinen Dividendenkalender werde ich in den
 kommenden zwei Monaten ca. 480 € erwirtschaften - mal gucken, wie weit ich meinen berechneten Durchschnitt einhalten
 kann.
 
