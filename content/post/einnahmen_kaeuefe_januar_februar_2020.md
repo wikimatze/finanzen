@@ -14,6 +14,7 @@ tags = [
 
 
 TODO:
+- Check Ausschüttung von iShares STOXX Global Select Dividend 100
 - find a funny image for the reports - just be creative
 - Mike von dividenden-sparer blog direkt per Mail informieren, dass ich diesen Eintrag veröffentlich habe
 
@@ -70,15 +71,15 @@ Vergleich zu vorher habe ich bisher noch nicht, da ich erst in diesem Jahr mit d
 
 **Anleihen**:
 
-- A143JN Vanguard USD Treasury: x €
-- A0NECU iShares J.P. Morgan USD Emerging Markets: x €
-- A143JQ Vanguard USD EM Government: x €
+- A143JN Vanguard USD Treasury: 5,18 €
+- A0NECU iShares J.P. Morgan USD Emerging Markets: 2,49 €
+- A143JQ Vanguard USD EM Government: 27,48 €
 
 
 **Beimischung**:
 
-- A0LEW8 iShares Developed Markets Property (Beimischung) x €
-- A0LEQL iShares Asia Property Yield (Beimischung): x €
+- A0LEW8 iShares Developed Markets Property (Beimischung) 0,66 €
+- A0LEQL iShares Asia Property Yield (Beimischung): 0,84 €
 
 
 **Aktien**:
@@ -86,9 +87,9 @@ Vergleich zu vorher habe ich bisher noch nicht, da ich erst in diesem Jahr mit d
 Colgate: 1,75 €
 
 
-**Gesamt-Summe**: TBD
+**Gesamt-Summe**: 47,01 €
 
-Insgesamt haben 1 Einzelaktien, 1 Welt ETF, 2 Beimschung ETF, 3 Anleihen ETFs und 1 Dividenden ETF ausgeschüttet. Ein
+Insgesamt haben 1 Dividenden ETF, 3 Anleihen ETFs, 2 Beimschung ETF und 1 Einzelaktien ausgeschüttet. Ein
 Vergleich zu vorher habe ich bisher noch nicht, da ich erst in diesem Jahr mit dem Vergleich angefangen habe.
 
 
@@ -197,7 +198,14 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
 - [Vanguard FTSE All-Word High Dividend Yield](https://www.justetf.com/de/etf-profile.html?isin=IE00B8GKDB10 "Vanguard FTSE All-Word High Dividend Yield")
   - Kauf von 0,469 Stück am 15.01.2020
   - Kaufkurs: 52,44 €
-  - Rendite: 0,42 € pro Ausschüttung, d.h. 1,68 € jährlich
+  - Kauf von 3,7729 Stück am 20.02.2020
+  - Kaufkurs: 53,01 €
+  - Rendite: 1,68 € pro Ausschüttung, d.h. 6,27 € jährlich
+- [iShares STOXX Global Select Dividend 100]( "iShares STOXX Global Select Dividend 100")
+  - Kauf von 41,9111 Stück am 20.02.2020
+  - Kaufkurs: 29,825 €
+  - zu hoch Rendite: 52,5 € pro Ausschüttung, d.h. 210 € jährlich
+
 
 **Anleihen:**
 
@@ -237,15 +245,21 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
 - [iShares Developed Markets Property Yield](https://www.justetf.com/de/etf-profile.html?query=IE00B1FZS350&groupField=index&from=search&isin=IE00B1FZS350 "iShares Developed Markets Property Yield")
   - Kauf von 3,868 Stück am 15.01.2020
   - Kaufkurs: 25,46756 €
-  - Rendite: 0,60 € pro Ausschüttung, d.h. 2,40 € jährlich
+  - Kauf von 3,66 Stück am 18.01.2020
+  - Kaufkurs: 26,915 €
+  - Rendite: 1,27 € pro Ausschüttung, d.h. 5,08 € jährlich
 - [iShares Asia Property Yield UCITS](https://www.justetf.com/de/etf-profile.html?query=IE00B1FZS244&groupField=index&from=search&isin=IE00B1FZS244 "iShares Asia Property Yield UCITS")
   - Kauf von 3,639 Stück am 15.01.2020
   - Kaufkurs: 27,07 €
-  - Rendite: 0,60 € pro Ausschüttung, d.h. 2,40 € jährlich
+  - Kauf von 3,582 Stück am 18.02.2020
+  - Kaufkurs: 27,505 €
+  - Rendite: 1,50 € pro Ausschüttung, d.h. 6 € jährlich
 - [VanEck Vectors Global Real Estate UCITS](https://www.justetf.com/de/etf-profile.html?query=NL0009690239&groupField=index&from=search&isin=NL0009690239 "VanEck Vectors Global Real Estate UCITS")
   - Kauf von 2,358 Stück am 15.01.2020
   - Kaufkurs: 42,395 €
-  - Rendite: 0,68 € pro Ausschüttung, d.h. 2,72 € jährlich
+  - Kauf von 2,206 Stück am 18.02.2020
+  - Kaufkurs: 45,31688 €
+  - Rendite: 1,53 € pro Ausschüttung, d.h. 6,12 € jährlich
 
 **Einzelaktien:**
 
@@ -273,6 +287,6 @@ Durch die Zukäufe konnte ich meine jährliche Rendite um 182,36 € erhöhen, w
 von eventuell anfallenden Steuern einberechnet habe.
 
 Laut meinen Dividendenkalender werde ich in den
-kommenden zwei Monaten ca. 480 € erwirtschaften - mal gucken, wie weit ich meinen berechneten Durchschnitt einhalten
+kommenden Monaten März und April ca. 480 € erwirtschaften - mal gucken, wie weit ich meinen berechneten Durchschnitt einhalten
 kann.
 
