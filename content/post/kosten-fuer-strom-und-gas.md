@@ -1,7 +1,7 @@
 +++
 date = "2020-01-22T08:08:45+01:00"
-title = "Kosten für Strom und Gas"
-titleAddition = "Kosten für den Strom und Gas"
+title = "Kosten für Strom"
+titleAddition = "Kosten für den Strom"
 draft = false
 featuredImage = "/vorstellung_vanguard_s_and_p_500_preview.png"
 description = "Was bezahle ich jährlich für Strom? Soll ich einen langjährigen oder einjährigen Vertrag abschließen? Wie fang ich mit einen Vergleich an? Wie errechne ich meine aktuellen Kosten? Was taugen die Vergleichsportale? Was ist mit nachhaltigen Energiequellen? Welche Prämien kann ich einstreichen? Ich erkläre konkret, wie ich das mache."
@@ -12,16 +12,15 @@ tags = [
 ]
 +++
 
-Bei mir ist es mal wieder soweit: Das neue Jahr beginnt und ich kann entscheiden, ob ich bei meinen Stromanbieter
-bleiben möchte oder aber mir einen anderen Suche. Vergleichsportale wie [finanztip](https://www.finanztip.de/stromanbieter-wechseln/ "finanztip"),
+Bei mir ist es mal wieder soweit: Das neue Jahr beginnt und ich kann entscheiden, ob ich bei meinen Strom-/Gasanbieter
+bleiben möchte oder aber mir einen neuen, günstigeren suche. Vergleichsportale wie [finanztip](https://www.finanztip.de/stromanbieter-wechseln/ "finanztip"),
 [verivox](https://www.verivox.de/ "verivox") oder aber
-[check24](https://www.check24.de/ "check24") machen den Vergleich leicht. Dort kann ich festlegen, ob ich Wert auf
-Ökostrom lege, wie hoch der Grundtarif ist, ob in die Berechnungen prämien einberechnet werden sollen und vieles mehr.
+[check24](https://www.check24.de/ "check24") erleichtern mir die Suche nach möglichen Alternativen und bieten oft auch noch Prämien an. Los geht's!
 
 
 ## Aktuelle Stromkosten
 
-Momentan bin ich bei [EMB Strom](https://www.emb-gmbh.de/ "EMB Strom") mit den Tarif [EMB Strom 12](https://www.emb-gmbh.de/privatkunden/aktion/stromwechsel "EMB Strom 12").  Wie sieht es mit dem Verbrauch und Kosten aus?
+Momentan beziehe ich Strom von [EMB Strom](https://www.emb-gmbh.de/ "EMB Strom") mit dem Tarif [EMB Strom 12](https://www.emb-gmbh.de/privatkunden/aktion/stromwechsel "EMB Strom 12").  Wie sieht es da mit dem Verbrauch und Kosten aus?
 
 
 - Jahresverbrauch: 1800 kWh
@@ -29,39 +28,36 @@ Momentan bin ich bei [EMB Strom](https://www.emb-gmbh.de/ "EMB Strom") mit den T
 - Arbeitspreis pro kWh (brutto): 25,82 ct
 
 
-Welchen Abschlag pro Monat muss ich nun zahlen?
+Welchen Abschlag pro Monat muss ich zahlen?
 
 - Grundpreis: 12 x 7,64 € = 91,68 €
 - Verbrauchspreis: 1800 x 0,2582 € = 464,76 €
 
 
-Fürs Jahr gerechnet habe ich also reines Stromkosten in Höhe von 556,44 €. Macht einen Abschlag in Höhe von 46 €.
+Fürs Jahr gerechnet habe ich dementsprechend reine Stromkosten in Höhe von 556,44 €. Das ergibt einen Abschlag von 46 € pro Monat.
 
+Nach einem Jahr ändern sich allerdings die Konditionen des Vertrages , sodass ich für denselben Tarif dann ca. 582,79 €](https://www.emb-gmbh.de/privatkunden/produktergebnisseite) - also ca. 24 € mehr zahlen müsste. Ein Grund für mich, mich auf die Suche nach möglichen Alternativen zu begeben.
 
-Würde ich den Vertrag weiterhin laufen lassen, so würde ich für [den gleichen Vertrag nun ca. 582,79 € zahlen](https://www.emb-gmbh.de/privatkunden/produktergebnisseite) - also ca. 24 € mehr.
 
 
 ### Neuen Stromanbieter finden
 
-Bei der Suche wollte ich eventuell zusätzliche Boni nicht einberechnen, da die meisten erst nach 12 Monaten gezahlt
-werden und ich jedes Jahr wechseln will.
 
-
-Finanztip-Rechner und check24 hat [MONTANA garant 12](https://www.montana-energie.de/privatkunden/strom/stromtarife/ "MONTANA garant 12") (Ökostrom) vorgeschlagen:
+Auf der Suche nach den günstigsten Angeboten haben mir Finanztip-Rechner und check24 den  [MONTANA garant 12](https://www.montana-energie.de/privatkunden/strom/stromtarife/ "MONTANA garant 12") (Ökostrom) vorgeschlagen:
 
 
 - Grundpreis pro Monat (brutto): 7,03 €
 - Arbeitspreis pro kWh (brutto): 25,54 ct
 
 
-Um den monatlichen Abschlag zu bestimmen rechne ich:
+Der für mich in Frage kommende Abschlag berechnet sich daher wie folgt:
 
 
 - Grundpreis: 12 x 7,03 € = 84.36 €
 - Verbrauchspreis: 1800 x 0,2554 € = 459,72 €
 
 
-Fürs Jahr gerechnet habe ich also reine Stromkosten in Höhe von 544,08 €. Macht einen Abschlag in Höhe von 45,34 €.
+Fürs Jahr gerechnet habe ich also reine Stromkosten in Höhe von 544,08 €. Das ergibt einen monatlichen Abschlag von 45,34 €.
 
 
 Verivox hat [Q Cells ENERGY Basic 1](https://www.gruenwelt.de/gruenstrom-classic.html "Grünwelt grünstrom classic")
@@ -79,10 +75,10 @@ Wie sieht es nun mit den Gesamtkosten aus?
 - Verbrauchspreis: 1800 x 0,2581 € = 464,58 €
 
 
-Fürs Jahr gerechnet habe ich also Stromkosten in Höhe von 539,57 €. Macht einen Abschlag in Höhe von 44,96 €.
+Fürs Jahr gerechnet habe ich also Stromkosten in Höhe von 539,57 €. Hier würde ich also monatlich 44,96 € zahlen.
 
 
-Zusammengefasst in einer Tabelle (Cashback & Prämie variieren je nach Anbieter und aktueller Situation):
+Die Ergebnisse lassen sich wie folgt zusammenfassen (Cashback & Prämie variieren je nach Anbieter und aktueller Situation):
 
 
 
@@ -94,14 +90,14 @@ Q Cells ENERGY Basic 1  | 75 €       | 464,58 €        | 15 €             
 
 
 
-Bei Q Cells würde ich noch als weiteres Cashback noch eine [Philipps Hue White E27 Bluetooth LED
-Lampe](https://www.amazon.de/Philips-Hue-White-Lampe-Bluetooth/dp/B07SV88LGC) im Wert ca. 16 € erhalten.
-Aber auf solche Addons lege ich bisher keinen wert.
 
 
 ## Aktuelle Gaskosten
 
-Aktuell bin ich bei [Montana](https://os.montana-energie.de "Montana") mit den Tarif [Montana Garant 12](https://www.montana-energie.de/privatkunden/erdgas/erdgastarife/ "Montana Garant 12"). Die Verbrauchdaten und Kosten betragen:
+Wie sieht es nun mit meinen Gaskosten aus? Lässt sich hier auch Geld sparen?
+
+Aktuell beziehe ich mein Gas von [Montana](https://os.montana-energie.de "Montana") mit dem Tarif [Montana Garant 12](https://www.montana-energie.de/privatkunden/erdgas/erdgastarife/ "Montana Garant 12").
+Die Kosten betragen:
 
 
 - Jahresverbrauch: 400 kWh
@@ -109,14 +105,14 @@ Aktuell bin ich bei [Montana](https://os.montana-energie.de "Montana") mit den T
 - Arbeitspreis pro kWh (brutto): 4,87 ct
 
 
-Welchen Abschlag pro Monat muss ich nun zahlen?
+Welchen Abschlag pro Monat muss ich zahlen?
 
 
 - Grundpreis: 12 x 3,90 € = 46,80 €
 - Verbrauchspreis: 400 x 0,0487 € = 19,48 €
 
 
-Fürs Jahr gerechnet habe ich also Gaskosten in Höhe von 66.28 €. Macht einen Abschlag in Höhe von 5,52 €.
+Fürs Jahr gerechnet habe ich also Gaskosten in Höhe von 66.28 € und daher monatliche Kosten von 5,52 €.
 
 
 Würde ich den Vertrag weiterhin laufen lassen, so würde ich für [den gleichen Vertrag nun ca. 102 € zahlen](https://bestellung.montana-energie.de/privatkunden/tarifergebnis/?formBlockID=611&energy_type=0&TK-zip=12355&TK-city=Berlin&consumption_gas=400&customer_type=0) - also ca. 36 € mehr.
@@ -124,8 +120,6 @@ Würde ich den Vertrag weiterhin laufen lassen, so würde ich für [den gleichen
 
 ### Neuen Gasanbieter finden
 
-Bei der Suche wollte ich eventuell zusätzliche Boni nicht einberechnen, da die meisten erst nach 12 Monaten gezahlt und
-ich jedes Jahr wechseln will, um die maximale Ersparnis zu haben.
 
 Der Finanztip-Rechner hat [Süwag Ökogas pur](https://www.suewag.de/privatkunden/produkte-tarife/gas/produkte "Süwag Ökogas pur") vorgeschlagen:
 
@@ -174,7 +168,7 @@ Anbieter                | Grundpreis | Verbrauchspreis | Cashback & Prämie | Ge
 
 ## Fazit
 
-Ökostrom und Gas ist nicht teuer. Es kann sein, dass durch aktuelle Aktionen/Prämien ein eventuell besserer Preis
+Ökostrom ist nicht teuer. Es kann sein, dass durch aktuelle Aktionen/Prämien ein eventuell besserer Preis
 erreicht werden kann, aber irgendwann mal muss man eine Entscheidung treffen und den Wechsel durchführen.
 
 
@@ -189,3 +183,4 @@ Durch den Wechsel habe ich insgesamt **85€**  eingespart.
 - [finanztip Stromanbieter wechseln](https://www.finanztip.de/stromanbieter-wechseln/ "finanztip Stromanbieter wechseln")
 - [finanztip Gasanbieter wechseln](https://www.finanztip.de/gaspreisvergleich/gasanbieter-wechseln/ "finanztip Gasanbieter wechseln")
 - [shoop Cashbackprogram](https://www.shoop.de/ "shoop Cashbackprogram")
+
