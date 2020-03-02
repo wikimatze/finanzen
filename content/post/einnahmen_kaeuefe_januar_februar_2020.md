@@ -14,7 +14,6 @@ tags = [
 
 
 TODO:
-- Check Ausschüttung von iShares STOXX Global Select Dividend 100
 - find a funny image for the reports - just be creative
 - Mike von dividenden-sparer blog direkt per Mail informieren, dass ich diesen Eintrag veröffentlich habe
 
