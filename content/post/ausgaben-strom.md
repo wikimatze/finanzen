@@ -1,7 +1,7 @@
 +++
-date = "2020-01-22T08:08:45+01:00"
-title = "Ausgaben Strom"
-titleAddition = "Ausgaben Strom"
+date = "2020-06-21T04:00:45+01:00"
+title = "Jährlich Stromanbieter wechseln"
+titleAddition = "Jährlich Stromanbieter wechseln"
 draft = false
 featuredImage = "/vorstellung_vanguard_s_and_p_500_preview.png"
 description = "Was bezahle ich jährlich für Strom? Soll ich einen langjährigen oder einjährigen Vertrag abschließen? Wie fang ich mit einen Vergleich an? Wie errechne ich meine aktuellen Kosten? Wo kann ich nach Alternativen suchen? Ich erkläre konkret, wie ich das mache."
@@ -29,7 +29,7 @@ Wie berechne ich nun anhand meiner Verbrauchsdaten die Jahres- bzw. Monats-Koste
 machen zu können?
 
 Neben den Jahresverbrauch benötige
-ich den Wert für den Grundpreis pro Monat sowie den aktuellen Arbeitsproes pro kilo Watt-Stunde.
+ich den Wert für den Grundpreis pro Monat sowie den aktuellen Arbeitspreises pro Kilo Watt-Stunde.
 
 
 - *Jahresverbrauch*: 1800 kWh
@@ -52,12 +52,12 @@ Das ergibt einen **Abschlag** von **46 €** (556,44 / 12) pro Monat.
 
 ## Vertrag weiterlaufen lassen
 
-Lasse ich meinen Vertrag einfach weiterlaufen, dann ändern sich meistens die Konditionen. Für dengleichen Tarif
+Lasse ich meinen Vertrag einfach weiterlaufen, dann ändern sich meistens die Konditionen. Der gleiche Tarif
  [EMB Strom 12](https://www.emb-gmbh.de/privatkunden/produktergebnisseite "EMB Strom 12")
 würde ich dann **582,79 €** bei gleichbleibenden Verbrauch zahlen.
 
 
-Also ca. **24 €** mehr, was im Vergleich zum ursprünglichen Tarif eine Steigerung von knapp 4,6 % bedeutet.
+Also ca. **24 €** mehr.
 
 
 Grund Genug für mich, nach möglichen Alternativen zu suchen.
@@ -81,7 +81,7 @@ Der für mich in Frage kommende Abschlag berechnet sich daher wie folgt:
 - *Verbrauchspreis*: **459,72 €** (1800 x 0,2554 €)
 
 
-Fürs Jahr gerechnet habe ich also reine Stromkosten in Höhe von **544,08 €**. Das ergibt einen monatlichen Abschlag von **45,34 €**.
+Fürs Jahr gerechnet hätte ich also reine Stromkosten in Höhe von **544,08 €**. Das ergibt einen monatlichen Abschlag von **45,34 €**.
 
 
 Verivox hat [Q Cells ENERGY Basic 1](https://www.gruenwelt.de/gruenstrom-classic.html "Grünwelt grünstrom classic")
