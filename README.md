@@ -47,7 +47,7 @@ Um das Deployment durchzuführen einfach folgenden Befehl ausführen:
 
 
 ```
-export HUGO_ENV='production' && rake deploy && export HUGO_ENV='staging'
+export HUGO_ENV='production' && hugo && rake deploy && export HUGO_ENV='staging' && hugo
 ```
 
 
