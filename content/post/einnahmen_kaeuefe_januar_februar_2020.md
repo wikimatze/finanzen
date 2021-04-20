@@ -1,95 +1,99 @@
 +++
-date = "2020-02-12T20:15:45+01:00"
-title = "Dividenden und Einnahmen Januar/Februar 2020"
+date = "2020-04-07T04:19:00+01:00"
+title = "Einnahmen und Einkäufe Januar/Februar 2020"
 titleAddition = "finanzmatze"
 draft = false
 d3 = true
-featuredImage = "/ishares_stoxx_global_select_dividend_10.png"
-description = "Welche Dividenden hab ich im Januar/Februar 2020 eingenommen und welche Käufe habe ich getätigt"
+featuredImage = "/einnahmen_januar_februar_2020.png"
+description = "Welche Einnahmen und Einkäufe habe ich im Januar/Februar 2020 getätigt? Wie ändern sich dadurch meine jährlichen Einnahmen?"
 tags = [
-    "dividende",
     "einnahmen",
+    "einkauf",
 ]
 +++
 
 
-TODO:
-- find a funny image for the reports - just be creative
-- Mike von dividenden-sparer blog direkt per Mail informieren, dass ich diesen Eintrag veröffentlich habe
+Dies ist mein erster Artikel über meine Einnahmen und Einkäufe für Januar/Februar 2020. Ich werde Euch einen Überblick geben,
+welche Posten ist aufgestockt und welche Dividenden ich eingenommen habe. Zusätzlich gebe ich bei jedem Einkauf an, welche
+Mehreinnahmen dadurch jährlich entstehen.
 
 
-Ich planne alle zwei Monate meine Dividendeneinnahmen zu posten. Also auf gehts zu meinen ersten Einnahmen-Report
+Ich planne zunächst alle zwei Monate diesen Report zu posten.
 
-<br>
+
+Auf gehts!
+
+
 ## Einnahmen Januar 2020
 
 **Dividenden-Aktien:**
 
-- A0F5UH iShares STOXX Global Select Dividend: 20,59 €
+- A0F5UH iShares STOXX Global Select Dividend: **20,59 €**
 
 
 **Anleihen**:
 
-- A143JN Vanguard USD Treasury: 5,18 €
-- A0NECU iShares J.P. Morgan USD Emerging Markets: 2,13 €
-- A143JQ Vanguard USD EM Government: 27,48 €
+- A143JN Vanguard USD Treasury: **5,18 €**
+- A0NECU iShares J.P. Morgan USD Emerging Markets: **2,13 €**
+- A143JQ Vanguard USD EM Government: **27,48 €**
 
 
 **Beimischung**:
 
-- A0Q4R2 iShares STOXX Europe 600 Auto: 0,55 €
+- A0Q4R2 iShares STOXX Europe 600 Auto: **0,55 €**
 
 
 **Welt**:
 
-- A1C9KL HSBC MSCI World UCITS: 46,87 €
+- A1C9KL HSBC MSCI World UCITS: **46,87 €**
 
 
 **Aktien**:
 
-- 358051 Ashford Hospitality trust: 3,48 €
-- A2ANA3 Red Electrica: 3,86 €
-- A0B6VB Patterson Companies: 3,47 €
-- A0MS7Y Macys: 6,51 €
-- 534418 Marks & Spencers: 5,73 €
-- 877539 Foot Looker: 2,56 €
+- 358051 Ashford Hospitality trust: **3,48 €**
+- A2ANA3 Red Electrica: **3,86 €**
+- A0B6VB Patterson Companies: **3,47 €**
+- A0MS7Y Macys: **6,51 €**
+- 534418 Marks & Spencers: **5,73 €**
+- 877539 Foot Looker: **2,56 €**
 
 
-**Gesamt-Summe**: 128,31 €
+**Gesamteinnahmen**: **128,31 €**
 
 Insgesamt haben 6 Einzelaktien, 1 Welt ETF, 1 Beimschung ETF, 3 Anleihen ETFs und 1 Dividenden ETF ausgeschüttet. Ein
-Vergleich zu vorher habe ich bisher noch nicht, da ich erst in diesem Jahr mit dem Vergleich angefangen habe.
+Vergleich zum Vorjahr habe ich bisher noch nicht, da dies mein erster Bericht ist.
 
-<br>
+
 ## Einnahmen Februar 2020
 
 **Dividenden-Aktien:**
 
-- A1T8GD SPDR S&P Global Dividend Aristocrats (Dividende): 8,61 €
+- A1T8GD SPDR S&P Global Dividend Aristocrats (Dividende): **8,61 €**
 
 
 **Anleihen**:
 
-- A143JN Vanguard USD Treasury: 5,18 €
-- A0NECU iShares J.P. Morgan USD Emerging Markets: 2,49 €
-- A143JQ Vanguard USD EM Government: 27,48 €
+- A143JN Vanguard USD Treasury: **5,18 €**
+- A0NECU iShares J.P. Morgan USD Emerging Markets: **2,49 €**
+- A143JQ Vanguard USD EM Government: **27,48 €**
 
 
 **Beimischung**:
 
-- A0LEW8 iShares Developed Markets Property (Beimischung) 0,66 €
-- A0LEQL iShares Asia Property Yield (Beimischung): 0,84 €
+- A0LEW8 iShares Developed Markets Property (Beimischung): **0,66 €**
+- A0LEQL iShares Asia Property Yield (Beimischung): **0,84 €**
 
 
 **Aktien**:
 
-Colgate: 1,75 €
+- Colgate: **1,75 €**
+- WestRock: **3,19 €**
 
 
-**Gesamt-Summe**: 47,01 €
+**Gesamteinnahmen**: **50,02 €**
 
-Insgesamt haben 1 Dividenden ETF, 3 Anleihen ETFs, 2 Beimschung ETF und 1 Einzelaktien ausgeschüttet. Ein
-Vergleich zu vorher habe ich bisher noch nicht, da ich erst in diesem Jahr mit dem Vergleich angefangen habe.
+Insgesamt haben 2 Einzelaktien, 2 Beimschung ETF, 3 Anleihen ETF und 1 Dividenden ETF ausgeschüttet. Genau wie im Januar
+hab ich bisher keinen Vergleich zum vorherigen Monat, da dies mein erster Bericht ist.
 
 
 ## Einnahmen als Balkendiagramm
@@ -187,23 +191,24 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
 
 **Dividenden-Aktien:**
 
-- [SPDR S&P Global Dividend Aristocrats UCITS](https://www.justetf.com/de/etf-profile.html?isin=IE00B9CQXS71 "SPDR S&P Global Dividend Aristocrats UCITS") Kauf von 12,1043 Stück am 05.02.2020
+- [SPDR S&P Global Dividend Aristocrats UCITS](https://www.justetf.com/de/etf-profile.html?isin=IE00B9CQXS71 "SPDR S&P Global Dividend Aristocrats UCITS")
+  - Kauf von **12,1043 Stück** am 05.02.2020
   - Kaufkurs: 32,22 €
-  - Rendite: 3 € pro Ausschüttung, d.h. 12 € jährlich
+  - Rendite: **3 €** pro Ausschüttung, d.h. **12 €** jährlich
 - [iShares Emerging Markets Dividend UCITS](https://www.justetf.com/de/etf-profile.html?isin=IE00B652H904 "iShares Emerging Markets Dividend UCITS")
-  - Kauf von 84,4434 Stück am 05.02.2020
+  - Kauf von **84,4434 Stück** am 05.02.2020
   - Kaufkurs: 19,548 €
-  - Rendite: 21 € pro Ausschüttung, d.h. 84 € jährlich
+  - Rendite: **21 €** pro Ausschüttung, d.h. **84 €** jährlich
 - [Vanguard FTSE All-Word High Dividend Yield](https://www.justetf.com/de/etf-profile.html?isin=IE00B8GKDB10 "Vanguard FTSE All-Word High Dividend Yield")
-  - Kauf von 0,469 Stück am 15.01.2020
-  - Kaufkurs: 52,44 €
+  - Kauf von **0,469 Stück** am 15.01.2020
+  - Kaufkurs: 52,44  €
   - Kauf von 3,7729 Stück am 20.02.2020
   - Kaufkurs: 53,01 €
-  - Rendite: 1,68 € pro Ausschüttung, d.h. 6,27 € jährlich
-- [iShares STOXX Global Select Dividend 100]( "iShares STOXX Global Select Dividend 100")
-  - Kauf von 41,9111 Stück am 20.02.2020
+  - Rendite: **1,68** € pro Ausschüttung, d.h. **6,27 €** jährlich
+- [iShares STOXX Global Select Dividend 100](https://www.justetf.com/de/etf-profile.html?isin=DE000A0F5UH1 "iShares STOXX Global Select Dividend 100")
+  - Kauf von **41,9111 Stück** am 20.02.2020
   - Kaufkurs: 29,825 €
-  - zu hoch Rendite: 52,5 € pro Ausschüttung, d.h. 210 € jährlich
+  - Rendite: **12,29 €** pro Ausschüttung, d.h. **49,16 €** jährlich
 
 
 **Anleihen:**
@@ -213,19 +218,19 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
   - Kaufkurs: 105,38 €
   - Kauf von 0,233 Stück am 07.02.2020
   - Kaufkurs: 105,38 €
-  - Rendite: 0,12 € pro Ausschüttung, d.h. 1,44 € jährlich
+  - Rendite: **0,12 €** pro Ausschüttung, d.h. **1,44 €** jährlich
 - [Xtrackers Barclays Global Aggregate Bond UCITS](https://www.justetf.com/de/etf-profile.html?isin=LU0942970103 "Xtrackers Barclays Global Aggregate Bond UCITS")
   - Kauf von 0,579 Stück am 01.01.2020
   - Kaufkurs: 42,51136 €
   - Kauf von 0,567 Stück am 07.02.2020
   - Kaufkurs: 43,43582 €
-  - Rendite: 0,50 € jährlich
+  - Rendite: **0,50 € jährlich**
 - [iShares Fallen Angels High Yield Corporate Bond](https://www.justetf.com/de/etf-profile.html?query=IE00BYM31M36&groupField=index&from=search&isin=IE00BYM31M36 "iShares Fallen Angels High Yield Corporate Bond")
   - Kauf von 5,024 Stück am 07.01.2020
   - Kaufkurs: 4,9026 €
   - Kauf von 5,0164 Stück am 07.02.2020
   - Kaufkurs: 5,0164 €
-  - Rendite: 1,11 € pro Ausschüttung, d.h. 2,22 € jährlich
+  - Rendite: **1,11 €** pro Ausschüttung, d.h. **2,22 €** jährlich
 
 **Beimischung**:
 
@@ -234,58 +239,56 @@ d3.csv("/data/dividenden_reports/jan_feb_2020.csv", function(error, data) {
   - Kaufkurs: 5,292 €
   - Kauf von 4,591 Stück am 03.02.2020
   - Kaufkurs: 5,364 €
-  - Rendite: 0,4 € pro Ausschüttung, d.h. 0,8 € jährlich
+  - Rendite: **0,4 €** pro Ausschüttung, d.h. **0,8 €** jährlich
 - [Vanguard FTSE Japan UCITS](https://www.justetf.com/de/etf-profile.html?isin=IE00B95PGT31 "Vanguard FTSE Japan UCITS")
   - Kauf von 1,732 Stück am 03.01.2020
   - Kaufkurs: 28,43 €
   - Kauf von 1.767 Stück am 03.02.2020
   - Kaufkurs: 27,875 €
-  - Rendite: 0,25 € pro Ausschüttung, d.h. 1 € jährlich
+  - Rendite: **0,25 €** pro Ausschüttung, d.h. **1 €** jährlich
 - [iShares Developed Markets Property Yield](https://www.justetf.com/de/etf-profile.html?query=IE00B1FZS350&groupField=index&from=search&isin=IE00B1FZS350 "iShares Developed Markets Property Yield")
   - Kauf von 3,868 Stück am 15.01.2020
   - Kaufkurs: 25,46756 €
   - Kauf von 3,66 Stück am 18.01.2020
   - Kaufkurs: 26,915 €
-  - Rendite: 1,27 € pro Ausschüttung, d.h. 5,08 € jährlich
+  - Rendite: **1,27 €** pro Ausschüttung, d.h. **5,08 €** jährlich
 - [iShares Asia Property Yield UCITS](https://www.justetf.com/de/etf-profile.html?query=IE00B1FZS244&groupField=index&from=search&isin=IE00B1FZS244 "iShares Asia Property Yield UCITS")
   - Kauf von 3,639 Stück am 15.01.2020
   - Kaufkurs: 27,07 €
   - Kauf von 3,582 Stück am 18.02.2020
   - Kaufkurs: 27,505 €
-  - Rendite: 1,50 € pro Ausschüttung, d.h. 6 € jährlich
+  - Rendite: **1,50 €** pro Ausschüttung, d.h. **6 €** jährlich
 - [VanEck Vectors Global Real Estate UCITS](https://www.justetf.com/de/etf-profile.html?query=NL0009690239&groupField=index&from=search&isin=NL0009690239 "VanEck Vectors Global Real Estate UCITS")
   - Kauf von 2,358 Stück am 15.01.2020
   - Kaufkurs: 42,395 €
   - Kauf von 2,206 Stück am 18.02.2020
   - Kaufkurs: 45,31688 €
-  - Rendite: 1,53 € pro Ausschüttung, d.h. 6,12 € jährlich
+  - Rendite: **1,53 €** pro Ausschüttung, d.h. **6,12 €** jährlich
 
 **Einzelaktien:**
 
 - [Foot Locker](https://www.finanzen.net/aktien/foot_locker-aktie "Foot Locker")
   - Kauf von 10 Stück am 02.01.2020
   - Kaufkurs: 35,10 €
-  - Rendite: 3,5 € pro Ausschüttung, d.h. 14 € jährlich
+  - Rendite: **3,5 €** pro Ausschüttung, d.h. **14 €** jährlich
 - [Lufthansa](https://www.finanzen.net/aktien/lufthansa-aktie "Lufthansa")
   - Kauf von 22 Stück am 08.01.2020
   - Kaufkurs: 15,535 €
-  - Rendite: 5,06 € pro Ausschüttung, d.h. 20,24 € jährlich
+  - Rendite: **5,06** € pro Ausschüttung, d.h. **20,24 €** jährlich
 - [Exxon Mobil](https://www.finanzen.net/aktien/exxonmobil-aktie "Exxon Mobil")
   - Kauf von 6 Stück am 07.02.2020
   - Kaufkurs: 56,30 €
-  - Rendite: 5,04 € pro Ausschüttung, d.h. 20,16 € jährlich
+  - Rendite: **5,04 €** pro Ausschüttung, d.h. **20,16 €** jährlich
 - [WestRock](https://www.finanzen.net/aktien/westrock-aktie "WestRock")
   - Kauf von 10 Stück am 07.02.2020
   - Kaufkurs: 37,60 €
-  - Rendite: 4,20 € pro Ausschüttung, d.h. 16,8 € jährlich
+  - Rendite: **4,20 €** pro Ausschüttung, d.h. **16,8 €** jährlich
 
 
 ## Fazit:
 
-Durch die Zukäufe konnte ich meine jährliche Rendite um 182,36 € erhöhen, wobei ich bei den Berechnungen keinen Abzug
-von eventuell anfallenden Steuern einberechnet habe.
+Durch die Zukäufe konnte ich meine jährliche Rendite um **245,79 €** erhöhen ohne Angaben von steuerlichen Abzügen.
 
 Laut meinen Dividendenkalender werde ich in den
-kommenden Monaten März und April ca. 480 € erwirtschaften - mal gucken, wie weit ich meinen berechneten Durchschnitt einhalten
-kann.
+kommenden Monaten März und April ca. 400 € erwirtschaften.
 

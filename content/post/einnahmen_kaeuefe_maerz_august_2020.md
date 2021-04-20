@@ -1,5 +1,5 @@
 +++
-date = "2020-09-06T5:00:00+02:00"
+date = "2020-09-08T5:00:00+02:00"
 title = "Einnahmen und Einkäufe März-August 2020"
 titleAddition = "finanzmatze"
 draft = false
@@ -223,7 +223,7 @@ Insgesamt haben 9 Einzelaktien, 1 Welt ETF, 2 Beimschungs ETFs, 3 Anleihen ETFs 
 - Kraft Heinz: **3,14 €**
 - Blackrock: **2,40 €**
 - Ares Capital: **7,66 €**
-- New Mountain BDC: **2,58 €**
+- New Mountain: **2,58 €**
 - LTC Properties: **0,65 €**
 
 

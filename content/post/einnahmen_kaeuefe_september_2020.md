@@ -20,7 +20,12 @@ Ohne viel Schnick-Schnack auf zu den Einnahmen:
 **Anleihen**:
 
 - A143JN Vanguard USD Treasury: **1,46 €**
+- A0NECU iShares J.P. Morgan USD Emerging Markets: **1,94 €**
 - A143JQ Vanguard USD EM Government: **12,37 €**
+
+**Beimischung**:
+
+- A1T6SY VanEck Vectors Global Real Estate: **5,53 €**
 
 
 **Aktien**:
@@ -63,11 +68,11 @@ Ohne viel Schnick-Schnack auf zu den Einnahmen:
 - Cashback Shoop: **24,15 €**
 - PET Pfand: **80 €**
 
-**Gesamteinnahmen reine Dividenden**: **77,78 €**
+**Gesamteinnahmen reine Dividenden**: **85,25 €**
 
-**Gesamteinnahmen plus sonstige**: **198,75 €**
+**Gesamteinnahmen plus sonstige**: **206,22 €**
 
-Insgesamt haben x Einzelaktien, 0 Beimschung ETF, 2 Anleihen ETFs und 0 Dividenden ETF ausgeschüttet.
+Insgesamt haben x Einzelaktien, 1 Beimschung ETF, 3 Anleihen ETFs und 0 Dividenden ETF ausgeschüttet.
 
 
 ## Einnahmen als Balkendiagramm

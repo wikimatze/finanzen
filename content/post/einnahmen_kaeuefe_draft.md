@@ -2,7 +2,7 @@
 date = "2020-09-06T5:00:00+02:00"
 title = "Einnahmen und Einkäufe xxx-xxx 2020"
 titleAddition = "finanzmatze"
-draft = false
+draft = true
 d3 = true
 featuredImage = "/einnahmen_januar_februar_2020.png"
 description = "Welche Einnahmen und Einkäufe habe ich von xxx-xxx 2020 getätigt?"
@@ -34,7 +34,7 @@ Kurzes Intro, was ich in den letzten Paar Monaten alles so erledigt habe ...
 
 **Aktien**:
 
-- WKN Text: **0,00 €**
+- Text: **0,00 €**
 
 
 **Sonstiges**:
