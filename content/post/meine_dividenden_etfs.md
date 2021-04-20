@@ -2,7 +2,7 @@
 date = "2020-02-12T20:15:45+01:00"
 title = "Meine Dividenden ETFs"
 titleAddition = "finanzmatze"
-draft = false
+draft = true
 d3 = true
 featuredImage = "/ishares_stoxx_global_select_dividend_10.png"
 description = "Für welche Dividenden sind in meinen Besitz, wie ist die Verteilung, wann finden die Ausschüttungen statt."

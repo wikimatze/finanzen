@@ -2,7 +2,7 @@
 date = "2020-01-10T08:08:45+01:00"
 title = "Vollmachten"
 titleAddition = "Welche Vollmachten sind für die Familie relevant"
-draft = false
+draft = true
 featuredImage = "/etfs.jpg"
 description = "tbd"
 tags = [
