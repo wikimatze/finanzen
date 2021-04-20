@@ -2,7 +2,7 @@
 date = "2020-01-22T08:08:45+01:00"
 title = "Vorstellung Vanguard S&P 500 UCITS"
 titleAddition = "Vorstellung Vanguard S&P 500 UCITS"
-draft = false
+draft = true
 featuredImage = "/vorstellung_vanguard_s_and_p_500_preview.png"
 description = "Der S&P 500 Index bietet Zugang zu 500 der größten Unternehmen aus den USA. Enthalten sind Aktien aus dem Large Cap-Segment und in der Regel ihren Sitz in den Vereinigten Staaten von Amerika haben."
 tags = [

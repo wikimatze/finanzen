@@ -1,7 +1,7 @@
 baseurl = "https://finanzen.wikimatze.de"
 languageCode = "de-DE"
-title = "Finanzen, Aktien, Geldanlage für Informatiker"
-description = "hallo"
+title = "Finanzen und Geldanlage für Informatiker"
+description = "Finanzen und Geldanlage für Informatiker geschrieben von wikimatze"
 config = "config.toml"
 theme = "onepress"
 tags = ["blog", "SEO"]

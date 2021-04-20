@@ -1,9 +1,10 @@
-![Finanzmatze](https://raw.githubusercontent.com/wikimatze/finanzen/master/static/logo.png "Finanzmatze")
+![finanzmatze](https://raw.githubusercontent.com/wikimatze/finanzen/master/static/logo.png "finanzmatze")
 
 
 # Installation
 
 Installiere [hugo](https://gohugo.io/getting-started/installing/ "hugo").
+
 
 Schnapp dir den Code:
 
@@ -36,6 +37,7 @@ Anschließend kann die Seite unter <http://localhost:1313/> betrachtet werden.
 - [google-webmaster](https://www.google.com/webmasters "google-webmaster") fürs Tracking und Seo Optimierung
 - [rake](https://rubygems.org/gems/rake "rake") als kleines Build tool zum deployen
 - [shariff](https://github.com/heiseonline/shariff "shariff") für die Teilen Links auf facebook und twitter
+- [d3]( "d3"): flexible Datenvisualisierung mit JavaScript
 
 
 # Deployment
@@ -45,7 +47,7 @@ Um das Deployment durchzuführen einfach folgenden Befehl ausführen:
 
 
 ```
-export HUGO_ENV='production' && rake deploy && export HUGO_ENV='staging'
+export HUGO_ENV='production' && hugo && rake deploy && export HUGO_ENV='staging' && hugo
 ```
 
 
@@ -53,3 +55,7 @@ export HUGO_ENV='production' && rake deploy && export HUGO_ENV='staging'
 
 - Bilder haben eine Größe von 800px x 555px (zum Skalieren hab ich [gimp](https://www.gimp.org/ "gimp") verwendet)
 - Bilder müssen als PNG vorliegen, damit es auch mit den twitter sharing klappt
+
+- d3 Beispiel für Einnahmen und Einkäufe Januar 2021
+  - Basis-Diagram: https://jsfiddle.net/354zw0d2/9/
+  - Legende basteln: https://www.d3-graph-gallery.com/graph/custom_legend.html

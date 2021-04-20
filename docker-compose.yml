@@ -1,0 +1,10 @@
+version: "3"
+services:
+  finanzen:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1313:1313"
+
+
