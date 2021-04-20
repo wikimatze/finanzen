@@ -56,3 +56,6 @@ export HUGO_ENV='production' && hugo && rake deploy && export HUGO_ENV='staging'
 - Bilder haben eine Größe von 800px x 555px (zum Skalieren hab ich [gimp](https://www.gimp.org/ "gimp") verwendet)
 - Bilder müssen als PNG vorliegen, damit es auch mit den twitter sharing klappt
 
+- d3 Beispiel für Einnahmen und Einkäufe Januar 2021
+  - Basis-Diagram: https://jsfiddle.net/354zw0d2/9/
+  - Legende basteln: https://www.d3-graph-gallery.com/graph/custom_legend.html
