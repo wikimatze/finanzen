@@ -1,8 +1,8 @@
 +++
-date = "2021-04-07T04:19:00+01:00"
+date = "2021-05-01T04:19:00+01:00"
 title = "Einnahmen und Einkäufe April 2021"
 titleAddition = "finanzmatze"
-draft = true
+draft = false
 featuredImage = "/einnahmen_januar_februar_2020.png"
 description = "Welche Einnahmen und Einkäufe habe ich im April 2021 getätigt?"
 tags = [
@@ -11,8 +11,8 @@ tags = [
 ]
 +++
 
-Einnahmen und Einkäufe im April 2021. Ich werde Euch einen Überblick geben,
-welche Dividenden ich eingenommen habe und welche Posten ich aufgestockt habe.
+Ich werde Euch einen Überblick geben,
+welche Dividenden ich eingenommen und welche Posten ich aufgestockt habe.
 
 
 ## Einnahmen
@@ -20,31 +20,75 @@ welche Dividenden ich eingenommen habe und welche Posten ich aufgestockt habe.
 
 **Dividenden-Aktien:**
 
+- VANG.FTSE A.-WO.HI.DI.YI.U.ETF: **17,17 €**
+- ISH.ST.GL.SEL.DIV.100 U.ETF DE: **27,57 €**
+
 
 **Anleihen**:
 
-- VANG.USD EM G.BD UETF DLD: **19,70 EUR €** (com)
+- VANG.USD EM G.BD UETF DLD: **35,26 €**
+- VANG.USD TREA.BD UETF DLD: **1,88 €**
+- ISHSII-JPM DL EM BD DLDIS: **2,86 €**
 
 
 **Beimischung**:
 
+- VANGUARD FTSE JAPAN UCITS ETF: **1,00 €**
+- iSh.ST.Eu.600 Aut.&Pa.U.: **8,78 €**
+
+
+**Welt**:
+
+- VANGUARD FTSE EM.MARKETS U.ETF: **10,98 €**
 
 
 **Aktien**:
 
-
+- AGNC Investment Corp.: **2,62 €**
+- Annaly Capital Management Inc.: **8,50 €**
+- Apollo Investment Corp: **1,84 €**
+- Armour Residential REIT Inc: **0,92 €**
+- Bayer AG: **4,63 €**
+- Cardinal Health Inc: **1,84 €**
+- Cisco Systems Inc.: **2,28 €**
+- Coca-Cola Co., The: **5,30 €**
+- Deutsche Telekom AG: **3,77 €**
+- Foot Locker Inc.: **1,23 €**
+- Gladstone Commercial Corp.: **1,54 €**
+- Gladstone Land Corp.: **0,47 €**
+- GlaxoSmithKline: **1,23 €**
+- Global Net Lease Inc.: **9,50 €**
+- HSBC Holdings: **3,13 €**
+- Inter Pipeline Ltd: **0,17 €**
+- Iron Mountain Inc.: **6,66 €**
+- Ladder Capital Corp: **0,88 €**
+- MSC Industrial Direct Co. Inc. Reg. Shares Class A: **2,77 €**
+- Main Street Capital Corp.: **2,79 €**
+- Medical Properties Trust Inc: **1,07 €**
+- New Residential Investm. Corp.: **8,59 €**
+- Occidental Petroleum Corp: **0,03 €**
+- One Liberty Properties Inc: **4,02 €**
+- Patterson Companies Inc.: **3,20 €**
+- Pembina Pipeline Corp: **1,24 €**
+- PennantPark Floating Rate Cap: **1,93 €**
+- Pennon Group PLC Registered Shares New LS: **2,34 €**
+- Prospect Capital Corp: **2,27 €**
+- Realty Income Corp.: **1,03 €**
+- STAG Industrial Inc.: **0,98 €**
+- Shaw Communications Inc: **0,93 €**
+- Spirit Realty Capital Inc.: **5,46 €**
+- Starwood Property Trust Inc: **4,77 €**
+- Store Capital Corporation: **4,27 €**
 
 **Verkauf**:
 
+- Pluralsight Ausbuchung: **10 €**
+- Sunrise Communication (Zwangsabfindung): **145 €**
 
 
-**Sonstige Einnahmen**:
+**Gesamteinnahmen**: **206,53 €**
 
-
-
-**Gesamteinnahmen**: **0 €**
-
-Insgesamt haben 0 Einzelaktien, 0 Welt ETF, 0 Beimschung ETF, 0 Anleihen ETF und 0 Dividenden ETF ausgeschüttet.
+Insgesamt haben 35 Einzelaktien, 1 Welt ETF, 2 Beimschung ETFs, 3 Anleihen ETFs und 2 Dividenden ETF ausgeschüttet.
 
 
 ## Einnahmen als Balkendiagramm
@@ -69,6 +113,11 @@ var models = [
     "model_name":"März",
     "field1":150,
     "field2":188
+  },
+  {
+    "model_name":"April",
+    "field1":191,
+    "field2":206
   },
 ];
 models = models.map(i => {
@@ -168,7 +217,9 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 - iShsIII-Core MSCI World U.ETF Registered Shs USD (Acc)
   - Kauf von 26,4288 Stück am 06.04.2021
   - Kaufkurs: 66,59 €
-
+- iShsIV-iShs MSCI Wld ESG S.ETF Reg. Shares USD Acc.
+  - Kauf von 143,6781 Stück am 16.04.2021
+  - Kaufkurs: 6,264 €
 
 
 **Anleihen:**
@@ -176,6 +227,12 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 - Vanguard USD EM Government Bond UCITS
   - Kauf von 0,577 Stück am 07.04.2021
   - Kaufkurs: 42,667 €
+- iShsII-J.P.M.$ EM Bond U.ETF Registered Shares
+  - Kauf von 0,2712 Stück am 16.04.2021
+  - Kaufkurs: 92,17 €
+- iShsIV-Fa.An.Hi.Yi.Co.Bd U.ETF Registered Shares USD
+  - Kauf von 1,9336 Stück am 16.04.2021
+  - Kaufkurs: 5,1715 €
 
 
 **Beimischung**:
@@ -192,6 +249,12 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 - iShs IV-iShs MSCI India UC.ETF Registered Shares
   - Kauf von 1,793 Stück am 06.04.2021
   - Kaufkurs: 5,58 €
+- iShsII-Gl.Infrastruct.U.ETF Registered Shs USD (Dist)
+  - Kauf von 0,9384 Stück am 16.04.2021
+  - Kaufkurs: 26,64 €
+- iShsV-Gold Producers.UCITS ETF Registered Shares USD (Acc)
+  - Kauf von 0,9864 Stück am 16.04.2021
+  - Kaufkurs: 13,178 €
 
 
 **Einzelaktien:**
@@ -199,6 +262,8 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 - TUI AG Namens-Aktien
   - Kauf von 2,1944 Stück am 06.04.2021
   - Kaufkurs: 4,56 €
+  - Kauf von 2,2123 Stück am 16.04.2021
+  - Kaufkurs: 4,52 €
 - Kingfisher PLC Reg. Shares LS -,157142857
   - Kauf von 2,5773 Stück am 06.04.2021
   - Kaufkurs: 3,88 €
@@ -268,12 +333,52 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 - Prospect Capital Corp. Registered Shares
   - Kauf von 10,1568 Stück am 06.04.2021
   - Kaufkurs: 6,70 €
+- Air France-KLM S.A. Actions Port. EO 1
+  - Kauf von 2,1877 Stück am 16.04.2021
+  - Kaufkurs: 5,028 €
+- HAMBORNER REIT AG Namens-Aktien
+  - Kauf von 1,0634 Stück am 16.04.2021
+  - Kaufkurs: 9,403 €
+- Marks & Spencer Group PLC Registered Shares LS -,25
+  - Kauf von 33,1308 Stück am 16.04.2021
+  - Kaufkurs: 1,811 €
+- E.ON SE Namens-Aktien
+  - Kauf von 1,0143 Stück am 16.04.2021
+  - Kaufkurs: 9,859 €
+- Consus Real Estate AG Namens-Aktien
+  - Kauf von 1,4005 Stück am 16.04.2021
+  - Kaufkurs: 7,14 €
+- CECONOMY AG Inhaber-Stammaktien
+  - Kauf von 2,2812 Stück am 16.04.2021
+  - Kaufkurs: 4,822 €
+- Accentro Real Estate AG Inhaber-Aktien
+  - Kauf von 1,2578 Stück am 16.04.2021
+  - Kaufkurs: 7,95 €
+- NETCENTS TECHNOLOGY INC. Registered Shares
+  - Kauf von 30,8166 Stück am 16.04.2021
+  - Kaufkurs: 0,649 €
+- GlaxoSmithKline PLC Registered Shares LS -,25
+  - Kauf von 1,0165 Stück am 16.04.2021
+  - Kaufkurs: 15,74 €
+- Vodafone Group PLC Registered Shares
+  - Kauf von 12,6662 Stück am 16.04.2021
+  - Kaufkurs: 1,579 €
+- National Grid PLC Reg. Shares LS -,12431289
+  - Kauf von 0,9629 Stück am 16.04.2021
+  - Kaufkurs: 10,385 €
+- CoreCivic Inc. Registered Shares
+  - Kauf von 1,445 Stück am 16.04.2021
+  - Kaufkurs: 6,92 €
+- GEO Group Inc., The Registered Shares
+  - Kauf von 2,0859 Stück am 16.04.2021
+  - Kaufkurs: 4,794 €
+
 
 
 ## Fazit:
 
-Im Vergleich zum Vorjahr habe ich 28 € mehr eingenommen, was einen Anstieg von 25% bedeutet. Auch hat es mich
-überrascht, das ich mal wieder ein Exemplar von meinen Ebook verkaufen konnte.
+Im Vergleich zum Vorjahr habe ich 15 € mehr eingenommen, was einen Anstieg von knapp 8% bedeutet.
 
-So kann es gerne weitergehen.
+Über die Zwangsabfindung sowie Ausbuchung von Sunrise Communication und Pluralsight werde ich separat nochmal schreiben,
+was es genau damit auf sich hat.
 
