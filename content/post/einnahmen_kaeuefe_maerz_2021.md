@@ -391,7 +391,7 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 
 ## Fazit:
 
-Im Vergleich zum Vorjahr habe ich 28 € mehr eingenommen, was einen Anstieg von 25% bedeutet. Auch hat es mich
+Im Vergleich zum Vorjahr habe ich 38 € mehr eingenommen, was einen Anstieg von 25% bedeutet. Auch hat es mich
 überrascht, das ich mal wieder ein Exemplar von meinen Ebook verkaufen konnte.
 
 So kann es gerne weitergehen.
