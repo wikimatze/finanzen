@@ -1,11 +1,11 @@
 +++
-date = "2020-09-06T5:00:00+02:00"
-title = "Einnahmen und Einkäufe xxx-xxx 2020"
+date = "2021-09-06T5:00:00+02:00"
+title = "Einnahmen und Einkäufe xxx-xxx 2021"
 titleAddition = "finanzmatze"
 draft = true
 d3 = true
 featuredImage = "/einnahmen_januar_februar_2020.png"
-description = "Welche Einnahmen und Einkäufe habe ich von xxx-xxx 2020 getätigt?"
+description = "Welche Einnahmen und Einkäufe habe ich von xxx-xxx 2021 getätigt?"
 tags = [
     "einnahmen",
     "einkauf",
@@ -15,7 +15,7 @@ tags = [
 Kurzes Intro, was ich in den letzten Paar Monaten alles so erledigt habe ...
 
 
-## Einnahmen xxx 2020
+## Einnahmen xxx 2021
 
 **Dividenden-Aktien:**
 
@@ -28,6 +28,11 @@ Kurzes Intro, was ich in den letzten Paar Monaten alles so erledigt habe ...
 
 
 **Beimischung**:
+
+- WKN Text: **0,00 €**
+
+
+**Welt**:
 
 - WKN Text: **0,00 €**
 
@@ -50,93 +55,130 @@ Insgesamt haben x Einzelaktien, x Beimschung ETF, x Anleihen ETFs und x Dividend
 
 ## Einnahmen als Balkendiagramm
 
-
-<div id="area"></div>
-
-<style>
-	.axis {
-	  font: 15px sans-serif;
-	}
-
-	.axis path,
-	.axis line {
-	  fill: none;
-	  stroke: #000;
-	  shape-rendering: crispEdges;
-	}
-
-</style>
-
+<div id="d3id" ></div>
+<!-- load the d3.js library -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
 
 <script>
-var margin = {top: 30, right: 20, bottom: 70, left: 100},
-    width = 600 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
-
-// Parse the date / time
-var	parseDate = d3.time.format("%Y-%m").parse;
-
-var x = d3.scale.ordinal().rangeRoundBands([0, width], .05);
-
-var y = d3.scale.linear().range([height, 0]);
-
-var xAxis = d3.svg.axis()
-    .scale(x)
-    .orient("bottom")
-    .tickFormat(d3.time.format("%Y-%m"));
-
-var yAxis = d3.svg.axis()
-    .scale(y)
-    .orient("left")
-    .ticks(10);
-
-var svg = d3.select("#area").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
-
-d3.csv("/data/dividenden_reports/maerz_august_2020.csv", function(error, data) {
-
-    data.forEach(function(d) {
-        d.date = parseDate(d.date);
-        d.value = +d.value;
-    });
-
-  x.domain(data.map(function(d) { return d.date; }));
-  y.domain([0, d3.max(data, function(d) { return d.value; })]);
-
-  svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
-    .selectAll("text")
-      .style("text-anchor", "end")
-      .attr("dx", "-.8em")
-      .attr("dy", ".90em")
-      .attr("transform", "rotate(-30)" );
-
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-    .append("text")
-      .attr("transform", "rotate(0)")
-      .attr("y", "-2em")
-      .attr("dy", "1em")
-      .style("text-anchor", "end")
-      .text("Dividende (€)");
-
-  svg.selectAll("bar")
-      .data(data)
-    .enter().append("rect")
-      .style("fill", "steelblue")
-      .attr("x", function(d) { return x(d.date); })
-      .attr("width", x.rangeBand())
-      .attr("y", function(d) { return y(d.value); })
-      .attr("height", function(d) { return height - y(d.value); });
-
+var models = [
+  {
+    "model_name":"Januar",
+    "field1":128,
+    "field2":113
+  },
+  {
+    "model_name":"Februar",
+    "field1":50,
+    "field2":144
+  },
+  {
+    "model_name":"März",
+    "field1":150,
+    "field2":188
+  },
+  {
+    "model_name":"April",
+    "field1":191,
+    "field2":206
+  },
+  {
+    "model_name":"Mai",
+    "field1":140,
+    "field2":193
+  },
+  {
+    "model_name":"Juni",
+    "field1":293,
+    "field2":245
+  },
+];
+models = models.map(i => {
+  i.model_name = i.model_name;
+	return i;
 });
+
+var container = d3.select('#d3id'),
+    width = 500,
+    height = 300,
+    margin = {top: 30, right: 20, bottom: 30, left: 50},
+    barPadding = .2,
+    axisTicks = {qty: 5, outerSize: 0, dateFormat: '%m-%d'};
+
+var svg = container
+   .append("svg")
+   .attr("width", width)
+   .attr("height", height)
+   .append("g")
+   .attr("transform", `translate(${margin.left},${margin.top})`);
+
+var xScale0 = d3.scaleBand().range([0, width - margin.left - margin.right]).padding(barPadding);
+var xScale1 = d3.scaleBand();
+var yScale = d3.scaleLinear().range([height - margin.top - margin.bottom, 0]);
+
+var xAxis = d3.axisBottom(xScale0).tickSizeOuter(axisTicks.outerSize);
+var yAxis = d3.axisLeft(yScale).ticks(axisTicks.qty).tickSizeOuter(axisTicks.outerSize);
+
+xScale0.domain(models.map(d => d.model_name));
+xScale1.domain(['field1', 'field2']).range([0, xScale0.bandwidth()]);
+yScale.domain([0, d3.max(models, d => d.field1 > d.field2 ? d.field1 : d.field2)]);
+
+var model_name = svg.selectAll(".model_name")
+  .data(models)
+  .enter().append("g")
+  .attr("class", "model_name")
+  .attr("transform", d => `translate(${xScale0(d.model_name)},0)`);
+
+/* Add field1 bars */
+model_name.selectAll(".bar.field1")
+  .data(d => [d])
+  .enter()
+  .append("rect")
+  .attr("class", "bar field1")
+.style("fill","#69b3a2")
+  .attr("x", d => xScale1('field1'))
+  .attr("y", d => yScale(d.field1))
+  .attr("width", xScale1.bandwidth())
+  .attr("height", d => {
+    return height - margin.top - margin.bottom - yScale(d.field1)
+  });
+
+/* Add field2 bars */
+model_name.selectAll(".bar.field2")
+  .data(d => [d])
+  .enter()
+  .append("rect")
+  .attr("class", "bar field2")
+.style("fill","#404080")
+  .attr("x", d => xScale1('field2'))
+  .attr("y", d => yScale(d.field2))
+  .attr("width", xScale1.bandwidth())
+  .attr("height", d => {
+    return height - margin.top - margin.bottom - yScale(d.field2)
+  });
+
+// Add the X Axis
+svg.append("g")
+   .attr("class", "x axis")
+   .attr("transform", `translate(0,${height - margin.top - margin.bottom})`)
+   .call(xAxis);
+
+// Add the Y Axis
+svg.append("g")
+   .attr("class", "y axis")
+   .call(yAxis);
+
+svg.append("text")
+   .attr("transform", "rotate(0)")
+   .attr("y", "-2em")
+   .attr("dy", "1em")
+   .style("text-anchor", "end")
+   .text("€");
+
+// Handmade legend
+svg.append("circle").attr("cx",15).attr("cy",-10).attr("r", 6).style("fill", "#69b3a2")
+svg.append("circle").attr("cx",15).attr("cy",20).attr("r", 6).style("fill", "#404080")
+svg.append("text").attr("x", 30).attr("y", -5).text("2020").style("font-size", "15px").attr("alignment-baseline","middle")
+svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "15px").attr("alignment-baseline","middle")
 </script>
 
 
@@ -144,37 +186,21 @@ d3.csv("/data/dividenden_reports/maerz_august_2020.csv", function(error, data) {
 
 **Welt**:
 
-- Link mit Namen
-  - Kauf von **0,00 Stück** am xx.xx.2020
-  - Kaufkurs: 16,248 €
-
 
 **Dividenden-Aktien:**
 
-- Link mit Namen
-  - Kauf von **0,00 Stück** am xx.xx.2020
-  - Kaufkurs: 16,248 €
 
 
 **Anleihen:**
 
-- Link mit Namen
-  - Kauf von **0,00 Stück** am xx.xx.2020
-  - Kaufkurs: 16,248 €
 
 
 **Beimischung**:
 
-- Link mit Namen
-  - Kauf von **0,00 Stück** am xx.xx.2020
-  - Kaufkurs: 16,248 €
 
 
 **Einzelaktien:**
 
-- Link mit Namen
-  - Kauf von **0,00 Stück** am xx.xx.2020
-  - Kaufkurs: 16,248 €
 
 
 ## Fazit
