@@ -10,6 +10,9 @@ canonifyURLS = true
 paginate = 15
 configDir = "config"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     author = "Matthias Günther"
     bio = "Ich heiße Matthias, bin Diplom-Informatiker und arbeite als Softwareentwickler/Agile Coach bei https://www.my-hammer.de Seit Ende 2018 beschäftige ich mich mit Finanzen und schreibe meine Gedanken und Erfahrungen hierzu nieder."
