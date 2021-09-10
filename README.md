@@ -51,6 +51,13 @@ export HUGO_ENV='production' && hugo && rake deploy && export HUGO_ENV='staging'
 ```
 
 
+# hugo installieren
+
+cd /tmp && wget https://github.com/gohugoio/hugo/releases/download/v0.59.0/hugo_0.59.0_Linux-64bit.deb && sudo dpkg -i
+hugo_0.59.0_Linux-64bit.deb
+References: https://www.howtoforge.com/tutorial/how-to-install-hugo-site-generator-on-ubuntu/
+
+
 # Sonstige Vereinbarungen
 
 - Bilder haben eine Größe von 800px x 555px (zum Skalieren hab ich [gimp](https://www.gimp.org/ "gimp") verwendet)
