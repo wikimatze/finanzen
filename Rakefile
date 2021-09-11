@@ -16,6 +16,9 @@ end
 
 desc 'Deploy'
 task :deploy do
+  puts 'Clear public folder ..'.bold.green
+  system 'rm -rf public/*'
+
   puts 'Building hugo ..'.bold.green
   system 'hugo'
 
