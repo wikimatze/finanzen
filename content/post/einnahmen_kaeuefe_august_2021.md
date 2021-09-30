@@ -5,7 +5,7 @@ titleAddition = "finanzmatze"
 draft = false
 d3 = true
 featuredImage = "/einnahmen_januar_februar_2020.png"
-description = "Welche Einnahmen und Einkäufe habe ich von August 2021 getätigt?"
+description = "Welche Einnahmen und Einkäufe habe ich im August 2021 getätigt?"
 tags = [
     "einnahmen",
     "einkauf",

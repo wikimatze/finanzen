@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-Inspiriert durch den Artikel von [finanzmixerin "5 Learnings aus 2020"](https://www.finanzmixerin.de/5-learnings-aus-2020/ "finanzmixerin "5 Learnings aus 2020"") möchte ich euch meine Ziele für 2021 präsentieren:
+Inspiriert durch den Artikel von [finanzmixerin "5 Learnings aus 2020"](https://www.finanzmixerin.de/5-learnings-aus-2020/ "finanzmixerin 5 Learnings aus 2020") möchte ich euch meine Ziele für 2021 präsentieren:
 
 - **Dividendenstrategie weiter verfolgen**: Ich habe inzwischen ein breit diversifiziertes Portfolio bestehend aus ETFs und
   Einzelaktien und die Motivation, jeden Monat zusätzlich Geld zu bekommen, lässt nicht nach. Im
