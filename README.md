@@ -51,6 +51,13 @@ export HUGO_ENV='production' && hugo && rake deploy && export HUGO_ENV='staging'
 ```
 
 
+# Deployment mit Zukunfsblogposts
+
+```
+export HUGO_ENV='production' && hugo --buildFuture && rake deploy_future && export HUGO_ENV='staging' && hugo
+```
+
+
 # hugo installieren
 
 ```
@@ -70,3 +77,4 @@ References: https://www.howtoforge.com/tutorial/how-to-install-hugo-site-generat
 - d3 Beispiel für Einnahmen und Einkäufe Januar 2021
   - Basis-Diagram: https://jsfiddle.net/354zw0d2/9/
   - Legende basteln: https://www.d3-graph-gallery.com/graph/custom_legend.html
+

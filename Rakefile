@@ -29,6 +29,21 @@ task :deploy do
   puts 'Done!'.green
 end
 
+desc 'Deploy'
+task :deploy_future do
+  puts 'Clear public folder ..'.bold.green
+  system 'rm -rf public/*'
+
+  puts 'Building hugo ..'.bold.green
+  system 'hugo --buildFuture'
+
+  puts 'Deploying site with lovely rsync ..'.bold.green
+
+  system "rsync -vru -e \"ssh\" --del public/* xa6195@xa6.serverdomain.org:/home/www/finanzen/"
+
+  puts 'Done!'.green
+end
+
 desc 'Startup hugo'
 task :s do
   puts 'hugo is finished with building..'.bold.green
