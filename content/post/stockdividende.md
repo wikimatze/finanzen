@@ -15,31 +15,28 @@ tags = [
 
 # Was ist eine Stockdividende
 
-- zusätzliche Aktien ohne Gegenleistung
-- Zuteilung erfolgt im Verhältnis ihres derzeitigen Aktienbesitzes
-- handelt sich um keine reale Dividende, da keine wirkliche Ausschüttung vorliegt
-- alternative Bezeichnung: Gratis-, Bonus-, Zusatz- oder Berichtigungsaktie
-- Erhöhung des Grundkapitals -> Gewinn bleibt im Unternehmen, steigern aber das angelegte Kaptial
+Bei einer Stockdividende erhält man zusätzliche Aktien des Unternehmens ohne diese aktiv kaufen zu müssen.
+Es handelt sich hierbei um keine reale Dividende, da keine wirklich Ausschüttung vorliegt.
+
+Alternative Bezeichnung: Gratis-, Bonus-, Zusatz- oder Berichtigungsaktie
+
+
+
 - Für die Annahme einer Stockdividende muss der Dividendenertrag der jeweiligen Depotposition mindestens so hoch sein, dass davon eine Aktie gekauft werden kann.
 
 
 
 # Warum?
 
-- wirtschaftlich gesehen ist es ein Aktiensplitt
-- Vorteil: Thesaurierung der Gewinne
-- Nachteil:
-
-
-# Vorteile
-
-- Anleger kommt schnell und unkompliziert an neue Aktien
-- manchmal gibt es es auch Preisabschläge
-- sind einkommensteuerfrei, jedoch fällt Kapitalertragssteuer an
+Als Anleger kommt Anleger kommt schnell und unkompliziert an neue Aktien.
+Dies spart u.a. die Orderkosten, aber die meisten Unternehmen nehmen dafür eine Extra Gebühr - so dass es sich nicht lohnen kann. In meinen
+Beispiel verlangt die onvista Bank ... € (todo, Beispiel suchen)
 
 
 # Fazit:
 
+Ist mein Bestand an Aktien irgendwann mal so groß, dass ich statt der Dividende liebe neue Eträge kaufen möchte, dann
+mache ich das einfach.
 
 # Referenzen:
 

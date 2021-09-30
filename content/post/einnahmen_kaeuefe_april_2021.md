@@ -377,7 +377,7 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 
 ## Fazit:
 
-Im Vergleich zum Vorjahr habe ich 15 € mehr eingenommen, was einen Anstieg von knapp 8% bedeutet.
+Im Vergleich zum Vorjahr habe ich 15 € mehr eingenommen, was einen Anstieg von 7% bedeutet.
 
 Über die Zwangsabfindung sowie Ausbuchung von Sunrise Communication und Pluralsight werde ich separat nochmal schreiben,
 was es genau damit auf sich hat.
