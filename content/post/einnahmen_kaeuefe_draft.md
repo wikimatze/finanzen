@@ -1,19 +1,16 @@
 +++
 date = "2021-09-06T5:00:00+02:00"
-title = "Einnahmen und Einkäufe xxx-xxx 2021"
+title = "Einnahmen und Einkäufe xxx 2021"
 titleAddition = "finanzmatze"
 draft = true
 d3 = true
 featuredImage = "/einnahmen_januar_februar_2020.png"
-description = "Welche Einnahmen und Einkäufe habe ich von xxx-xxx 2021 getätigt?"
+description = "Welche Einnahmen und Einkäufe habe ich von xxx 2021 getätigt?"
 tags = [
     "einnahmen",
     "einkauf",
 ]
 +++
-
-Kurzes Intro, was ich in den letzten Paar Monaten alles so erledigt habe ...
-
 
 ## Einnahmen xxx 2021
 
@@ -90,6 +87,36 @@ var models = [
     "model_name":"Juni",
     "field1":293,
     "field2":245
+  },
+  {
+    "model_name":"Juli",
+    "field1":171,
+    "field2":626,
+  },
+  {
+    "model_name":"August",
+    "field1":149,
+    "field2":176,
+  },
+  {
+    "model_name":"September",
+    "field1":85,
+    "field2":188,
+  },
+  {
+    "model_name":"Oktober",
+    "field1":336,
+    "field2":450,
+  },
+  {
+    "model_name":"November",
+    "field1":129,
+    "field2":0,
+  },
+  {
+    "model_name":"Dezember",
+    "field1":178,
+    "field2":0,
   },
 ];
 models = models.map(i => {
@@ -205,7 +232,5 @@ svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "
 
 ## Fazit
 
-Was konnte ich aus den vergangenen Monat alles für mich herausziehen.
-
-Wie liefen eure Monate so? Welche Investitionen habt ihr getätigt?
+Im Vergleich zum Vorjahr habe ich yyy € mehr eingenommen, was einen Anstieg von zz% entspricht. Erneut wurde mein finanzielles Ziel erreicht.
 
