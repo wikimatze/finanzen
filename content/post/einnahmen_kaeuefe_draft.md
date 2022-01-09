@@ -1,18 +1,18 @@
 +++
-date = "2021-09-06T5:00:00+02:00"
-title = "Einnahmen und Einkäufe xxx 2021"
+date = "2022-09-06T5:00:00+02:00"
+title = "Einnahmen und Einkäufe xxx 2022"
 titleAddition = "finanzmatze"
 draft = true
 d3 = true
 featuredImage = "/einnahmen_januar_februar_2020.png"
-description = "Welche Einnahmen und Einkäufe habe ich von xxx 2021 getätigt?"
+description = "Einnahmen und Einkäufe in xxx 2022."
 tags = [
     "einnahmen",
     "einkauf",
 ]
 +++
 
-## Einnahmen xxx 2021
+## Einnahmen xxx 2022
 
 **Dividenden-Aktien:**
 
@@ -59,22 +59,22 @@ Insgesamt haben x Einzelaktien, x Beimschung ETF, x Anleihen ETFs und x Dividend
 <script>
 var models = [
   {
-    "model_name":"Januar",
+    "model_name":"Jan",
     "field1":128,
     "field2":113
   },
   {
-    "model_name":"Februar",
+    "model_name":"Feb",
     "field1":50,
     "field2":144
   },
   {
-    "model_name":"März",
+    "model_name":"Mär",
     "field1":150,
     "field2":188
   },
   {
-    "model_name":"April",
+    "model_name":"Apr",
     "field1":191,
     "field2":206
   },
@@ -84,39 +84,39 @@ var models = [
     "field2":193
   },
   {
-    "model_name":"Juni",
+    "model_name":"Jun",
     "field1":293,
     "field2":245
   },
   {
-    "model_name":"Juli",
+    "model_name":"Jul",
     "field1":171,
     "field2":626,
   },
   {
-    "model_name":"August",
+    "model_name":"Aug",
     "field1":149,
     "field2":176,
   },
   {
-    "model_name":"September",
+    "model_name":"Sep",
     "field1":85,
     "field2":188,
   },
   {
-    "model_name":"Oktober",
+    "model_name":"Okt",
     "field1":336,
     "field2":450,
   },
   {
-    "model_name":"November",
+    "model_name":"Nov",
     "field1":129,
-    "field2":0,
+    "field2":153,
   },
   {
-    "model_name":"Dezember",
+    "model_name":"Dez",
     "field1":178,
-    "field2":0,
+    "field2":272,
   },
 ];
 models = models.map(i => {
@@ -205,7 +205,7 @@ svg.append("text")
 svg.append("circle").attr("cx",15).attr("cy",-10).attr("r", 6).style("fill", "#69b3a2")
 svg.append("circle").attr("cx",15).attr("cy",20).attr("r", 6).style("fill", "#404080")
 svg.append("text").attr("x", 30).attr("y", -5).text("2020").style("font-size", "15px").attr("alignment-baseline","middle")
-svg.append("text").attr("x", 30).attr("y", 25).text("2021").style("font-size", "15px").attr("alignment-baseline","middle")
+svg.append("text").attr("x", 30).attr("y", 25).text("2022").style("font-size", "15px").attr("alignment-baseline","middle")
 </script>
 
 
