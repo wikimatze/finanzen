@@ -1,5 +1,5 @@
 +++
-date = "2022-02-05T5:00:00+02:00"
+date = "2022-02-06T5:00:00+02:00"
 title = "Einnahmen und Einkäufe Januar 2022"
 titleAddition = "finanzmatze"
 featuredImage = "/einnahmen_januar_februar_2020.png"
@@ -33,9 +33,7 @@ tags = [
 - iShsIVMSCI China UCITS ETF Reg Shs USD Dis oN: **0,24 €**
 
 
-**Welt**:
-
-- WKN Text: **0,00 €**
+**Welt**: -
 
 
 **Aktien**:
