@@ -36,4 +36,3 @@ Inspiriert durch den Artikel von [finanzmixerin "5 Learnings aus 2020"](https://
 
 Kleine, aber dafür messbare Ziele habe ich mir gesetzt.  Was hast du dir für 2021 vorgenommen?
 
-
