@@ -103,9 +103,9 @@ Diesen Monat habe ich bei meinen Einkäufen zwei neue Kategorien hinzugefügt:
 
 **Verkäufe**:
 
-- iShares Core MSCI Emerging Markets IMI: 162
-- BHP Bilton: 2,46
-- Stillfront Group AB Anrechte: 1,18
+- iShares Core MSCI Emerging Markets IMI: **162 €**
+- BHP Bilton: **2,46 €**
+- Stillfront Group AB Anrechte: **1,18 €**
 
 
 **Gesamteinnahmen reine Dividenden**: **325,89 €**

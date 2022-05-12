@@ -32,25 +32,24 @@ tags = [
 **Aktien**:
 
 
+**Sonstiges**: **0,00 €**
 
-**Sonstiges**:
 
+**Verkäufe**: **0,00 €**
 
 **Gesamteinnahmen reine Dividenden**: **0,00 €**
 
 **Gesamteinnahmen plus sonstige**: **0,00 €**
-
-Insgesamt haben x Einzelaktien, x Beimschung ETF, x Anleihen ETFs und x Dividenden ETF ausgeschüttet.
 
 
 ## Einnahmen als Tabelle
 
 | Jahr      | 2020  | 2021  | 2022  |
 |-----------|-------|-------|-------|
-| Januar    | 128   | 113   | -     |
-| Februar   | 50    | 144   | -     |
-| März      | 150   | 188   | -     |
-| April     | 191   | 206   | -     |
+| Januar    | 128   | 113   | 193   |
+| Februar   | 50    | 144   | 224   |
+| März      | 150   | 188   | 325   |
+| April     | 191   | 206   | 298   |
 | Mai       | 140   | 193   | -     |
 | Juni      | 293   | 245   | -     |
 | Juli      | 171   | 626   | -     |
@@ -77,12 +76,18 @@ Insgesamt haben x Einzelaktien, x Beimschung ETF, x Anleihen ETFs und x Dividend
 **Beimischung**:
 
 
+**Konsum ETFs mit 200 € Limit**:
+
+
 
 **Einzelaktien:**
+
+
+**Einzelaktien Nachkauf für 100 € aus Dividenden-Einnahmen:**
 
 
 
 ## Fazit
 
-Im Vergleich zum Vorjahr habe ich yyy € mehr eingenommen, was einen Anstieg von zz% entspricht. Erneut wurde mein finanzielles Ziel erreicht.
+Im Vergleich zum Vorjahr habe ich yyy € mehr eingenommen, was einen Anstieg von (Anfangswert - Endwert / Anfangswert.0) hentspricht. Erneut wurde mein finanzielles Ziel erreicht.
 
