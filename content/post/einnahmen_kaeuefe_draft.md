@@ -89,5 +89,5 @@ tags = [
 
 ## Fazit
 
-Im Vergleich zum Vorjahr habe ich yyy € mehr eingenommen, was einen Anstieg von (Anfangswert - Endwert / Anfangswert.0) hentspricht. Erneut wurde mein finanzielles Ziel erreicht.
+Im Vergleich zum Vorjahr habe ich yyy € mehr eingenommen, was einen Anstieg von (Anfangswert - Endwert / Anfangswert.0) entspricht. Erneut wurde mein finanzielles Ziel erreicht.
 
