@@ -1,11 +1,10 @@
 +++
-date = "2020-02-12T20:15:45+01:00"
+date = "2022-07-05T20:15:45+01:00"
 title = "Projekt Essensgeld für Junior"
 titleAddition = "finanzmatze"
-draft = true
 d3 = true
 featuredImage = "/ishares_stoxx_global_select_dividend_100.png"
-description = "Nach den nächsten 13 Monaten sollen 25 € Essensgeld für meinen Sohn mit Aktien passiv verdient werden. Ich beschreibe meinen Plan, Annahmen und Rahmenbedingungen für dieses Projekt."
+description = "In den nächsten 24 Monaten sollen 25 € Essensgeld für meinen Sohn mit Aktien passiv verdient werden. Ich beschreibe meinen Plan, Annahmen und Rahmenbedingungen für dieses Projekt."
 tags = [
     "essensgeld",
     "junior",
@@ -13,31 +12,32 @@ tags = [
 ]
 +++
 
-Meine Elternzeit ist vorbei und der Kleine ist an die Kita gewöhnt. Nach der Eingewöhnung isst unser Sohn nun auch in
-der Kita und der monatliche Betrag für das Mittagessen beträgt *25 €*.
+Ursprünglich sollte dieser Beitrag bereits 2020 erscheinen. Inzwischen ist jede Menge am Finanzmarkt passiert und mein
+Plan und ursprünglichen Annahmen stammen immer noch von 2020.
 
+Meine Elternzeit ist vorbei und der Kleine ist an die Kita gewöhnt.
+Jeden Tag isst er nun Mittag in der Kita und die monatlichen Kosten dafür betragen *25 €*.
 
-Im folgenden beschreibe ich, wie ich innerhalb der nächsten *13 Monate* mir diese *25 €* *monatlich* vom
+Im folgenden beschreibe ich, wie ich innerhalb der nächsten *24 Monate* mir diese *25 €* *monatlich* vom
 Aktienmarkt generieren lassen will.
 
 
 ## Vorüberlegungen
 
-Mit reinen [ETFs](/post/etfs/ "ETFs") ist das schwierig. Warum? Die meisten ETFs schütten meisten quartalsweise bzw. halbjährlich aus.
+Mit reinen [ETFs](/post/etfs/ "ETFs") ist dieses Unterfangen schwierig. Warum? Die meisten ETFs schütten meisten quartalsweise bzw. halbjährlich aus.
 Bisher sind mir nur Anleihen bekannt, die monatlich Geld ausschütten.
 
 
-Ich könnte meine ganzes Geld in Anleihen setzen, würde somit aber gegen das Diversifikationsprinzip verstoßen
+Ich könnte meine ganzes Geld in Anleihen setzen, würde somit aber gegen das Diversifikations-Regel verstoßen
 (Stichwort: Nicht alle Eier in einen Korb packen).
 
 
-Seit Covid-19 habe ich Einzelaktien für mich entdeckt und gemerkt, dass diese bedingt durch ein höheres Risiko auch
-mehr Rendite abwerfen.
+Seitdem die Pandemie ausgebrochen ist habe ich Einzelaktien für mich entdeckt.
+Die werfen bedingt durch ein höheres Risiko auch mehr Rendite ab.
 
 
-In den kommenden 13 Monaten will ich Geld in Einzelaktien
-investieren, dass ab den *13 Monat 25 €* abzüglich *anfallender Steuern* monatlich auf mein Konto landen.
-Damit sollte der monatliche Essensabschlag abgedeckt sein.
+In den kommenden 25 Monaten will ich Geld in Einzelaktien
+investieren, dass ab den *25 Monat 25 €* abzüglich *anfallender Steuern* monatlich auf mein Konto landen.
 
 
 Für die Auswahl passender Monatszahler habe ich das Buch
@@ -46,19 +46,17 @@ Für die Auswahl passender Monatszahler habe ich das Buch
 
 ## Annahmen und Rahmenbedingungen
 
-Geeignete Einzelaktien müssen folgende Kriterien erfüllen:
-
+Geeignete Aktien müssen folgende Kriterien erfüllen:
 
 - a) monatlich kostenlos besparbar sein
 - b) kontinuierlich auch in Krisenzeiten ausschütten
 - c) verständliche Geschäftsmodele besitzen
 
-
 Warum nur monatlich investieren und nicht gleich den ganzen Betrag auf einen Schlag?
 
 
-Ich gehe davon aus, dass die gegenwärtige Covid-Krise noch länger andauern
-wird und ich die Durchschnittskosten (Stichwort *cost-average-effect*) für den Kauf innerhalb der nächsten 13 Monate insgesamt niedriger sein werden, als wenn ich alles auf einmal investiere.
+Ich gehe davon aus, dass die gegenwärtige Covid-Pandemie noch länger andauern
+wird und die Durchschnittskosten (Stichwort *cost-average-effect*) für den Kauf innerhalb der nächsten 25 Monate insgesamt niedriger sein werden, als wenn ich alles auf einmal investiere.
 
 
 Mein monatliches ***Gesamtbudget*** beträgt *400 €*.
@@ -69,21 +67,20 @@ Mein monatliches ***Gesamtbudget*** beträgt *400 €*.
 In meiner Kalkulation muss ich sowohl die vollen steuerlichen Abgaben als auch Währungsrisiken einberechnen.
 
 
-Um die steuerlichen Abgaben einzuberechnen beachte ich ich das [Doppelbesteuerungsabkommen](https://www.finanztip.de/indexfonds-etf/quellensteuer/ "Doppelbesteuerungsabkommen") zwischen Deutschland und USA bzw. Kanada.
-
-
-Statt einmal Abgeltungssteuer 25%, plus Soli in Höhe von 5,5% (Gesamtsteuerbelastung in Höhe von 26,375%) sowie Quellensteuer in Höhe 30% auf die Erträge zu zahlen, bezahle ich maximal **15% Quellensteuer**, welche ich auf die fällige Abgeltungssteuer bereits anrechnen Abgeltungssteuer angerechnet wird.
+Um die steuerlichen Abgaben einzuberechnen beachte ich das [Doppelbesteuerungsabkommen](https://www.finanztip.de/indexfonds-etf/quellensteuer/ "Doppelbesteuerungsabkommen") zwischen Deutschland und USA bzw. Kanada.
+Statt einmal Abgeltungssteuer 25%, plus Soli in Höhe von 5,5% (Gesamtsteuerbelastung in Höhe von 26,375%) sowie Quellensteuer in Höhe 30% auf die Erträge zu zahlen, bezahle ich maximal **15% Quellensteuer**, welche ich auf die fällige Abgeltungssteuer angerechnet wird.
 
 
 Hier ein Beispiel für Dividenden aus den USA:
 
 Angenommen ich bekomme 100 € Dividenden ausgezahlt. Abgeltungssteuer plus Soli ergeben eine Steuerbelastung in Höhe von
-26,38 € (100 - (100 * 0,73625)). Die Quellensteuer beträgt **15%**, also 15 € (100 - (100 * 0,85)). D.h. in Deutschland werden
+26,38 € (100 - (100 * 0,73625)). Die Quellensteuer beträgt **15%**, also 15 €. D.h. in Deutschland werden
 Steuern in Höhe von 11,38 € fällig (26,38 - 15).
 
 
-Die Währungsrisiken kann ich nicht einberechnen, da ich darüber keine Kontrolle habe. Ich
-plane hierfür einfach so, dass ich alles Geld, was unter meinen monatlichen Budget von 400 € liegt als auch bereits erhaltene Dividenden reinvestiere,
+Die Währungsrisiken kann ich nicht einberechnen, da ich darüber keine Kontrolle habe. Es kann also sein,
+dass ich in einem Monat mal mehr mal weniger Dividenden gezahlt bekomme.
+Ich werde versuchen, die bereits erhaltenen Dividenden einfach zu reinvestieren,
 um so monatlich mehr Anteile zu Kaufen und damit die Währungsrisiken abzufedern.
 
 
@@ -103,14 +100,14 @@ Aufgrund der Kursschwankungen und monatlichen Geldanlage, passe ich die Investit
 vor Kauf an. Somit kann es vorkommen, dass ich mal mehr und mal weniger Anteile bekomme.
 
 
-Da ich von einen 13-monatigen Investitionszeitraum, muss der monatliche Geldeingang mindestens ***1,92 €*** betragen (25 / 13).
+Da ich von einen 25-monatigen Investitionszeitraum, muss der monatliche Geldeingang mindestens ***1 €*** betragen.
 
 
-Weil die Transaktionskosten gleich null sein sollen, habe ich
-[Trade Republic](https://traderepublic.com/de-de "Trade Republic") als Online Broker gewählt.
+Als Broker habe ich [Trade Republic](https://traderepublic.com/de-de "Trade Republic") gewählt, da die anfallenden
+Transaktionskosten gleich null sein sollen.
 
 
-## Titelauswahl
+## Die Titelauswahl
 
 Insgesamt habe ich 8 Einzelaktien gewählt: 5 davon sind BDCs, 1 Rohstoff, 1 Medien und 1 erzeugt erneuerbare Energie.
 
@@ -148,10 +145,6 @@ Prospect Capital hat bisher in *121 Unternehmen* aus *39 Industrien* investiert.
 <img src="/prospect_capital_dividenden.png" class="center" alt="Prospect Capital: Dividenden Ausschüttungen"/>
 <div class="right">Prospect Capital: Dividenden Ausschüttungen</div>
 <br>
-
-
-Besonderheiten? Das externe Management besitzt 26% dieser BDC und ist von der Leistung dieser BDC überzeugt.
-
 
 <br>
 <img src="/prospect_capital_management_investment.png" class="center" alt="Prospect Capital Management Invest"/>
@@ -223,7 +216,7 @@ Website                  | https://www.mainstcapital.com/
 
 
 Pembina Pipeline ist ein in Calgary ansässiger Pipelinenbetreiber, welche bereits 1954 gegründet wurde und seit 1998 an
-der Börse notiert ist.  Aktuell arbeiten dort mehr als 2800 Leute und die Firma hat einen Jahresumsatz von 4,6 Mrd. €.
+der Börse notiert ist.  Aktuell arbeiten dort mehr als 2800 Leute und besitzt einen Jahresumsatz von 4,6 Mrd. €.
 
 
 Dividenden werden seit Oktober 2010 monatlich gezahlt und bis heute wurde die Dividende noch nie gekürzt,
@@ -268,7 +261,7 @@ Seitdem Aufkauf wurden die ganzen TV Sender an Corus abgetreten und Shaw fokussi
 die Herstellung kabellosen Geräten, schnelles [Fibre+ Internet](https://www.shaw.ca/internet/fibreplus "Fibre+ Internet") sowie Telekommunikationsnetzwerk [Shaw Mobile](https://www.shawmobile.ca/en-CA "Shaw Mobile").
 
 
-Aktuell arbeiten dort mehr als 9500 Leute und die Firma hat einen Jahresumsatz von 3,5 Mrd. €.
+9500 Leute sind aktuell dort angestellt und die Firma hat einen Jahresumsatz von 3,5 Mrd. €.
 
 
 <br>
@@ -276,7 +269,7 @@ Aktuell arbeiten dort mehr als 9500 Leute und die Firma hat einen Jahresumsatz v
 <div class="right">Shaw Communications: Portfolio</div>
 <br>
 
-Dividende werden seit Oktober 2001 gezahlt (seit März 2005 monatlich )und bis heute wurde diese (bis auf die Finanzkrise 2008) jedes Jahr erhöht.
+Dividende werden seit Oktober 2001 gezahlt (seit März 2005 monatlich) und bis heute wurde diese (bis auf die Finanzkrise 2008) jedes Jahr erhöht.
 
 
 Das eigene Internet- und Kommunikationsnetzwerk wird bereits von über 19 Mio. Kanadier, also ca. 50%
@@ -291,7 +284,7 @@ Dividenden-Historie      | https://www.boersen-zeitung.de/index.php?li=24&l=0&is
 Website                  | https://www.shaw.ca/
 
 
-### TransAlta Renewables (erneuerbare Energien)
+### TransAlta Renewables (erneuerbare Energie)
 
 <br>
 <img src="/transalta_renewables.png" class="center" alt="TransAlta Renewables"/>
@@ -307,7 +300,7 @@ an die Börse. TransAlta selbst ist ein Tochterunternehmen der seit 1909 gegrün
 Die Firma hat einen Umsatz von ca. 193 Mio. €.
 
 
-Dividende wirs seit IPO 2013 monatlich gezahlt und wurde pro Jahr um ca. 4% erhöht. Jedoch blieb die
+Dividenden werden seit IPO 2013 monatlich gezahlt und wurde pro Jahr um ca. 4% erhöht. Jedoch blieb die
 Ausschüttung seit 2017 konstant bei 0,94 CAD. Das liegt daran, dass 2017 und 2018 massiv in neue Anlagen investiert
 wurde und gleichzeitig die Verbindlichkeiten jedes Jahr kontinuierlich weiter abgebaut wurden.
 
@@ -516,7 +509,7 @@ maximal 15% in Deutschland anrechenbar sind):
 
 
 Mit den gewählten Titeln erhalte ich im ersten Monat ein Einkommen in Höhe von 2,07
-€ - also 0,15 € mehr als ich eigentlich brauche.
+€ - also 1,07 € mehr als ich eigentlich brauche.
 
 
 Insgesamt investiere ich 378 € pro Monat und habe noch 22 € als Reserve.
@@ -524,15 +517,18 @@ Insgesamt investiere ich 378 € pro Monat und habe noch 22 € als Reserve.
 
 ## Fazit:
 
-Da die Schwierigkeit bei diesem Experiment in die Unvorhersehbarkeit von Kurswerten als auch der Umrechnung von
-Dollar bzw. Kanadischer Dollar besteht, kann ich die Investition nicht automatisiert laufen
-lassen.
-
-
 Heraklit prägt ja bereits den Satz: "Die einzige Konstante auf der Welt ist Veränderung".
-Spätestens einen Tag vor der nächsten Ausführung muss ich meine Investitionssumme anpassen.
 
 
-Ob die Auswahl der Titel passt und ob meine Annahmen richtig sind, werdet Ihr in einen Jahr sehen.
+Die Schwierigkeit in diesem Experiment liegt in die Unvorhersehbarkeit von Kurswerten, Umrechnung von
+Dollar bzw. Kanadischer Dollar sowie weltweiten Entwicklungen. Folglich kann ich die Investition nicht
+automatisiert laufen lassen.
+
+
+Spätestens einen Tag vor der nächsten Ausführung sollte ich meine Investitionssumme anpassen.
+
+
+Ob die Auswahl der Titel passt und ob meine Annahmen richtig sind, werdet Ihr demnächst sehen.
+
 
 Vielen Dank an [finanzmixerin](https://www.finanzmixerin.de/ "finanzmixerin") und [dividendensparer](https://dividendensparer.de/ "dividendensparer") für das Korrekturlesen des Artikels.
